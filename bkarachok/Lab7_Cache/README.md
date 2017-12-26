@@ -1,0 +1,2 @@
+In this lab, the speed of program execution is increased by speeding up the memory system.
+To evaluate the performance of the processor and the memory system, a program is used that adds all the elements of the two-dimensional array of integers located in the static RAM. The array sizes are defined by the parameters NUM_ROWS and NUM_COLS. A prefetch module is used.
