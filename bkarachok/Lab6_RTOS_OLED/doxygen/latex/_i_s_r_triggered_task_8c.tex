@@ -1,0 +1,59 @@
+\hypertarget{_i_s_r_triggered_task_8c}{}\section{D\+:/\+G\+I\+T/\+The\+Connected\+M\+C\+U\+\_\+\+Labs/bkarachok/\+Lab6\+\_\+\+R\+T\+O\+S\+\_\+\+O\+L\+E\+D/\+I\+S\+R\+Triggered\+Task.c File Reference}
+\label{_i_s_r_triggered_task_8c}\index{D\+:/\+G\+I\+T/\+The\+Connected\+M\+C\+U\+\_\+\+Labs/bkarachok/\+Lab6\+\_\+\+R\+T\+O\+S\+\_\+\+O\+L\+E\+D/\+I\+S\+R\+Triggered\+Task.\+c@{D\+:/\+G\+I\+T/\+The\+Connected\+M\+C\+U\+\_\+\+Labs/bkarachok/\+Lab6\+\_\+\+R\+T\+O\+S\+\_\+\+O\+L\+E\+D/\+I\+S\+R\+Triggered\+Task.\+c}}
+{\ttfamily \#include $<$stdio.\+h$>$}\newline
+{\ttfamily \#include \char`\"{}Free\+R\+T\+O\+S.\+h\char`\"{}}\newline
+{\ttfamily \#include \char`\"{}task.\+h\char`\"{}}\newline
+{\ttfamily \#include \char`\"{}semphr.\+h\char`\"{}}\newline
+{\ttfamily \#include \char`\"{}Par\+Test.\+h\char`\"{}}\newline
+\subsection*{Macros}
+\begin{DoxyCompactItemize}
+\item 
+\#define \hyperlink{_i_s_r_triggered_task_8c_ae03a978c2fc1371784462f9447967531}{main\+I\+S\+R\+\_\+\+T\+R\+I\+G\+G\+E\+R\+E\+D\+\_\+\+L\+ED}~( 1 )
+\item 
+\#define \hyperlink{_i_s_r_triggered_task_8c_ac746376170306b946f4c5cbe5ec2386c}{main\+T5\+P\+R\+E\+S\+C\+A\+L\+AR}~( 6 )
+\item 
+\#define \hyperlink{_i_s_r_triggered_task_8c_ab0f230e3f19b7a6869625c5c5ed273b2}{main\+T5\+\_\+\+S\+E\+M\+A\+P\+H\+O\+R\+E\+\_\+\+R\+A\+TE}~( 31250 )
+\end{DoxyCompactItemize}
+\subsection*{Functions}
+\begin{DoxyCompactItemize}
+\item 
+void \hyperlink{_i_s_r_triggered_task_8c_aa391eb1247a441cc0b33c17728eab9c3}{\+\_\+\+\_\+attribute\+\_\+\+\_\+} ((interrupt(I\+P\+L3\+A\+U\+TO), vector(\+\_\+\+T\+I\+M\+E\+R\+\_\+5\+\_\+\+V\+E\+C\+T\+OR)))
+\item 
+void \hyperlink{_i_s_r_triggered_task_8c_a79996fc8d4abb80b9d72ea27082842cf}{v\+T5\+Interrupt\+Handler} (void)
+\end{DoxyCompactItemize}
+
+
+\subsection{Macro Definition Documentation}
+\mbox{\Hypertarget{_i_s_r_triggered_task_8c_ae03a978c2fc1371784462f9447967531}\label{_i_s_r_triggered_task_8c_ae03a978c2fc1371784462f9447967531}} 
+\index{I\+S\+R\+Triggered\+Task.\+c@{I\+S\+R\+Triggered\+Task.\+c}!main\+I\+S\+R\+\_\+\+T\+R\+I\+G\+G\+E\+R\+E\+D\+\_\+\+L\+ED@{main\+I\+S\+R\+\_\+\+T\+R\+I\+G\+G\+E\+R\+E\+D\+\_\+\+L\+ED}}
+\index{main\+I\+S\+R\+\_\+\+T\+R\+I\+G\+G\+E\+R\+E\+D\+\_\+\+L\+ED@{main\+I\+S\+R\+\_\+\+T\+R\+I\+G\+G\+E\+R\+E\+D\+\_\+\+L\+ED}!I\+S\+R\+Triggered\+Task.\+c@{I\+S\+R\+Triggered\+Task.\+c}}
+\subsubsection{\texorpdfstring{main\+I\+S\+R\+\_\+\+T\+R\+I\+G\+G\+E\+R\+E\+D\+\_\+\+L\+ED}{mainISR\_TRIGGERED\_LED}}
+{\footnotesize\ttfamily \#define main\+I\+S\+R\+\_\+\+T\+R\+I\+G\+G\+E\+R\+E\+D\+\_\+\+L\+ED~( 1 )}
+
+\mbox{\Hypertarget{_i_s_r_triggered_task_8c_ab0f230e3f19b7a6869625c5c5ed273b2}\label{_i_s_r_triggered_task_8c_ab0f230e3f19b7a6869625c5c5ed273b2}} 
+\index{I\+S\+R\+Triggered\+Task.\+c@{I\+S\+R\+Triggered\+Task.\+c}!main\+T5\+\_\+\+S\+E\+M\+A\+P\+H\+O\+R\+E\+\_\+\+R\+A\+TE@{main\+T5\+\_\+\+S\+E\+M\+A\+P\+H\+O\+R\+E\+\_\+\+R\+A\+TE}}
+\index{main\+T5\+\_\+\+S\+E\+M\+A\+P\+H\+O\+R\+E\+\_\+\+R\+A\+TE@{main\+T5\+\_\+\+S\+E\+M\+A\+P\+H\+O\+R\+E\+\_\+\+R\+A\+TE}!I\+S\+R\+Triggered\+Task.\+c@{I\+S\+R\+Triggered\+Task.\+c}}
+\subsubsection{\texorpdfstring{main\+T5\+\_\+\+S\+E\+M\+A\+P\+H\+O\+R\+E\+\_\+\+R\+A\+TE}{mainT5\_SEMAPHORE\_RATE}}
+{\footnotesize\ttfamily \#define main\+T5\+\_\+\+S\+E\+M\+A\+P\+H\+O\+R\+E\+\_\+\+R\+A\+TE~( 31250 )}
+
+\mbox{\Hypertarget{_i_s_r_triggered_task_8c_ac746376170306b946f4c5cbe5ec2386c}\label{_i_s_r_triggered_task_8c_ac746376170306b946f4c5cbe5ec2386c}} 
+\index{I\+S\+R\+Triggered\+Task.\+c@{I\+S\+R\+Triggered\+Task.\+c}!main\+T5\+P\+R\+E\+S\+C\+A\+L\+AR@{main\+T5\+P\+R\+E\+S\+C\+A\+L\+AR}}
+\index{main\+T5\+P\+R\+E\+S\+C\+A\+L\+AR@{main\+T5\+P\+R\+E\+S\+C\+A\+L\+AR}!I\+S\+R\+Triggered\+Task.\+c@{I\+S\+R\+Triggered\+Task.\+c}}
+\subsubsection{\texorpdfstring{main\+T5\+P\+R\+E\+S\+C\+A\+L\+AR}{mainT5PRESCALAR}}
+{\footnotesize\ttfamily \#define main\+T5\+P\+R\+E\+S\+C\+A\+L\+AR~( 6 )}
+
+
+
+\subsection{Function Documentation}
+\mbox{\Hypertarget{_i_s_r_triggered_task_8c_aa391eb1247a441cc0b33c17728eab9c3}\label{_i_s_r_triggered_task_8c_aa391eb1247a441cc0b33c17728eab9c3}} 
+\index{I\+S\+R\+Triggered\+Task.\+c@{I\+S\+R\+Triggered\+Task.\+c}!\+\_\+\+\_\+attribute\+\_\+\+\_\+@{\+\_\+\+\_\+attribute\+\_\+\+\_\+}}
+\index{\+\_\+\+\_\+attribute\+\_\+\+\_\+@{\+\_\+\+\_\+attribute\+\_\+\+\_\+}!I\+S\+R\+Triggered\+Task.\+c@{I\+S\+R\+Triggered\+Task.\+c}}
+\subsubsection{\texorpdfstring{\+\_\+\+\_\+attribute\+\_\+\+\_\+()}{\_\_attribute\_\_()}}
+{\footnotesize\ttfamily void \+\_\+\+\_\+attribute\+\_\+\+\_\+ (\begin{DoxyParamCaption}\item[{(interrupt(I\+P\+L3\+A\+U\+TO), vector(\+\_\+\+T\+I\+M\+E\+R\+\_\+5\+\_\+\+V\+E\+C\+T\+OR))}]{ }\end{DoxyParamCaption})}
+
+\mbox{\Hypertarget{_i_s_r_triggered_task_8c_a79996fc8d4abb80b9d72ea27082842cf}\label{_i_s_r_triggered_task_8c_a79996fc8d4abb80b9d72ea27082842cf}} 
+\index{I\+S\+R\+Triggered\+Task.\+c@{I\+S\+R\+Triggered\+Task.\+c}!v\+T5\+Interrupt\+Handler@{v\+T5\+Interrupt\+Handler}}
+\index{v\+T5\+Interrupt\+Handler@{v\+T5\+Interrupt\+Handler}!I\+S\+R\+Triggered\+Task.\+c@{I\+S\+R\+Triggered\+Task.\+c}}
+\subsubsection{\texorpdfstring{v\+T5\+Interrupt\+Handler()}{vT5InterruptHandler()}}
+{\footnotesize\ttfamily void v\+T5\+Interrupt\+Handler (\begin{DoxyParamCaption}\item[{void}]{ }\end{DoxyParamCaption})}
+

@@ -1,0 +1,57 @@
+\hypertarget{_int_queue_timer_8c}{}\section{D\+:/\+G\+I\+T/\+The\+Connected\+M\+C\+U\+\_\+\+Labs/bkarachok/\+Lab6\+\_\+\+R\+T\+O\+S\+\_\+\+O\+L\+E\+D/\+Int\+Queue\+Timer.c File Reference}
+\label{_int_queue_timer_8c}\index{D\+:/\+G\+I\+T/\+The\+Connected\+M\+C\+U\+\_\+\+Labs/bkarachok/\+Lab6\+\_\+\+R\+T\+O\+S\+\_\+\+O\+L\+E\+D/\+Int\+Queue\+Timer.\+c@{D\+:/\+G\+I\+T/\+The\+Connected\+M\+C\+U\+\_\+\+Labs/bkarachok/\+Lab6\+\_\+\+R\+T\+O\+S\+\_\+\+O\+L\+E\+D/\+Int\+Queue\+Timer.\+c}}
+{\ttfamily \#include \char`\"{}Free\+R\+T\+O\+S.\+h\char`\"{}}\newline
+{\ttfamily \#include \char`\"{}Int\+Queue\+Timer.\+h\char`\"{}}\newline
+{\ttfamily \#include \char`\"{}Int\+Queue.\+h\char`\"{}}\newline
+\subsection*{Macros}
+\begin{DoxyCompactItemize}
+\item 
+\#define \hyperlink{_int_queue_timer_8c_a9d6fef6fda65a29aab6ddb430eed50de}{timer\+I\+N\+T\+E\+R\+R\+U\+P\+T3\+\_\+\+F\+R\+E\+Q\+U\+E\+N\+CY}~( 2000\+U\+L )
+\item 
+\#define \hyperlink{_int_queue_timer_8c_a33478f9d9bf6ae527364c3043efea270}{timer\+I\+N\+T\+E\+R\+R\+U\+P\+T4\+\_\+\+F\+R\+E\+Q\+U\+E\+N\+CY}~( 2001\+U\+L )
+\end{DoxyCompactItemize}
+\subsection*{Functions}
+\begin{DoxyCompactItemize}
+\item 
+void \hyperlink{_int_queue_timer_8c_a360b373990a70511f625c36b7c995dd0}{v\+T3\+Interrupt\+Handler} (void)
+\item 
+void \hyperlink{_int_queue_timer_8c_a3b2f9038d867b2da5891a3c7a11e5ecd}{v\+T4\+Interrupt\+Handler} (void)
+\item 
+void \hyperlink{_int_queue_timer_8c_aeb878f361f59e29835b7787a55098320}{\+\_\+\+\_\+attribute\+\_\+\+\_\+} ((interrupt(I\+P\+L0\+A\+U\+TO), vector(\+\_\+\+T\+I\+M\+E\+R\+\_\+3\+\_\+\+V\+E\+C\+T\+OR)))
+\end{DoxyCompactItemize}
+
+
+\subsection{Macro Definition Documentation}
+\mbox{\Hypertarget{_int_queue_timer_8c_a9d6fef6fda65a29aab6ddb430eed50de}\label{_int_queue_timer_8c_a9d6fef6fda65a29aab6ddb430eed50de}} 
+\index{Int\+Queue\+Timer.\+c@{Int\+Queue\+Timer.\+c}!timer\+I\+N\+T\+E\+R\+R\+U\+P\+T3\+\_\+\+F\+R\+E\+Q\+U\+E\+N\+CY@{timer\+I\+N\+T\+E\+R\+R\+U\+P\+T3\+\_\+\+F\+R\+E\+Q\+U\+E\+N\+CY}}
+\index{timer\+I\+N\+T\+E\+R\+R\+U\+P\+T3\+\_\+\+F\+R\+E\+Q\+U\+E\+N\+CY@{timer\+I\+N\+T\+E\+R\+R\+U\+P\+T3\+\_\+\+F\+R\+E\+Q\+U\+E\+N\+CY}!Int\+Queue\+Timer.\+c@{Int\+Queue\+Timer.\+c}}
+\subsubsection{\texorpdfstring{timer\+I\+N\+T\+E\+R\+R\+U\+P\+T3\+\_\+\+F\+R\+E\+Q\+U\+E\+N\+CY}{timerINTERRUPT3\_FREQUENCY}}
+{\footnotesize\ttfamily \#define timer\+I\+N\+T\+E\+R\+R\+U\+P\+T3\+\_\+\+F\+R\+E\+Q\+U\+E\+N\+CY~( 2000\+U\+L )}
+
+\mbox{\Hypertarget{_int_queue_timer_8c_a33478f9d9bf6ae527364c3043efea270}\label{_int_queue_timer_8c_a33478f9d9bf6ae527364c3043efea270}} 
+\index{Int\+Queue\+Timer.\+c@{Int\+Queue\+Timer.\+c}!timer\+I\+N\+T\+E\+R\+R\+U\+P\+T4\+\_\+\+F\+R\+E\+Q\+U\+E\+N\+CY@{timer\+I\+N\+T\+E\+R\+R\+U\+P\+T4\+\_\+\+F\+R\+E\+Q\+U\+E\+N\+CY}}
+\index{timer\+I\+N\+T\+E\+R\+R\+U\+P\+T4\+\_\+\+F\+R\+E\+Q\+U\+E\+N\+CY@{timer\+I\+N\+T\+E\+R\+R\+U\+P\+T4\+\_\+\+F\+R\+E\+Q\+U\+E\+N\+CY}!Int\+Queue\+Timer.\+c@{Int\+Queue\+Timer.\+c}}
+\subsubsection{\texorpdfstring{timer\+I\+N\+T\+E\+R\+R\+U\+P\+T4\+\_\+\+F\+R\+E\+Q\+U\+E\+N\+CY}{timerINTERRUPT4\_FREQUENCY}}
+{\footnotesize\ttfamily \#define timer\+I\+N\+T\+E\+R\+R\+U\+P\+T4\+\_\+\+F\+R\+E\+Q\+U\+E\+N\+CY~( 2001\+U\+L )}
+
+
+
+\subsection{Function Documentation}
+\mbox{\Hypertarget{_int_queue_timer_8c_aeb878f361f59e29835b7787a55098320}\label{_int_queue_timer_8c_aeb878f361f59e29835b7787a55098320}} 
+\index{Int\+Queue\+Timer.\+c@{Int\+Queue\+Timer.\+c}!\+\_\+\+\_\+attribute\+\_\+\+\_\+@{\+\_\+\+\_\+attribute\+\_\+\+\_\+}}
+\index{\+\_\+\+\_\+attribute\+\_\+\+\_\+@{\+\_\+\+\_\+attribute\+\_\+\+\_\+}!Int\+Queue\+Timer.\+c@{Int\+Queue\+Timer.\+c}}
+\subsubsection{\texorpdfstring{\+\_\+\+\_\+attribute\+\_\+\+\_\+()}{\_\_attribute\_\_()}}
+{\footnotesize\ttfamily void \+\_\+\+\_\+attribute\+\_\+\+\_\+ (\begin{DoxyParamCaption}\item[{(interrupt(I\+P\+L0\+A\+U\+TO), vector(\+\_\+\+T\+I\+M\+E\+R\+\_\+3\+\_\+\+V\+E\+C\+T\+OR))}]{ }\end{DoxyParamCaption})}
+
+\mbox{\Hypertarget{_int_queue_timer_8c_a360b373990a70511f625c36b7c995dd0}\label{_int_queue_timer_8c_a360b373990a70511f625c36b7c995dd0}} 
+\index{Int\+Queue\+Timer.\+c@{Int\+Queue\+Timer.\+c}!v\+T3\+Interrupt\+Handler@{v\+T3\+Interrupt\+Handler}}
+\index{v\+T3\+Interrupt\+Handler@{v\+T3\+Interrupt\+Handler}!Int\+Queue\+Timer.\+c@{Int\+Queue\+Timer.\+c}}
+\subsubsection{\texorpdfstring{v\+T3\+Interrupt\+Handler()}{vT3InterruptHandler()}}
+{\footnotesize\ttfamily void v\+T3\+Interrupt\+Handler (\begin{DoxyParamCaption}\item[{void}]{ }\end{DoxyParamCaption})}
+
+\mbox{\Hypertarget{_int_queue_timer_8c_a3b2f9038d867b2da5891a3c7a11e5ecd}\label{_int_queue_timer_8c_a3b2f9038d867b2da5891a3c7a11e5ecd}} 
+\index{Int\+Queue\+Timer.\+c@{Int\+Queue\+Timer.\+c}!v\+T4\+Interrupt\+Handler@{v\+T4\+Interrupt\+Handler}}
+\index{v\+T4\+Interrupt\+Handler@{v\+T4\+Interrupt\+Handler}!Int\+Queue\+Timer.\+c@{Int\+Queue\+Timer.\+c}}
+\subsubsection{\texorpdfstring{v\+T4\+Interrupt\+Handler()}{vT4InterruptHandler()}}
+{\footnotesize\ttfamily void v\+T4\+Interrupt\+Handler (\begin{DoxyParamCaption}\item[{void}]{ }\end{DoxyParamCaption})}
+

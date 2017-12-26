@@ -1,0 +1,51 @@
+\hypertarget{flop__mz_8c}{}\section{D\+:/\+G\+I\+T/\+The\+Connected\+M\+C\+U\+\_\+\+Labs/bkarachok/\+Lab6\+\_\+\+R\+T\+O\+S\+\_\+\+O\+L\+E\+D/flop\+\_\+mz.c File Reference}
+\label{flop__mz_8c}\index{D\+:/\+G\+I\+T/\+The\+Connected\+M\+C\+U\+\_\+\+Labs/bkarachok/\+Lab6\+\_\+\+R\+T\+O\+S\+\_\+\+O\+L\+E\+D/flop\+\_\+mz.\+c@{D\+:/\+G\+I\+T/\+The\+Connected\+M\+C\+U\+\_\+\+Labs/bkarachok/\+Lab6\+\_\+\+R\+T\+O\+S\+\_\+\+O\+L\+E\+D/flop\+\_\+mz.\+c}}
+{\ttfamily \#include $<$stdlib.\+h$>$}\newline
+{\ttfamily \#include $<$math.\+h$>$}\newline
+{\ttfamily \#include \char`\"{}Free\+R\+T\+O\+S.\+h\char`\"{}}\newline
+{\ttfamily \#include \char`\"{}task.\+h\char`\"{}}\newline
+{\ttfamily \#include \char`\"{}flop\+\_\+mz.\+h\char`\"{}}\newline
+\subsection*{Macros}
+\begin{DoxyCompactItemize}
+\item 
+\#define \hyperlink{flop__mz_8c_a2adadbe18865cbe70ef9776d173cd461}{math\+S\+T\+A\+C\+K\+\_\+\+S\+I\+ZE}~(\hyperlink{_free_r_t_o_s_config_8h_a6c534a6cf8a00528fe0be42083484f9a}{config\+M\+I\+N\+I\+M\+A\+L\+\_\+\+S\+T\+A\+C\+K\+\_\+\+S\+I\+ZE} + 100)
+\item 
+\#define \hyperlink{flop__mz_8c_a60f9991b73e198fb439d441d0be6a681}{math\+N\+U\+M\+B\+E\+R\+\_\+\+O\+F\+\_\+\+T\+A\+S\+KS}~( 8 )
+\end{DoxyCompactItemize}
+\subsection*{Functions}
+\begin{DoxyCompactItemize}
+\item 
+void \hyperlink{flop__mz_8c_a4c8afa0a1d942614fca76884f3dea79d}{v\+Start\+Math\+Tasks} (unsigned \hyperlink{portmacro_8h_a1ebe82d24d764ae4e352f7c3a9f92c01}{port\+B\+A\+S\+E\+\_\+\+T\+Y\+PE} ux\+Priority)
+\item 
+\hyperlink{portmacro_8h_a1ebe82d24d764ae4e352f7c3a9f92c01}{port\+B\+A\+S\+E\+\_\+\+T\+Y\+PE} \hyperlink{flop__mz_8c_ad5173b95989be5b9cf56e1457d5009de}{x\+Are\+Maths\+Task\+Still\+Running} (void)
+\end{DoxyCompactItemize}
+
+
+\subsection{Macro Definition Documentation}
+\mbox{\Hypertarget{flop__mz_8c_a60f9991b73e198fb439d441d0be6a681}\label{flop__mz_8c_a60f9991b73e198fb439d441d0be6a681}} 
+\index{flop\+\_\+mz.\+c@{flop\+\_\+mz.\+c}!math\+N\+U\+M\+B\+E\+R\+\_\+\+O\+F\+\_\+\+T\+A\+S\+KS@{math\+N\+U\+M\+B\+E\+R\+\_\+\+O\+F\+\_\+\+T\+A\+S\+KS}}
+\index{math\+N\+U\+M\+B\+E\+R\+\_\+\+O\+F\+\_\+\+T\+A\+S\+KS@{math\+N\+U\+M\+B\+E\+R\+\_\+\+O\+F\+\_\+\+T\+A\+S\+KS}!flop\+\_\+mz.\+c@{flop\+\_\+mz.\+c}}
+\subsubsection{\texorpdfstring{math\+N\+U\+M\+B\+E\+R\+\_\+\+O\+F\+\_\+\+T\+A\+S\+KS}{mathNUMBER\_OF\_TASKS}}
+{\footnotesize\ttfamily \#define math\+N\+U\+M\+B\+E\+R\+\_\+\+O\+F\+\_\+\+T\+A\+S\+KS~( 8 )}
+
+\mbox{\Hypertarget{flop__mz_8c_a2adadbe18865cbe70ef9776d173cd461}\label{flop__mz_8c_a2adadbe18865cbe70ef9776d173cd461}} 
+\index{flop\+\_\+mz.\+c@{flop\+\_\+mz.\+c}!math\+S\+T\+A\+C\+K\+\_\+\+S\+I\+ZE@{math\+S\+T\+A\+C\+K\+\_\+\+S\+I\+ZE}}
+\index{math\+S\+T\+A\+C\+K\+\_\+\+S\+I\+ZE@{math\+S\+T\+A\+C\+K\+\_\+\+S\+I\+ZE}!flop\+\_\+mz.\+c@{flop\+\_\+mz.\+c}}
+\subsubsection{\texorpdfstring{math\+S\+T\+A\+C\+K\+\_\+\+S\+I\+ZE}{mathSTACK\_SIZE}}
+{\footnotesize\ttfamily \#define math\+S\+T\+A\+C\+K\+\_\+\+S\+I\+ZE~(\hyperlink{_free_r_t_o_s_config_8h_a6c534a6cf8a00528fe0be42083484f9a}{config\+M\+I\+N\+I\+M\+A\+L\+\_\+\+S\+T\+A\+C\+K\+\_\+\+S\+I\+ZE} + 100)}
+
+
+
+\subsection{Function Documentation}
+\mbox{\Hypertarget{flop__mz_8c_a4c8afa0a1d942614fca76884f3dea79d}\label{flop__mz_8c_a4c8afa0a1d942614fca76884f3dea79d}} 
+\index{flop\+\_\+mz.\+c@{flop\+\_\+mz.\+c}!v\+Start\+Math\+Tasks@{v\+Start\+Math\+Tasks}}
+\index{v\+Start\+Math\+Tasks@{v\+Start\+Math\+Tasks}!flop\+\_\+mz.\+c@{flop\+\_\+mz.\+c}}
+\subsubsection{\texorpdfstring{v\+Start\+Math\+Tasks()}{vStartMathTasks()}}
+{\footnotesize\ttfamily void v\+Start\+Math\+Tasks (\begin{DoxyParamCaption}\item[{unsigned \hyperlink{portmacro_8h_a1ebe82d24d764ae4e352f7c3a9f92c01}{port\+B\+A\+S\+E\+\_\+\+T\+Y\+PE}}]{ux\+Priority }\end{DoxyParamCaption})}
+
+\mbox{\Hypertarget{flop__mz_8c_ad5173b95989be5b9cf56e1457d5009de}\label{flop__mz_8c_ad5173b95989be5b9cf56e1457d5009de}} 
+\index{flop\+\_\+mz.\+c@{flop\+\_\+mz.\+c}!x\+Are\+Maths\+Task\+Still\+Running@{x\+Are\+Maths\+Task\+Still\+Running}}
+\index{x\+Are\+Maths\+Task\+Still\+Running@{x\+Are\+Maths\+Task\+Still\+Running}!flop\+\_\+mz.\+c@{flop\+\_\+mz.\+c}}
+\subsubsection{\texorpdfstring{x\+Are\+Maths\+Task\+Still\+Running()}{xAreMathsTaskStillRunning()}}
+{\footnotesize\ttfamily \hyperlink{portmacro_8h_a1ebe82d24d764ae4e352f7c3a9f92c01}{port\+B\+A\+S\+E\+\_\+\+T\+Y\+PE} x\+Are\+Maths\+Task\+Still\+Running (\begin{DoxyParamCaption}\item[{void}]{ }\end{DoxyParamCaption})}
+

@@ -1,0 +1,109 @@
+\hypertarget{main__blinky_8c}{}\section{D\+:/\+G\+I\+T/\+The\+Connected\+M\+C\+U\+\_\+\+Labs/bkarachok/\+Lab6\+\_\+\+R\+T\+O\+S\+\_\+\+O\+L\+E\+D/main\+\_\+blinky.c File Reference}
+\label{main__blinky_8c}\index{D\+:/\+G\+I\+T/\+The\+Connected\+M\+C\+U\+\_\+\+Labs/bkarachok/\+Lab6\+\_\+\+R\+T\+O\+S\+\_\+\+O\+L\+E\+D/main\+\_\+blinky.\+c@{D\+:/\+G\+I\+T/\+The\+Connected\+M\+C\+U\+\_\+\+Labs/bkarachok/\+Lab6\+\_\+\+R\+T\+O\+S\+\_\+\+O\+L\+E\+D/main\+\_\+blinky.\+c}}
+{\ttfamily \#include $<$stdio.\+h$>$}\newline
+{\ttfamily \#include \char`\"{}Free\+R\+T\+O\+S.\+h\char`\"{}}\newline
+{\ttfamily \#include \char`\"{}task.\+h\char`\"{}}\newline
+{\ttfamily \#include \char`\"{}queue.\+h\char`\"{}}\newline
+{\ttfamily \#include \char`\"{}timers.\+h\char`\"{}}\newline
+{\ttfamily \#include \char`\"{}partest.\+h\char`\"{}}\newline
+{\ttfamily \#include \char`\"{}semphr.\+h\char`\"{}}\newline
+\subsection*{Macros}
+\begin{DoxyCompactItemize}
+\item 
+\#define \hyperlink{main__blinky_8c_a748ca2c459d74ec99a987bc8d1c8336d}{main\+Q\+U\+E\+U\+E\+\_\+\+S\+E\+N\+D\+\_\+\+T\+A\+S\+K\+\_\+\+P\+R\+I\+O\+R\+I\+TY}~( tsk\+I\+D\+L\+E\+\_\+\+P\+R\+I\+O\+R\+I\+TY + 1 )
+\item 
+\#define \hyperlink{main__blinky_8c_a35bffbea908e5b8653512506fa459d96}{main\+Q\+U\+E\+U\+E\+\_\+\+R\+E\+C\+E\+I\+V\+E\+\_\+\+T\+A\+S\+K\+\_\+\+P\+R\+I\+O\+R\+I\+TY}~( tsk\+I\+D\+L\+E\+\_\+\+P\+R\+I\+O\+R\+I\+TY + 2 )
+\item 
+\#define \hyperlink{main__blinky_8c_a67fa5b72ea6fb8ae9eef6f50c98136fc}{main\+Q\+U\+E\+U\+E\+\_\+\+S\+E\+N\+D\+\_\+\+F\+R\+E\+Q\+U\+E\+N\+C\+Y\+\_\+\+MS}~( 200 / \hyperlink{portmacro_8h_a554d9322ce7f698a86a22b21234bd8cd}{port\+T\+I\+C\+K\+\_\+\+P\+E\+R\+I\+O\+D\+\_\+\+MS} )
+\item 
+\#define \hyperlink{main__blinky_8c_a03553411c0f5c7ce298291348aed1489}{main\+Q\+U\+E\+U\+E\+\_\+\+L\+E\+N\+G\+TH}~( 1 )
+\item 
+\#define \hyperlink{main__blinky_8c_aabb8d5a8ab4547d6be725bd98daf2d2f}{main\+Q\+U\+E\+U\+E\+\_\+\+S\+E\+N\+D\+\_\+\+P\+A\+R\+A\+M\+E\+T\+ER}~( 0x1111\+U\+L )
+\item 
+\#define \hyperlink{main__blinky_8c_a287d15cce89fa6e48c803ee3c0ac8897}{main\+Q\+U\+E\+U\+E\+\_\+\+R\+E\+C\+E\+I\+V\+E\+\_\+\+P\+A\+R\+A\+M\+E\+T\+ER}~( 0x22\+U\+L )
+\item 
+\#define \hyperlink{main__blinky_8c_a6fc3d64b4c304ebb44830f23bf76bf9b}{main\+B\+L\+I\+N\+K\+Y\+\_\+\+T\+I\+M\+E\+R\+\_\+\+P\+E\+R\+I\+OD}~( 50 / \hyperlink{portmacro_8h_a554d9322ce7f698a86a22b21234bd8cd}{port\+T\+I\+C\+K\+\_\+\+P\+E\+R\+I\+O\+D\+\_\+\+MS} )
+\item 
+\#define \hyperlink{main__blinky_8c_ae0581270b0e26d3c6c1c30ea5d977b39}{main\+T\+A\+S\+K\+S\+\_\+\+L\+ED}~( 1 )
+\item 
+\#define \hyperlink{main__blinky_8c_a5c65d4a11980b2c43aef8ba0cfa5ca3f}{main\+T\+I\+M\+E\+R\+\_\+\+L\+ED}~( 2 )
+\item 
+\#define \hyperlink{main__blinky_8c_a3f3e783c201b1a805260b70df9dc6c68}{main\+D\+O\+N\+T\+\_\+\+B\+L\+O\+CK}~( 0 )
+\end{DoxyCompactItemize}
+\subsection*{Functions}
+\begin{DoxyCompactItemize}
+\item 
+void \hyperlink{main__blinky_8c_a65512bd13aab479a63a98ed356398c76}{main\+\_\+blinky} (void)
+\end{DoxyCompactItemize}
+
+
+\subsection{Macro Definition Documentation}
+\mbox{\Hypertarget{main__blinky_8c_a6fc3d64b4c304ebb44830f23bf76bf9b}\label{main__blinky_8c_a6fc3d64b4c304ebb44830f23bf76bf9b}} 
+\index{main\+\_\+blinky.\+c@{main\+\_\+blinky.\+c}!main\+B\+L\+I\+N\+K\+Y\+\_\+\+T\+I\+M\+E\+R\+\_\+\+P\+E\+R\+I\+OD@{main\+B\+L\+I\+N\+K\+Y\+\_\+\+T\+I\+M\+E\+R\+\_\+\+P\+E\+R\+I\+OD}}
+\index{main\+B\+L\+I\+N\+K\+Y\+\_\+\+T\+I\+M\+E\+R\+\_\+\+P\+E\+R\+I\+OD@{main\+B\+L\+I\+N\+K\+Y\+\_\+\+T\+I\+M\+E\+R\+\_\+\+P\+E\+R\+I\+OD}!main\+\_\+blinky.\+c@{main\+\_\+blinky.\+c}}
+\subsubsection{\texorpdfstring{main\+B\+L\+I\+N\+K\+Y\+\_\+\+T\+I\+M\+E\+R\+\_\+\+P\+E\+R\+I\+OD}{mainBLINKY\_TIMER\_PERIOD}}
+{\footnotesize\ttfamily \#define main\+B\+L\+I\+N\+K\+Y\+\_\+\+T\+I\+M\+E\+R\+\_\+\+P\+E\+R\+I\+OD~( 50 / \hyperlink{portmacro_8h_a554d9322ce7f698a86a22b21234bd8cd}{port\+T\+I\+C\+K\+\_\+\+P\+E\+R\+I\+O\+D\+\_\+\+MS} )}
+
+\mbox{\Hypertarget{main__blinky_8c_a3f3e783c201b1a805260b70df9dc6c68}\label{main__blinky_8c_a3f3e783c201b1a805260b70df9dc6c68}} 
+\index{main\+\_\+blinky.\+c@{main\+\_\+blinky.\+c}!main\+D\+O\+N\+T\+\_\+\+B\+L\+O\+CK@{main\+D\+O\+N\+T\+\_\+\+B\+L\+O\+CK}}
+\index{main\+D\+O\+N\+T\+\_\+\+B\+L\+O\+CK@{main\+D\+O\+N\+T\+\_\+\+B\+L\+O\+CK}!main\+\_\+blinky.\+c@{main\+\_\+blinky.\+c}}
+\subsubsection{\texorpdfstring{main\+D\+O\+N\+T\+\_\+\+B\+L\+O\+CK}{mainDONT\_BLOCK}}
+{\footnotesize\ttfamily \#define main\+D\+O\+N\+T\+\_\+\+B\+L\+O\+CK~( 0 )}
+
+\mbox{\Hypertarget{main__blinky_8c_a03553411c0f5c7ce298291348aed1489}\label{main__blinky_8c_a03553411c0f5c7ce298291348aed1489}} 
+\index{main\+\_\+blinky.\+c@{main\+\_\+blinky.\+c}!main\+Q\+U\+E\+U\+E\+\_\+\+L\+E\+N\+G\+TH@{main\+Q\+U\+E\+U\+E\+\_\+\+L\+E\+N\+G\+TH}}
+\index{main\+Q\+U\+E\+U\+E\+\_\+\+L\+E\+N\+G\+TH@{main\+Q\+U\+E\+U\+E\+\_\+\+L\+E\+N\+G\+TH}!main\+\_\+blinky.\+c@{main\+\_\+blinky.\+c}}
+\subsubsection{\texorpdfstring{main\+Q\+U\+E\+U\+E\+\_\+\+L\+E\+N\+G\+TH}{mainQUEUE\_LENGTH}}
+{\footnotesize\ttfamily \#define main\+Q\+U\+E\+U\+E\+\_\+\+L\+E\+N\+G\+TH~( 1 )}
+
+\mbox{\Hypertarget{main__blinky_8c_a287d15cce89fa6e48c803ee3c0ac8897}\label{main__blinky_8c_a287d15cce89fa6e48c803ee3c0ac8897}} 
+\index{main\+\_\+blinky.\+c@{main\+\_\+blinky.\+c}!main\+Q\+U\+E\+U\+E\+\_\+\+R\+E\+C\+E\+I\+V\+E\+\_\+\+P\+A\+R\+A\+M\+E\+T\+ER@{main\+Q\+U\+E\+U\+E\+\_\+\+R\+E\+C\+E\+I\+V\+E\+\_\+\+P\+A\+R\+A\+M\+E\+T\+ER}}
+\index{main\+Q\+U\+E\+U\+E\+\_\+\+R\+E\+C\+E\+I\+V\+E\+\_\+\+P\+A\+R\+A\+M\+E\+T\+ER@{main\+Q\+U\+E\+U\+E\+\_\+\+R\+E\+C\+E\+I\+V\+E\+\_\+\+P\+A\+R\+A\+M\+E\+T\+ER}!main\+\_\+blinky.\+c@{main\+\_\+blinky.\+c}}
+\subsubsection{\texorpdfstring{main\+Q\+U\+E\+U\+E\+\_\+\+R\+E\+C\+E\+I\+V\+E\+\_\+\+P\+A\+R\+A\+M\+E\+T\+ER}{mainQUEUE\_RECEIVE\_PARAMETER}}
+{\footnotesize\ttfamily \#define main\+Q\+U\+E\+U\+E\+\_\+\+R\+E\+C\+E\+I\+V\+E\+\_\+\+P\+A\+R\+A\+M\+E\+T\+ER~( 0x22\+U\+L )}
+
+\mbox{\Hypertarget{main__blinky_8c_a35bffbea908e5b8653512506fa459d96}\label{main__blinky_8c_a35bffbea908e5b8653512506fa459d96}} 
+\index{main\+\_\+blinky.\+c@{main\+\_\+blinky.\+c}!main\+Q\+U\+E\+U\+E\+\_\+\+R\+E\+C\+E\+I\+V\+E\+\_\+\+T\+A\+S\+K\+\_\+\+P\+R\+I\+O\+R\+I\+TY@{main\+Q\+U\+E\+U\+E\+\_\+\+R\+E\+C\+E\+I\+V\+E\+\_\+\+T\+A\+S\+K\+\_\+\+P\+R\+I\+O\+R\+I\+TY}}
+\index{main\+Q\+U\+E\+U\+E\+\_\+\+R\+E\+C\+E\+I\+V\+E\+\_\+\+T\+A\+S\+K\+\_\+\+P\+R\+I\+O\+R\+I\+TY@{main\+Q\+U\+E\+U\+E\+\_\+\+R\+E\+C\+E\+I\+V\+E\+\_\+\+T\+A\+S\+K\+\_\+\+P\+R\+I\+O\+R\+I\+TY}!main\+\_\+blinky.\+c@{main\+\_\+blinky.\+c}}
+\subsubsection{\texorpdfstring{main\+Q\+U\+E\+U\+E\+\_\+\+R\+E\+C\+E\+I\+V\+E\+\_\+\+T\+A\+S\+K\+\_\+\+P\+R\+I\+O\+R\+I\+TY}{mainQUEUE\_RECEIVE\_TASK\_PRIORITY}}
+{\footnotesize\ttfamily \#define main\+Q\+U\+E\+U\+E\+\_\+\+R\+E\+C\+E\+I\+V\+E\+\_\+\+T\+A\+S\+K\+\_\+\+P\+R\+I\+O\+R\+I\+TY~( tsk\+I\+D\+L\+E\+\_\+\+P\+R\+I\+O\+R\+I\+TY + 2 )}
+
+\mbox{\Hypertarget{main__blinky_8c_a67fa5b72ea6fb8ae9eef6f50c98136fc}\label{main__blinky_8c_a67fa5b72ea6fb8ae9eef6f50c98136fc}} 
+\index{main\+\_\+blinky.\+c@{main\+\_\+blinky.\+c}!main\+Q\+U\+E\+U\+E\+\_\+\+S\+E\+N\+D\+\_\+\+F\+R\+E\+Q\+U\+E\+N\+C\+Y\+\_\+\+MS@{main\+Q\+U\+E\+U\+E\+\_\+\+S\+E\+N\+D\+\_\+\+F\+R\+E\+Q\+U\+E\+N\+C\+Y\+\_\+\+MS}}
+\index{main\+Q\+U\+E\+U\+E\+\_\+\+S\+E\+N\+D\+\_\+\+F\+R\+E\+Q\+U\+E\+N\+C\+Y\+\_\+\+MS@{main\+Q\+U\+E\+U\+E\+\_\+\+S\+E\+N\+D\+\_\+\+F\+R\+E\+Q\+U\+E\+N\+C\+Y\+\_\+\+MS}!main\+\_\+blinky.\+c@{main\+\_\+blinky.\+c}}
+\subsubsection{\texorpdfstring{main\+Q\+U\+E\+U\+E\+\_\+\+S\+E\+N\+D\+\_\+\+F\+R\+E\+Q\+U\+E\+N\+C\+Y\+\_\+\+MS}{mainQUEUE\_SEND\_FREQUENCY\_MS}}
+{\footnotesize\ttfamily \#define main\+Q\+U\+E\+U\+E\+\_\+\+S\+E\+N\+D\+\_\+\+F\+R\+E\+Q\+U\+E\+N\+C\+Y\+\_\+\+MS~( 200 / \hyperlink{portmacro_8h_a554d9322ce7f698a86a22b21234bd8cd}{port\+T\+I\+C\+K\+\_\+\+P\+E\+R\+I\+O\+D\+\_\+\+MS} )}
+
+\mbox{\Hypertarget{main__blinky_8c_aabb8d5a8ab4547d6be725bd98daf2d2f}\label{main__blinky_8c_aabb8d5a8ab4547d6be725bd98daf2d2f}} 
+\index{main\+\_\+blinky.\+c@{main\+\_\+blinky.\+c}!main\+Q\+U\+E\+U\+E\+\_\+\+S\+E\+N\+D\+\_\+\+P\+A\+R\+A\+M\+E\+T\+ER@{main\+Q\+U\+E\+U\+E\+\_\+\+S\+E\+N\+D\+\_\+\+P\+A\+R\+A\+M\+E\+T\+ER}}
+\index{main\+Q\+U\+E\+U\+E\+\_\+\+S\+E\+N\+D\+\_\+\+P\+A\+R\+A\+M\+E\+T\+ER@{main\+Q\+U\+E\+U\+E\+\_\+\+S\+E\+N\+D\+\_\+\+P\+A\+R\+A\+M\+E\+T\+ER}!main\+\_\+blinky.\+c@{main\+\_\+blinky.\+c}}
+\subsubsection{\texorpdfstring{main\+Q\+U\+E\+U\+E\+\_\+\+S\+E\+N\+D\+\_\+\+P\+A\+R\+A\+M\+E\+T\+ER}{mainQUEUE\_SEND\_PARAMETER}}
+{\footnotesize\ttfamily \#define main\+Q\+U\+E\+U\+E\+\_\+\+S\+E\+N\+D\+\_\+\+P\+A\+R\+A\+M\+E\+T\+ER~( 0x1111\+U\+L )}
+
+\mbox{\Hypertarget{main__blinky_8c_a748ca2c459d74ec99a987bc8d1c8336d}\label{main__blinky_8c_a748ca2c459d74ec99a987bc8d1c8336d}} 
+\index{main\+\_\+blinky.\+c@{main\+\_\+blinky.\+c}!main\+Q\+U\+E\+U\+E\+\_\+\+S\+E\+N\+D\+\_\+\+T\+A\+S\+K\+\_\+\+P\+R\+I\+O\+R\+I\+TY@{main\+Q\+U\+E\+U\+E\+\_\+\+S\+E\+N\+D\+\_\+\+T\+A\+S\+K\+\_\+\+P\+R\+I\+O\+R\+I\+TY}}
+\index{main\+Q\+U\+E\+U\+E\+\_\+\+S\+E\+N\+D\+\_\+\+T\+A\+S\+K\+\_\+\+P\+R\+I\+O\+R\+I\+TY@{main\+Q\+U\+E\+U\+E\+\_\+\+S\+E\+N\+D\+\_\+\+T\+A\+S\+K\+\_\+\+P\+R\+I\+O\+R\+I\+TY}!main\+\_\+blinky.\+c@{main\+\_\+blinky.\+c}}
+\subsubsection{\texorpdfstring{main\+Q\+U\+E\+U\+E\+\_\+\+S\+E\+N\+D\+\_\+\+T\+A\+S\+K\+\_\+\+P\+R\+I\+O\+R\+I\+TY}{mainQUEUE\_SEND\_TASK\_PRIORITY}}
+{\footnotesize\ttfamily \#define main\+Q\+U\+E\+U\+E\+\_\+\+S\+E\+N\+D\+\_\+\+T\+A\+S\+K\+\_\+\+P\+R\+I\+O\+R\+I\+TY~( tsk\+I\+D\+L\+E\+\_\+\+P\+R\+I\+O\+R\+I\+TY + 1 )}
+
+\mbox{\Hypertarget{main__blinky_8c_ae0581270b0e26d3c6c1c30ea5d977b39}\label{main__blinky_8c_ae0581270b0e26d3c6c1c30ea5d977b39}} 
+\index{main\+\_\+blinky.\+c@{main\+\_\+blinky.\+c}!main\+T\+A\+S\+K\+S\+\_\+\+L\+ED@{main\+T\+A\+S\+K\+S\+\_\+\+L\+ED}}
+\index{main\+T\+A\+S\+K\+S\+\_\+\+L\+ED@{main\+T\+A\+S\+K\+S\+\_\+\+L\+ED}!main\+\_\+blinky.\+c@{main\+\_\+blinky.\+c}}
+\subsubsection{\texorpdfstring{main\+T\+A\+S\+K\+S\+\_\+\+L\+ED}{mainTASKS\_LED}}
+{\footnotesize\ttfamily \#define main\+T\+A\+S\+K\+S\+\_\+\+L\+ED~( 1 )}
+
+\mbox{\Hypertarget{main__blinky_8c_a5c65d4a11980b2c43aef8ba0cfa5ca3f}\label{main__blinky_8c_a5c65d4a11980b2c43aef8ba0cfa5ca3f}} 
+\index{main\+\_\+blinky.\+c@{main\+\_\+blinky.\+c}!main\+T\+I\+M\+E\+R\+\_\+\+L\+ED@{main\+T\+I\+M\+E\+R\+\_\+\+L\+ED}}
+\index{main\+T\+I\+M\+E\+R\+\_\+\+L\+ED@{main\+T\+I\+M\+E\+R\+\_\+\+L\+ED}!main\+\_\+blinky.\+c@{main\+\_\+blinky.\+c}}
+\subsubsection{\texorpdfstring{main\+T\+I\+M\+E\+R\+\_\+\+L\+ED}{mainTIMER\_LED}}
+{\footnotesize\ttfamily \#define main\+T\+I\+M\+E\+R\+\_\+\+L\+ED~( 2 )}
+
+
+
+\subsection{Function Documentation}
+\mbox{\Hypertarget{main__blinky_8c_a65512bd13aab479a63a98ed356398c76}\label{main__blinky_8c_a65512bd13aab479a63a98ed356398c76}} 
+\index{main\+\_\+blinky.\+c@{main\+\_\+blinky.\+c}!main\+\_\+blinky@{main\+\_\+blinky}}
+\index{main\+\_\+blinky@{main\+\_\+blinky}!main\+\_\+blinky.\+c@{main\+\_\+blinky.\+c}}
+\subsubsection{\texorpdfstring{main\+\_\+blinky()}{main\_blinky()}}
+{\footnotesize\ttfamily void main\+\_\+blinky (\begin{DoxyParamCaption}\item[{void}]{ }\end{DoxyParamCaption})}
+

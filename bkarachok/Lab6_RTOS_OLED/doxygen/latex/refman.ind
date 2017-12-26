@@ -1,0 +1,1403 @@
+\begin{theindex}
+
+  \item {\$f0}
+    \subitem {I\+S\+R\+\_\+\+Support.\+h}, \hyperpage{22}
+  \item {\$f31}
+    \subitem {I\+S\+R\+\_\+\+Support.\+h}, \hyperpage{22}
+  \item {\+\_\+\+\_\+attribute\+\_\+\+\_\+}
+    \subitem {I\+S\+R\+Triggered\+Task.\+c}, \hyperpage{30}
+    \subitem {Int\+Queue\+Timer.\+c}, \hyperpage{17}
+    \subitem {port.\+c}, \hyperpage{69}
+    \subitem {timertest.\+c}, \hyperpage{80}
+  \item {\+\_\+general\+\_\+exception\+\_\+handler}
+    \subitem {main.\+c}, \hyperpage{31}
+
+  \indexspace
+
+  \item {a0}
+    \subitem {I\+S\+R\+\_\+\+Support.\+h}, \hyperpage{23}
+  \item {a1}
+    \subitem {I\+S\+R\+\_\+\+Support.\+h}, \hyperpage{23}
+  \item {a2}
+    \subitem {I\+S\+R\+\_\+\+Support.\+h}, \hyperpage{23}
+  \item {a3}
+    \subitem {I\+S\+R\+\_\+\+Support.\+h}, \hyperpage{23}
+
+  \indexspace
+
+  \item {B\+I\+O\+S\+\_\+\+L\+D1\+\_\+\+P\+O\+R\+T\+\_\+\+B\+IT}
+    \subitem {user.\+h}, \hyperpage{85}
+  \item {B\+I\+O\+S\+\_\+\+L\+D2\+\_\+\+P\+O\+R\+T\+\_\+\+B\+IT}
+    \subitem {user.\+h}, \hyperpage{85}
+  \item {B\+I\+O\+S\+\_\+\+L\+D3\+\_\+\+P\+O\+R\+T\+\_\+\+B\+IT}
+    \subitem {user.\+h}, \hyperpage{85}
+  \item {B\+I\+O\+S\+\_\+\+L\+D4\+\_\+\+P\+O\+R\+T\+\_\+\+B\+IT}
+    \subitem {user.\+h}, \hyperpage{86}
+  \item {B\+I\+O\+S\+\_\+\+L\+D5\+\_\+\+P\+O\+R\+T\+\_\+\+B\+IT}
+    \subitem {user.\+h}, \hyperpage{86}
+  \item {B\+I\+O\+S\+\_\+\+L\+D6\+\_\+\+P\+O\+R\+T\+\_\+\+B\+IT}
+    \subitem {user.\+h}, \hyperpage{86}
+  \item {B\+I\+O\+S\+\_\+\+L\+D7\+\_\+\+P\+O\+R\+T\+\_\+\+B\+IT}
+    \subitem {user.\+h}, \hyperpage{86}
+  \item {B\+I\+O\+S\+\_\+\+L\+D8\+\_\+\+P\+O\+R\+T\+\_\+\+B\+IT}
+    \subitem {user.\+h}, \hyperpage{86}
+  \item {B\+T\+N1}
+    \subitem {user.\+h}, \hyperpage{86}
+  \item {B\+T\+N2}
+    \subitem {user.\+h}, \hyperpage{86}
+  \item {B\+T\+N3}
+    \subitem {user.\+h}, \hyperpage{86}
+  \item {B\+T\+N4}
+    \subitem {user.\+h}, \hyperpage{87}
+  \item {B\+Y\+TE}
+    \subitem {O\+L\+E\+D.\+h}, \hyperpage{46}
+  \item {Base\+Type\+\_\+t}
+    \subitem {portmacro.\+h}, \hyperpage{77}
+  \item {bit\+Data\+Cmd}
+    \subitem {O\+L\+E\+D.\+h}, \hyperpage{43}
+  \item {bit\+Reset}
+    \subitem {O\+L\+E\+D.\+h}, \hyperpage{44}
+  \item {bit\+Vbat\+Ctrl}
+    \subitem {O\+L\+E\+D.\+h}, \hyperpage{44}
+  \item {bit\+Vdd\+Ctrl}
+    \subitem {O\+L\+E\+D.\+h}, \hyperpage{44}
+  \item {bn\+Oled\+Cur}
+    \subitem {O\+L\+E\+D.\+c}, \hyperpage{40}
+    \subitem {Oled\+Char.\+c}, \hyperpage{51}
+    \subitem {Oled\+Grph.\+c}, \hyperpage{60}
+
+  \indexspace
+
+  \item {cb\+Oled\+Char}
+    \subitem {O\+L\+E\+D.\+h}, \hyperpage{44}
+  \item {cb\+Oled\+Disp\+Max}
+    \subitem {O\+L\+E\+D.\+h}, \hyperpage{44}
+  \item {cb\+Oled\+Font\+User}
+    \subitem {O\+L\+E\+D.\+h}, \hyperpage{44}
+  \item {ccol\+Oled\+Max}
+    \subitem {O\+L\+E\+D.\+h}, \hyperpage{44}
+  \item {ch\+Oled\+User\+Max}
+    \subitem {O\+L\+E\+D.\+h}, \hyperpage{44}
+  \item {Chr\+Font0.\+c}
+    \subitem {rgb\+Oled\+Font0}, \hyperpage{5}
+  \item {Clock\+Task}
+    \subitem {user.\+h}, \hyperpage{88}
+  \item {clr\+Oled\+Cur}
+    \subitem {O\+L\+E\+D.\+c}, \hyperpage{40}
+    \subitem {Oled\+Grph.\+c}, \hyperpage{60}
+  \item {cmd\+Oled\+Com\+Config}
+    \subitem {O\+L\+E\+D.\+c}, \hyperpage{38}
+  \item {cmd\+Oled\+Com\+Dir}
+    \subitem {O\+L\+E\+D.\+c}, \hyperpage{39}
+  \item {cmd\+Oled\+Display\+Off}
+    \subitem {O\+L\+E\+D.\+c}, \hyperpage{39}
+  \item {cmd\+Oled\+Display\+On}
+    \subitem {O\+L\+E\+D.\+c}, \hyperpage{39}
+  \item {cmd\+Oled\+Seg\+Remap}
+    \subitem {O\+L\+E\+D.\+c}, \hyperpage{39}
+  \item {config\+A\+S\+S\+E\+RT}
+    \subitem {Free\+R\+T\+O\+S\+Config.\+h}, \hyperpage{10}
+  \item {config\+C\+H\+E\+C\+K\+\_\+\+F\+O\+R\+\_\+\+S\+T\+A\+C\+K\+\_\+\+O\+V\+E\+R\+F\+L\+OW}
+    \subitem {Free\+R\+T\+O\+S\+Config.\+h}, \hyperpage{11}
+  \item {config\+C\+L\+E\+A\+R\+\_\+\+T\+I\+C\+K\+\_\+\+T\+I\+M\+E\+R\+\_\+\+I\+N\+T\+E\+R\+R\+U\+PT}
+    \subitem {port.\+c}, \hyperpage{67}
+  \item {config\+C\+P\+U\+\_\+\+C\+L\+O\+C\+K\+\_\+\+HZ}
+    \subitem {Free\+R\+T\+O\+S\+Config.\+h}, \hyperpage{11}
+  \item {config\+G\+E\+N\+E\+R\+A\+T\+E\+\_\+\+R\+U\+N\+\_\+\+T\+I\+M\+E\+\_\+\+S\+T\+A\+TS}
+    \subitem {Free\+R\+T\+O\+S\+Config.\+h}, \hyperpage{11}
+  \item {config\+I\+D\+L\+E\+\_\+\+S\+H\+O\+U\+L\+D\+\_\+\+Y\+I\+E\+LD}
+    \subitem {Free\+R\+T\+O\+S\+Config.\+h}, \hyperpage{11}
+  \item {config\+I\+S\+R\+\_\+\+S\+T\+A\+C\+K\+\_\+\+S\+I\+ZE}
+    \subitem {Free\+R\+T\+O\+S\+Config.\+h}, \hyperpage{11}
+  \item {config\+K\+E\+R\+N\+E\+L\+\_\+\+I\+N\+T\+E\+R\+R\+U\+P\+T\+\_\+\+P\+R\+I\+O\+R\+I\+TY}
+    \subitem {Free\+R\+T\+O\+S\+Config.\+h}, \hyperpage{11}
+  \item {config\+M\+A\+X\+\_\+\+C\+O\+\_\+\+R\+O\+U\+T\+I\+N\+E\+\_\+\+P\+R\+I\+O\+R\+I\+T\+I\+ES}
+    \subitem {Free\+R\+T\+O\+S\+Config.\+h}, \hyperpage{11}
+  \item {config\+M\+A\+X\+\_\+\+P\+R\+I\+O\+R\+I\+T\+I\+ES}
+    \subitem {Free\+R\+T\+O\+S\+Config.\+h}, \hyperpage{12}
+  \item {config\+M\+A\+X\+\_\+\+S\+Y\+S\+C\+A\+L\+L\+\_\+\+I\+N\+T\+E\+R\+R\+U\+P\+T\+\_\+\+P\+R\+I\+O\+R\+I\+TY}
+    \subitem {Free\+R\+T\+O\+S\+Config.\+h}, \hyperpage{12}
+  \item {config\+M\+A\+X\+\_\+\+T\+A\+S\+K\+\_\+\+N\+A\+M\+E\+\_\+\+L\+EN}
+    \subitem {Free\+R\+T\+O\+S\+Config.\+h}, \hyperpage{12}
+  \item {config\+M\+I\+N\+I\+M\+A\+L\+\_\+\+S\+T\+A\+C\+K\+\_\+\+S\+I\+ZE}
+    \subitem {Free\+R\+T\+O\+S\+Config.\+h}, \hyperpage{12}
+  \item {config\+P\+E\+R\+I\+P\+H\+E\+R\+A\+L\+\_\+\+C\+L\+O\+C\+K\+\_\+\+HZ}
+    \subitem {Free\+R\+T\+O\+S\+Config.\+h}, \hyperpage{12}
+  \item {Config\+Performance.\+c}
+    \subitem {hw\+U\+N\+L\+O\+C\+K\+\_\+\+K\+E\+Y\+\_\+0}, 
+		\hyperpage{6}
+    \subitem {hw\+U\+N\+L\+O\+C\+K\+\_\+\+K\+E\+Y\+\_\+1}, 
+		\hyperpage{6}
+    \subitem {v\+Hardware\+Configure\+Performance}, \hyperpage{6}
+    \subitem {v\+Hardware\+Use\+Multi\+Vectored\+Interrupts}, 
+		\hyperpage{6}
+  \item {Config\+Performance.\+h}
+    \subitem {v\+Hardware\+Configure\+Performance}, \hyperpage{7}
+    \subitem {v\+Hardware\+Use\+Multi\+Vectored\+Interrupts}, 
+		\hyperpage{7}
+  \item {config\+Q\+U\+E\+U\+E\+\_\+\+R\+E\+G\+I\+S\+T\+R\+Y\+\_\+\+S\+I\+ZE}
+    \subitem {Free\+R\+T\+O\+S\+Config.\+h}, \hyperpage{12}
+  \item {config\+T\+I\+C\+K\+\_\+\+I\+N\+T\+E\+R\+R\+U\+P\+T\+\_\+\+V\+E\+C\+T\+OR}
+    \subitem {port.\+c}, \hyperpage{67}
+  \item {config\+T\+I\+C\+K\+\_\+\+R\+A\+T\+E\+\_\+\+HZ}
+    \subitem {Free\+R\+T\+O\+S\+Config.\+h}, \hyperpage{12}
+  \item {config\+T\+I\+M\+E\+R\+\_\+\+Q\+U\+E\+U\+E\+\_\+\+L\+E\+N\+G\+TH}
+    \subitem {Free\+R\+T\+O\+S\+Config.\+h}, \hyperpage{12}
+  \item {config\+T\+I\+M\+E\+R\+\_\+\+T\+A\+S\+K\+\_\+\+P\+R\+I\+O\+R\+I\+TY}
+    \subitem {Free\+R\+T\+O\+S\+Config.\+h}, \hyperpage{13}
+  \item {config\+T\+I\+M\+E\+R\+\_\+\+T\+A\+S\+K\+\_\+\+S\+T\+A\+C\+K\+\_\+\+D\+E\+P\+TH}
+    \subitem {Free\+R\+T\+O\+S\+Config.\+h}, \hyperpage{13}
+  \item {config\+T\+O\+T\+A\+L\+\_\+\+H\+E\+A\+P\+\_\+\+S\+I\+ZE}
+    \subitem {Free\+R\+T\+O\+S\+Config.\+h}, \hyperpage{13}
+  \item {config\+U\+S\+E\+\_\+16\+\_\+\+B\+I\+T\+\_\+\+T\+I\+C\+KS}
+    \subitem {Free\+R\+T\+O\+S\+Config.\+h}, \hyperpage{13}
+  \item {config\+U\+S\+E\+\_\+\+A\+P\+P\+L\+I\+C\+A\+T\+I\+O\+N\+\_\+\+T\+A\+S\+K\+\_\+\+T\+AG}
+    \subitem {Free\+R\+T\+O\+S\+Config.\+h}, \hyperpage{13}
+  \item {config\+U\+S\+E\+\_\+\+C\+O\+\_\+\+R\+O\+U\+T\+I\+N\+ES}
+    \subitem {Free\+R\+T\+O\+S\+Config.\+h}, \hyperpage{13}
+  \item {config\+U\+S\+E\+\_\+\+C\+O\+U\+N\+T\+I\+N\+G\+\_\+\+S\+E\+M\+A\+P\+H\+O\+R\+ES}
+    \subitem {Free\+R\+T\+O\+S\+Config.\+h}, \hyperpage{13}
+  \item {config\+U\+S\+E\+\_\+\+I\+D\+L\+E\+\_\+\+H\+O\+OK}
+    \subitem {Free\+R\+T\+O\+S\+Config.\+h}, \hyperpage{13}
+  \item {config\+U\+S\+E\+\_\+\+M\+A\+L\+L\+O\+C\+\_\+\+F\+A\+I\+L\+E\+D\+\_\+\+H\+O\+OK}
+    \subitem {Free\+R\+T\+O\+S\+Config.\+h}, \hyperpage{14}
+  \item {config\+U\+S\+E\+\_\+\+M\+U\+T\+E\+X\+ES}
+    \subitem {Free\+R\+T\+O\+S\+Config.\+h}, \hyperpage{14}
+  \item {config\+U\+S\+E\+\_\+\+P\+O\+R\+T\+\_\+\+O\+P\+T\+I\+M\+I\+S\+E\+D\+\_\+\+T\+A\+S\+K\+\_\+\+S\+E\+L\+E\+C\+T\+I\+ON}
+    \subitem {Free\+R\+T\+O\+S\+Config.\+h}, \hyperpage{14}
+    \subitem {portmacro.\+h}, \hyperpage{72}
+  \item {config\+U\+S\+E\+\_\+\+P\+R\+E\+E\+M\+P\+T\+I\+ON}
+    \subitem {Free\+R\+T\+O\+S\+Config.\+h}, \hyperpage{14}
+  \item {config\+U\+S\+E\+\_\+\+Q\+U\+E\+U\+E\+\_\+\+S\+E\+TS}
+    \subitem {Free\+R\+T\+O\+S\+Config.\+h}, \hyperpage{14}
+  \item {config\+U\+S\+E\+\_\+\+R\+E\+C\+U\+R\+S\+I\+V\+E\+\_\+\+M\+U\+T\+E\+X\+ES}
+    \subitem {Free\+R\+T\+O\+S\+Config.\+h}, \hyperpage{14}
+  \item {config\+U\+S\+E\+\_\+\+T\+I\+C\+K\+\_\+\+H\+O\+OK}
+    \subitem {Free\+R\+T\+O\+S\+Config.\+h}, \hyperpage{14}
+  \item {config\+U\+S\+E\+\_\+\+T\+I\+M\+E\+RS}
+    \subitem {Free\+R\+T\+O\+S\+Config.\+h}, \hyperpage{14}
+  \item {config\+U\+S\+E\+\_\+\+T\+R\+A\+C\+E\+\_\+\+F\+A\+C\+I\+L\+I\+TY}
+    \subitem {Free\+R\+T\+O\+S\+Config.\+h}, \hyperpage{15}
+  \item {cpag\+Oled\+Max}
+    \subitem {O\+L\+E\+D.\+h}, \hyperpage{45}
+  \item {crow\+Oled\+Max}
+    \subitem {O\+L\+E\+D.\+h}, \hyperpage{45}
+
+  \indexspace
+
+  \item {D\+:/\+G\+I\+T/\+The\+Connected\+M\+C\+U\+\_\+\+Labs/bkarachok/\+Lab6\+\_\+\+R\+T\+O\+S\+\_\+\+O\+L\+E\+D/\+Chr\+Font0.\+c}, 
+		\hyperpage{5}
+  \item {D\+:/\+G\+I\+T/\+The\+Connected\+M\+C\+U\+\_\+\+Labs/bkarachok/\+Lab6\+\_\+\+R\+T\+O\+S\+\_\+\+O\+L\+E\+D/\+Config\+Performance.\+c}, 
+		\hyperpage{5}
+  \item {D\+:/\+G\+I\+T/\+The\+Connected\+M\+C\+U\+\_\+\+Labs/bkarachok/\+Lab6\+\_\+\+R\+T\+O\+S\+\_\+\+O\+L\+E\+D/\+Config\+Performance.\+h}, 
+		\hyperpage{6}
+  \item {D\+:/\+G\+I\+T/\+The\+Connected\+M\+C\+U\+\_\+\+Labs/bkarachok/\+Lab6\+\_\+\+R\+T\+O\+S\+\_\+\+O\+L\+E\+D/\+Fill\+Pat.\+c}, 
+		\hyperpage{7}
+  \item {D\+:/\+G\+I\+T/\+The\+Connected\+M\+C\+U\+\_\+\+Labs/bkarachok/\+Lab6\+\_\+\+R\+T\+O\+S\+\_\+\+O\+L\+E\+D/\+Free\+R\+T\+O\+S\+Config.\+h}, 
+		\hyperpage{9}
+  \item {D\+:/\+G\+I\+T/\+The\+Connected\+M\+C\+U\+\_\+\+Labs/bkarachok/\+Lab6\+\_\+\+R\+T\+O\+S\+\_\+\+O\+L\+E\+D/\+I\+S\+R\+\_\+\+Support.\+h}, 
+		\hyperpage{18}
+  \item {D\+:/\+G\+I\+T/\+The\+Connected\+M\+C\+U\+\_\+\+Labs/bkarachok/\+Lab6\+\_\+\+R\+T\+O\+S\+\_\+\+O\+L\+E\+D/\+I\+S\+R\+Triggered\+Task.\+c}, 
+		\hyperpage{30}
+  \item {D\+:/\+G\+I\+T/\+The\+Connected\+M\+C\+U\+\_\+\+Labs/bkarachok/\+Lab6\+\_\+\+R\+T\+O\+S\+\_\+\+O\+L\+E\+D/\+Int\+Queue\+Timer.\+c}, 
+		\hyperpage{16}
+  \item {D\+:/\+G\+I\+T/\+The\+Connected\+M\+C\+U\+\_\+\+Labs/bkarachok/\+Lab6\+\_\+\+R\+T\+O\+S\+\_\+\+O\+L\+E\+D/\+Int\+Queue\+Timer.\+h}, 
+		\hyperpage{18}
+  \item {D\+:/\+G\+I\+T/\+The\+Connected\+M\+C\+U\+\_\+\+Labs/bkarachok/\+Lab6\+\_\+\+R\+T\+O\+S\+\_\+\+O\+L\+E\+D/\+O\+L\+E\+D.\+c}, 
+		\hyperpage{38}
+  \item {D\+:/\+G\+I\+T/\+The\+Connected\+M\+C\+U\+\_\+\+Labs/bkarachok/\+Lab6\+\_\+\+R\+T\+O\+S\+\_\+\+O\+L\+E\+D/\+O\+L\+E\+D.\+h}, 
+		\hyperpage{42}
+  \item {D\+:/\+G\+I\+T/\+The\+Connected\+M\+C\+U\+\_\+\+Labs/bkarachok/\+Lab6\+\_\+\+R\+T\+O\+S\+\_\+\+O\+L\+E\+D/\+Oled\+Char.\+c}, 
+		\hyperpage{49}
+  \item {D\+:/\+G\+I\+T/\+The\+Connected\+M\+C\+U\+\_\+\+Labs/bkarachok/\+Lab6\+\_\+\+R\+T\+O\+S\+\_\+\+O\+L\+E\+D/\+Oled\+Char.\+h}, 
+		\hyperpage{53}
+  \item {D\+:/\+G\+I\+T/\+The\+Connected\+M\+C\+U\+\_\+\+Labs/bkarachok/\+Lab6\+\_\+\+R\+T\+O\+S\+\_\+\+O\+L\+E\+D/\+Oled\+Grph.\+c}, 
+		\hyperpage{54}
+  \item {D\+:/\+G\+I\+T/\+The\+Connected\+M\+C\+U\+\_\+\+Labs/bkarachok/\+Lab6\+\_\+\+R\+T\+O\+S\+\_\+\+O\+L\+E\+D/\+Oled\+Grph.\+h}, 
+		\hyperpage{62}
+  \item {D\+:/\+G\+I\+T/\+The\+Connected\+M\+C\+U\+\_\+\+Labs/bkarachok/\+Lab6\+\_\+\+R\+T\+O\+S\+\_\+\+O\+L\+E\+D/\+Par\+Test.\+c}, 
+		\hyperpage{65}
+  \item {D\+:/\+G\+I\+T/\+The\+Connected\+M\+C\+U\+\_\+\+Labs/bkarachok/\+Lab6\+\_\+\+R\+T\+O\+S\+\_\+\+O\+L\+E\+D/\+R\+E\+A\+D\+M\+E.\+md}, 
+		\hyperpage{79}
+  \item {D\+:/\+G\+I\+T/\+The\+Connected\+M\+C\+U\+\_\+\+Labs/bkarachok/\+Lab6\+\_\+\+R\+T\+O\+S\+\_\+\+O\+L\+E\+D/\+S\+P\+I.\+c}, 
+		\hyperpage{79}
+  \item {D\+:/\+G\+I\+T/\+The\+Connected\+M\+C\+U\+\_\+\+Labs/bkarachok/\+Lab6\+\_\+\+R\+T\+O\+S\+\_\+\+O\+L\+E\+D/\+U\+A\+R\+T.\+c}, 
+		\hyperpage{81}
+  \item {D\+:/\+G\+I\+T/\+The\+Connected\+M\+C\+U\+\_\+\+Labs/bkarachok/\+Lab6\+\_\+\+R\+T\+O\+S\+\_\+\+O\+L\+E\+D/\+U\+A\+R\+T.\+h}, 
+		\hyperpage{82}
+  \item {D\+:/\+G\+I\+T/\+The\+Connected\+M\+C\+U\+\_\+\+Labs/bkarachok/\+Lab6\+\_\+\+R\+T\+O\+S\+\_\+\+O\+L\+E\+D/flop\+\_\+mz.\+c}, 
+		\hyperpage{8}
+  \item {D\+:/\+G\+I\+T/\+The\+Connected\+M\+C\+U\+\_\+\+Labs/bkarachok/\+Lab6\+\_\+\+R\+T\+O\+S\+\_\+\+O\+L\+E\+D/flop\+\_\+mz.\+h}, 
+		\hyperpage{9}
+  \item {D\+:/\+G\+I\+T/\+The\+Connected\+M\+C\+U\+\_\+\+Labs/bkarachok/\+Lab6\+\_\+\+R\+T\+O\+S\+\_\+\+O\+L\+E\+D/main.\+c}, 
+		\hyperpage{31}
+  \item {D\+:/\+G\+I\+T/\+The\+Connected\+M\+C\+U\+\_\+\+Labs/bkarachok/\+Lab6\+\_\+\+R\+T\+O\+S\+\_\+\+O\+L\+E\+D/main\+\_\+blinky.\+c}, 
+		\hyperpage{32}
+  \item {D\+:/\+G\+I\+T/\+The\+Connected\+M\+C\+U\+\_\+\+Labs/bkarachok/\+Lab6\+\_\+\+R\+T\+O\+S\+\_\+\+O\+L\+E\+D/main\+\_\+full.\+c}, 
+		\hyperpage{34}
+  \item {D\+:/\+G\+I\+T/\+The\+Connected\+M\+C\+U\+\_\+\+Labs/bkarachok/\+Lab6\+\_\+\+R\+T\+O\+S\+\_\+\+O\+L\+E\+D/port.\+c}, 
+		\hyperpage{66}
+  \item {D\+:/\+G\+I\+T/\+The\+Connected\+M\+C\+U\+\_\+\+Labs/bkarachok/\+Lab6\+\_\+\+R\+T\+O\+S\+\_\+\+O\+L\+E\+D/portmacro.\+h}, 
+		\hyperpage{71}
+  \item {D\+:/\+G\+I\+T/\+The\+Connected\+M\+C\+U\+\_\+\+Labs/bkarachok/\+Lab6\+\_\+\+R\+T\+O\+S\+\_\+\+O\+L\+E\+D/timertest.\+c}, 
+		\hyperpage{79}
+  \item {D\+:/\+G\+I\+T/\+The\+Connected\+M\+C\+U\+\_\+\+Labs/bkarachok/\+Lab6\+\_\+\+R\+T\+O\+S\+\_\+\+O\+L\+E\+D/timertest.\+h}, 
+		\hyperpage{80}
+  \item {D\+:/\+G\+I\+T/\+The\+Connected\+M\+C\+U\+\_\+\+Labs/bkarachok/\+Lab6\+\_\+\+R\+T\+O\+S\+\_\+\+O\+L\+E\+D/user.\+c}, 
+		\hyperpage{83}
+  \item {D\+:/\+G\+I\+T/\+The\+Connected\+M\+C\+U\+\_\+\+Labs/bkarachok/\+Lab6\+\_\+\+R\+T\+O\+S\+\_\+\+O\+L\+E\+D/user.\+h}, 
+		\hyperpage{84}
+  \item {Delay\+Ms}
+    \subitem {user.\+c}, \hyperpage{83}
+    \subitem {user.\+h}, \hyperpage{88}
+  \item {dxco\+Oled\+Font\+Cur}
+    \subitem {O\+L\+E\+D.\+c}, \hyperpage{40}
+    \subitem {Oled\+Char.\+c}, \hyperpage{51}
+    \subitem {Oled\+Grph.\+c}, \hyperpage{60}
+  \item {dyco\+Oled\+Font\+Cur}
+    \subitem {O\+L\+E\+D.\+c}, \hyperpage{41}
+    \subitem {Oled\+Char.\+c}, \hyperpage{51}
+    \subitem {Oled\+Grph.\+c}, \hyperpage{60}
+
+  \indexspace
+
+  \item {f\+Oled\+Char\+Update}
+    \subitem {O\+L\+E\+D.\+c}, \hyperpage{41}
+    \subitem {Oled\+Char.\+c}, \hyperpage{51}
+  \item {Fill\+Pat.\+c}
+    \subitem {rgb\+Fill\+Pat}, \hyperpage{7}
+  \item {flop\+\_\+mz.\+c}
+    \subitem {math\+N\+U\+M\+B\+E\+R\+\_\+\+O\+F\+\_\+\+T\+A\+S\+KS}, 
+		\hyperpage{8}
+    \subitem {math\+S\+T\+A\+C\+K\+\_\+\+S\+I\+ZE}, \hyperpage{8}
+    \subitem {v\+Start\+Math\+Tasks}, \hyperpage{8}
+    \subitem {x\+Are\+Maths\+Task\+Still\+Running}, \hyperpage{8}
+  \item {flop\+\_\+mz.\+h}
+    \subitem {v\+Start\+Math\+Tasks}, \hyperpage{9}
+    \subitem {x\+Are\+Maths\+Task\+Still\+Running}, \hyperpage{9}
+  \item {Free\+R\+T\+O\+S\+Config.\+h}
+    \subitem {config\+A\+S\+S\+E\+RT}, \hyperpage{10}
+    \subitem {config\+C\+H\+E\+C\+K\+\_\+\+F\+O\+R\+\_\+\+S\+T\+A\+C\+K\+\_\+\+O\+V\+E\+R\+F\+L\+OW}, 
+		\hyperpage{11}
+    \subitem {config\+C\+P\+U\+\_\+\+C\+L\+O\+C\+K\+\_\+\+HZ}, 
+		\hyperpage{11}
+    \subitem {config\+G\+E\+N\+E\+R\+A\+T\+E\+\_\+\+R\+U\+N\+\_\+\+T\+I\+M\+E\+\_\+\+S\+T\+A\+TS}, 
+		\hyperpage{11}
+    \subitem {config\+I\+D\+L\+E\+\_\+\+S\+H\+O\+U\+L\+D\+\_\+\+Y\+I\+E\+LD}, 
+		\hyperpage{11}
+    \subitem {config\+I\+S\+R\+\_\+\+S\+T\+A\+C\+K\+\_\+\+S\+I\+ZE}, 
+		\hyperpage{11}
+    \subitem {config\+K\+E\+R\+N\+E\+L\+\_\+\+I\+N\+T\+E\+R\+R\+U\+P\+T\+\_\+\+P\+R\+I\+O\+R\+I\+TY}, 
+		\hyperpage{11}
+    \subitem {config\+M\+A\+X\+\_\+\+C\+O\+\_\+\+R\+O\+U\+T\+I\+N\+E\+\_\+\+P\+R\+I\+O\+R\+I\+T\+I\+ES}, 
+		\hyperpage{11}
+    \subitem {config\+M\+A\+X\+\_\+\+P\+R\+I\+O\+R\+I\+T\+I\+ES}, 
+		\hyperpage{12}
+    \subitem {config\+M\+A\+X\+\_\+\+S\+Y\+S\+C\+A\+L\+L\+\_\+\+I\+N\+T\+E\+R\+R\+U\+P\+T\+\_\+\+P\+R\+I\+O\+R\+I\+TY}, 
+		\hyperpage{12}
+    \subitem {config\+M\+A\+X\+\_\+\+T\+A\+S\+K\+\_\+\+N\+A\+M\+E\+\_\+\+L\+EN}, 
+		\hyperpage{12}
+    \subitem {config\+M\+I\+N\+I\+M\+A\+L\+\_\+\+S\+T\+A\+C\+K\+\_\+\+S\+I\+ZE}, 
+		\hyperpage{12}
+    \subitem {config\+P\+E\+R\+I\+P\+H\+E\+R\+A\+L\+\_\+\+C\+L\+O\+C\+K\+\_\+\+HZ}, 
+		\hyperpage{12}
+    \subitem {config\+Q\+U\+E\+U\+E\+\_\+\+R\+E\+G\+I\+S\+T\+R\+Y\+\_\+\+S\+I\+ZE}, 
+		\hyperpage{12}
+    \subitem {config\+T\+I\+C\+K\+\_\+\+R\+A\+T\+E\+\_\+\+HZ}, 
+		\hyperpage{12}
+    \subitem {config\+T\+I\+M\+E\+R\+\_\+\+Q\+U\+E\+U\+E\+\_\+\+L\+E\+N\+G\+TH}, 
+		\hyperpage{12}
+    \subitem {config\+T\+I\+M\+E\+R\+\_\+\+T\+A\+S\+K\+\_\+\+P\+R\+I\+O\+R\+I\+TY}, 
+		\hyperpage{13}
+    \subitem {config\+T\+I\+M\+E\+R\+\_\+\+T\+A\+S\+K\+\_\+\+S\+T\+A\+C\+K\+\_\+\+D\+E\+P\+TH}, 
+		\hyperpage{13}
+    \subitem {config\+T\+O\+T\+A\+L\+\_\+\+H\+E\+A\+P\+\_\+\+S\+I\+ZE}, 
+		\hyperpage{13}
+    \subitem {config\+U\+S\+E\+\_\+16\+\_\+\+B\+I\+T\+\_\+\+T\+I\+C\+KS}, 
+		\hyperpage{13}
+    \subitem {config\+U\+S\+E\+\_\+\+A\+P\+P\+L\+I\+C\+A\+T\+I\+O\+N\+\_\+\+T\+A\+S\+K\+\_\+\+T\+AG}, 
+		\hyperpage{13}
+    \subitem {config\+U\+S\+E\+\_\+\+C\+O\+\_\+\+R\+O\+U\+T\+I\+N\+ES}, 
+		\hyperpage{13}
+    \subitem {config\+U\+S\+E\+\_\+\+C\+O\+U\+N\+T\+I\+N\+G\+\_\+\+S\+E\+M\+A\+P\+H\+O\+R\+ES}, 
+		\hyperpage{13}
+    \subitem {config\+U\+S\+E\+\_\+\+I\+D\+L\+E\+\_\+\+H\+O\+OK}, 
+		\hyperpage{13}
+    \subitem {config\+U\+S\+E\+\_\+\+M\+A\+L\+L\+O\+C\+\_\+\+F\+A\+I\+L\+E\+D\+\_\+\+H\+O\+OK}, 
+		\hyperpage{14}
+    \subitem {config\+U\+S\+E\+\_\+\+M\+U\+T\+E\+X\+ES}, \hyperpage{14}
+    \subitem {config\+U\+S\+E\+\_\+\+P\+O\+R\+T\+\_\+\+O\+P\+T\+I\+M\+I\+S\+E\+D\+\_\+\+T\+A\+S\+K\+\_\+\+S\+E\+L\+E\+C\+T\+I\+ON}, 
+		\hyperpage{14}
+    \subitem {config\+U\+S\+E\+\_\+\+P\+R\+E\+E\+M\+P\+T\+I\+ON}, 
+		\hyperpage{14}
+    \subitem {config\+U\+S\+E\+\_\+\+Q\+U\+E\+U\+E\+\_\+\+S\+E\+TS}, 
+		\hyperpage{14}
+    \subitem {config\+U\+S\+E\+\_\+\+R\+E\+C\+U\+R\+S\+I\+V\+E\+\_\+\+M\+U\+T\+E\+X\+ES}, 
+		\hyperpage{14}
+    \subitem {config\+U\+S\+E\+\_\+\+T\+I\+C\+K\+\_\+\+H\+O\+OK}, 
+		\hyperpage{14}
+    \subitem {config\+U\+S\+E\+\_\+\+T\+I\+M\+E\+RS}, \hyperpage{14}
+    \subitem {config\+U\+S\+E\+\_\+\+T\+R\+A\+C\+E\+\_\+\+F\+A\+C\+I\+L\+I\+TY}, 
+		\hyperpage{15}
+    \subitem {I\+N\+C\+L\+U\+D\+E\+\_\+e\+Task\+Get\+State}, 
+		\hyperpage{15}
+    \subitem {I\+N\+C\+L\+U\+D\+E\+\_\+ux\+Task\+Get\+Stack\+High\+Water\+Mark}, 
+		\hyperpage{15}
+    \subitem {I\+N\+C\+L\+U\+D\+E\+\_\+ux\+Task\+Priority\+Get}, 
+		\hyperpage{15}
+    \subitem {I\+N\+C\+L\+U\+D\+E\+\_\+v\+Task\+Clean\+Up\+Resources}, 
+		\hyperpage{15}
+    \subitem {I\+N\+C\+L\+U\+D\+E\+\_\+v\+Task\+Delay}, \hyperpage{15}
+    \subitem {I\+N\+C\+L\+U\+D\+E\+\_\+v\+Task\+Delay\+Until}, 
+		\hyperpage{15}
+    \subitem {I\+N\+C\+L\+U\+D\+E\+\_\+v\+Task\+Delete}, \hyperpage{15}
+    \subitem {I\+N\+C\+L\+U\+D\+E\+\_\+v\+Task\+Priority\+Set}, 
+		\hyperpage{16}
+    \subitem {I\+N\+C\+L\+U\+D\+E\+\_\+v\+Task\+Suspend}, 
+		\hyperpage{16}
+    \subitem {I\+N\+C\+L\+U\+D\+E\+\_\+x\+Timer\+Pend\+Function\+Call}, 
+		\hyperpage{16}
+    \subitem {v\+Assert\+Called}, \hyperpage{16}
+
+  \indexspace
+
+  \item {hw\+U\+N\+L\+O\+C\+K\+\_\+\+K\+E\+Y\+\_\+0}
+    \subitem {Config\+Performance.\+c}, \hyperpage{6}
+  \item {hw\+U\+N\+L\+O\+C\+K\+\_\+\+K\+E\+Y\+\_\+1}
+    \subitem {Config\+Performance.\+c}, \hyperpage{6}
+
+  \indexspace
+
+  \item {I\+N\+C\+L\+U\+D\+E\+\_\+e\+Task\+Get\+State}
+    \subitem {Free\+R\+T\+O\+S\+Config.\+h}, \hyperpage{15}
+  \item {I\+N\+C\+L\+U\+D\+E\+\_\+ux\+Task\+Get\+Stack\+High\+Water\+Mark}
+    \subitem {Free\+R\+T\+O\+S\+Config.\+h}, \hyperpage{15}
+  \item {I\+N\+C\+L\+U\+D\+E\+\_\+ux\+Task\+Priority\+Get}
+    \subitem {Free\+R\+T\+O\+S\+Config.\+h}, \hyperpage{15}
+  \item {I\+N\+C\+L\+U\+D\+E\+\_\+v\+Task\+Clean\+Up\+Resources}
+    \subitem {Free\+R\+T\+O\+S\+Config.\+h}, \hyperpage{15}
+  \item {I\+N\+C\+L\+U\+D\+E\+\_\+v\+Task\+Delay}
+    \subitem {Free\+R\+T\+O\+S\+Config.\+h}, \hyperpage{15}
+  \item {I\+N\+C\+L\+U\+D\+E\+\_\+v\+Task\+Delay\+Until}
+    \subitem {Free\+R\+T\+O\+S\+Config.\+h}, \hyperpage{15}
+  \item {I\+N\+C\+L\+U\+D\+E\+\_\+v\+Task\+Delete}
+    \subitem {Free\+R\+T\+O\+S\+Config.\+h}, \hyperpage{15}
+  \item {I\+N\+C\+L\+U\+D\+E\+\_\+v\+Task\+Priority\+Set}
+    \subitem {Free\+R\+T\+O\+S\+Config.\+h}, \hyperpage{16}
+  \item {I\+N\+C\+L\+U\+D\+E\+\_\+v\+Task\+Suspend}
+    \subitem {Free\+R\+T\+O\+S\+Config.\+h}, \hyperpage{16}
+  \item {I\+N\+C\+L\+U\+D\+E\+\_\+x\+Timer\+Pend\+Function\+Call}
+    \subitem {Free\+R\+T\+O\+S\+Config.\+h}, \hyperpage{16}
+  \item {I\+S\+R\+\_\+\+Support.\+h}
+    \subitem {\$f0}, \hyperpage{22}
+    \subitem {\$f31}, \hyperpage{22}
+    \subitem {a0}, \hyperpage{23}
+    \subitem {a1}, \hyperpage{23}
+    \subitem {a2}, \hyperpage{23}
+    \subitem {a3}, \hyperpage{23}
+    \subitem {k0}, \hyperpage{24}
+    \subitem {k1}, \hyperpage{24}
+    \subitem {lw}, \hyperpage{24}
+    \subitem {offset}, \hyperpage{21}, \hyperpage{24}
+    \subitem {port\+C\+O\+N\+T\+E\+X\+T\+\_\+\+S\+I\+ZE}, 
+		\hyperpage{20}
+    \subitem {port\+E\+P\+C\+\_\+\+S\+T\+A\+C\+K\+\_\+\+L\+O\+C\+A\+T\+I\+ON}, 
+		\hyperpage{21}
+    \subitem {port\+F\+P\+C\+S\+R\+\_\+\+S\+T\+A\+C\+K\+\_\+\+L\+O\+C\+A\+T\+I\+ON}, 
+		\hyperpage{21}
+    \subitem {port\+F\+P\+U\+\_\+\+C\+O\+N\+T\+E\+X\+T\+\_\+\+S\+I\+ZE}, 
+		\hyperpage{21}
+    \subitem {port\+S\+T\+A\+T\+U\+S\+\_\+\+S\+T\+A\+C\+K\+\_\+\+L\+O\+C\+A\+T\+I\+ON}, 
+		\hyperpage{21, 22}
+    \subitem {port\+T\+A\+S\+K\+\_\+\+H\+A\+S\+\_\+\+F\+P\+U\+\_\+\+S\+T\+A\+C\+K\+\_\+\+L\+O\+C\+A\+T\+I\+ON}, 
+		\hyperpage{21}
+    \subitem {ra}, \hyperpage{25}
+    \subitem {s5}, \hyperpage{25}
+    \subitem {s6}, \hyperpage{25}
+    \subitem {s7}, \hyperpage{25}
+    \subitem {s8}, \hyperpage{26}
+    \subitem {sp}, \hyperpage{26}
+    \subitem {t0}, \hyperpage{26}
+    \subitem {t1}, \hyperpage{26}
+    \subitem {t2}, \hyperpage{27}
+    \subitem {t3}, \hyperpage{27}
+    \subitem {t4}, \hyperpage{27}
+    \subitem {t5}, \hyperpage{27}
+    \subitem {t6}, \hyperpage{28}
+    \subitem {t7}, \hyperpage{28}
+    \subitem {t8}, \hyperpage{28}
+    \subitem {t9}, \hyperpage{28}
+    \subitem {v0}, \hyperpage{29}
+    \subitem {v1}, \hyperpage{29}
+    \subitem {zero}, \hyperpage{29}
+  \item {I\+S\+R\+Triggered\+Task.\+c}
+    \subitem {\+\_\+\+\_\+attribute\+\_\+\+\_\+}, \hyperpage{30}
+    \subitem {main\+I\+S\+R\+\_\+\+T\+R\+I\+G\+G\+E\+R\+E\+D\+\_\+\+L\+ED}, 
+		\hyperpage{30}
+    \subitem {main\+T5\+\_\+\+S\+E\+M\+A\+P\+H\+O\+R\+E\+\_\+\+R\+A\+TE}, 
+		\hyperpage{30}
+    \subitem {main\+T5\+P\+R\+E\+S\+C\+A\+L\+AR}, \hyperpage{30}
+    \subitem {v\+T5\+Interrupt\+Handler}, \hyperpage{31}
+  \item {Init\+App}
+    \subitem {user.\+c}, \hyperpage{83}
+    \subitem {user.\+h}, \hyperpage{88}
+  \item {Init\+B\+I\+O\+S\+G\+P\+IO}
+    \subitem {user.\+c}, \hyperpage{84}
+  \item {Init\+G\+P\+IO}
+    \subitem {user.\+c}, \hyperpage{84}
+  \item {Int\+Queue\+Timer.\+c}
+    \subitem {\+\_\+\+\_\+attribute\+\_\+\+\_\+}, \hyperpage{17}
+    \subitem {timer\+I\+N\+T\+E\+R\+R\+U\+P\+T3\+\_\+\+F\+R\+E\+Q\+U\+E\+N\+CY}, 
+		\hyperpage{17}
+    \subitem {timer\+I\+N\+T\+E\+R\+R\+U\+P\+T4\+\_\+\+F\+R\+E\+Q\+U\+E\+N\+CY}, 
+		\hyperpage{17}
+    \subitem {v\+T3\+Interrupt\+Handler}, \hyperpage{17}
+    \subitem {v\+T4\+Interrupt\+Handler}, \hyperpage{17}
+  \item {Int\+Queue\+Timer.\+h}
+    \subitem {v\+Initialise\+Timer\+For\+Int\+Queue\+Test}, 
+		\hyperpage{18}
+    \subitem {x\+Timer0\+Handler}, \hyperpage{18}
+    \subitem {x\+Timer1\+Handler}, \hyperpage{18}
+
+  \indexspace
+
+  \item {k0}
+    \subitem {I\+S\+R\+\_\+\+Support.\+h}, \hyperpage{24}
+  \item {k1}
+    \subitem {I\+S\+R\+\_\+\+Support.\+h}, \hyperpage{24}
+
+  \indexspace
+
+  \item {L\+D1\+\_\+\+P\+O\+R\+T\+\_\+\+B\+IT}
+    \subitem {user.\+h}, \hyperpage{87}
+  \item {L\+D2\+\_\+\+P\+O\+R\+T\+\_\+\+B\+IT}
+    \subitem {user.\+h}, \hyperpage{87}
+  \item {L\+D3\+\_\+\+P\+O\+R\+T\+\_\+\+B\+IT}
+    \subitem {user.\+h}, \hyperpage{87}
+  \item {L\+D4\+\_\+\+P\+O\+R\+T\+\_\+\+B\+IT}
+    \subitem {user.\+h}, \hyperpage{87}
+  \item {lw}
+    \subitem {I\+S\+R\+\_\+\+Support.\+h}, \hyperpage{24}
+
+  \indexspace
+
+  \item {M\+A\+SK}
+    \subitem {O\+L\+E\+D.\+h}, \hyperpage{45}
+  \item {main}
+    \subitem {main.\+c}, \hyperpage{31}
+  \item {main.\+c}
+    \subitem {\+\_\+general\+\_\+exception\+\_\+handler}, 
+		\hyperpage{31}
+    \subitem {main}, \hyperpage{31}
+    \subitem {v\+Application\+Stack\+Overflow\+Hook}, \hyperpage{32}
+    \subitem {v\+Application\+Tick\+Hook}, \hyperpage{32}
+    \subitem {v\+Assert\+Called}, \hyperpage{32}
+  \item {main\+\_\+blinky}
+    \subitem {main\+\_\+blinky.\+c}, \hyperpage{34}
+  \item {main\+\_\+blinky.\+c}
+    \subitem {main\+\_\+blinky}, \hyperpage{34}
+    \subitem {main\+B\+L\+I\+N\+K\+Y\+\_\+\+T\+I\+M\+E\+R\+\_\+\+P\+E\+R\+I\+OD}, 
+		\hyperpage{33}
+    \subitem {main\+D\+O\+N\+T\+\_\+\+B\+L\+O\+CK}, \hyperpage{33}
+    \subitem {main\+Q\+U\+E\+U\+E\+\_\+\+L\+E\+N\+G\+TH}, 
+		\hyperpage{33}
+    \subitem {main\+Q\+U\+E\+U\+E\+\_\+\+R\+E\+C\+E\+I\+V\+E\+\_\+\+P\+A\+R\+A\+M\+E\+T\+ER}, 
+		\hyperpage{33}
+    \subitem {main\+Q\+U\+E\+U\+E\+\_\+\+R\+E\+C\+E\+I\+V\+E\+\_\+\+T\+A\+S\+K\+\_\+\+P\+R\+I\+O\+R\+I\+TY}, 
+		\hyperpage{33}
+    \subitem {main\+Q\+U\+E\+U\+E\+\_\+\+S\+E\+N\+D\+\_\+\+F\+R\+E\+Q\+U\+E\+N\+C\+Y\+\_\+\+MS}, 
+		\hyperpage{33}
+    \subitem {main\+Q\+U\+E\+U\+E\+\_\+\+S\+E\+N\+D\+\_\+\+P\+A\+R\+A\+M\+E\+T\+ER}, 
+		\hyperpage{33}
+    \subitem {main\+Q\+U\+E\+U\+E\+\_\+\+S\+E\+N\+D\+\_\+\+T\+A\+S\+K\+\_\+\+P\+R\+I\+O\+R\+I\+TY}, 
+		\hyperpage{34}
+    \subitem {main\+T\+A\+S\+K\+S\+\_\+\+L\+ED}, \hyperpage{34}
+    \subitem {main\+T\+I\+M\+E\+R\+\_\+\+L\+ED}, \hyperpage{34}
+  \item {main\+\_\+full}
+    \subitem {main\+\_\+full.\+c}, \hyperpage{37}
+  \item {main\+\_\+full.\+c}
+    \subitem {main\+\_\+full}, \hyperpage{37}
+    \subitem {main\+B\+L\+O\+C\+K\+\_\+\+Q\+\_\+\+P\+R\+I\+O\+R\+I\+TY}, 
+		\hyperpage{35}
+    \subitem {main\+C\+H\+E\+C\+K\+\_\+\+L\+ED}, \hyperpage{35}
+    \subitem {main\+C\+H\+E\+C\+K\+\_\+\+T\+I\+M\+E\+R\+\_\+\+P\+E\+R\+I\+O\+D\+\_\+\+MS}, 
+		\hyperpage{35}
+    \subitem {main\+C\+O\+M\+\_\+\+T\+E\+S\+T\+\_\+\+P\+R\+I\+O\+R\+I\+TY}, 
+		\hyperpage{35}
+    \subitem {main\+D\+O\+N\+T\+\_\+\+B\+L\+O\+CK}, \hyperpage{36}
+    \subitem {main\+E\+R\+R\+O\+R\+\_\+\+C\+H\+E\+C\+K\+\_\+\+T\+I\+M\+E\+R\+\_\+\+P\+E\+R\+I\+O\+D\+\_\+\+MS}, 
+		\hyperpage{36}
+    \subitem {main\+F\+L\+O\+P\+\_\+\+T\+A\+S\+K\+\_\+\+P\+R\+I\+O\+R\+I\+TY}, 
+		\hyperpage{36}
+    \subitem {main\+G\+E\+N\+\_\+\+Q\+U\+E\+U\+E\+\_\+\+T\+A\+S\+K\+\_\+\+P\+R\+I\+O\+R\+I\+TY}, 
+		\hyperpage{36}
+    \subitem {main\+I\+N\+T\+E\+G\+E\+R\+\_\+\+T\+A\+S\+K\+\_\+\+P\+R\+I\+O\+R\+I\+TY}, 
+		\hyperpage{36}
+    \subitem {main\+N\+U\+M\+\_\+\+F\+L\+A\+S\+H\+\_\+\+T\+I\+M\+E\+R\+\_\+\+L\+E\+DS}, 
+		\hyperpage{36}
+    \subitem {main\+Q\+U\+E\+U\+E\+\_\+\+O\+V\+E\+R\+W\+R\+I\+T\+E\+\_\+\+T\+A\+S\+K\+\_\+\+P\+R\+I\+O\+R\+I\+TY}, 
+		\hyperpage{36}
+    \subitem {main\+S\+E\+M\+\_\+\+T\+E\+S\+T\+\_\+\+P\+R\+I\+O\+R\+I\+TY}, 
+		\hyperpage{36}
+    \subitem {main\+T\+E\+S\+T\+\_\+\+I\+N\+T\+E\+R\+R\+U\+P\+T\+\_\+\+F\+R\+E\+Q\+U\+E\+N\+CY}, 
+		\hyperpage{37}
+    \subitem {ul\+Reg\+Test1\+Cycles}, \hyperpage{37}
+    \subitem {ul\+Reg\+Test2\+Cycles}, \hyperpage{37}
+    \subitem {v\+Start\+I\+S\+R\+Triggered\+Task}, \hyperpage{37}
+  \item {main\+B\+L\+I\+N\+K\+Y\+\_\+\+T\+I\+M\+E\+R\+\_\+\+P\+E\+R\+I\+OD}
+    \subitem {main\+\_\+blinky.\+c}, \hyperpage{33}
+  \item {main\+B\+L\+O\+C\+K\+\_\+\+Q\+\_\+\+P\+R\+I\+O\+R\+I\+TY}
+    \subitem {main\+\_\+full.\+c}, \hyperpage{35}
+  \item {main\+C\+H\+E\+C\+K\+\_\+\+L\+ED}
+    \subitem {main\+\_\+full.\+c}, \hyperpage{35}
+  \item {main\+C\+H\+E\+C\+K\+\_\+\+T\+I\+M\+E\+R\+\_\+\+P\+E\+R\+I\+O\+D\+\_\+\+MS}
+    \subitem {main\+\_\+full.\+c}, \hyperpage{35}
+  \item {main\+C\+O\+M\+\_\+\+T\+E\+S\+T\+\_\+\+P\+R\+I\+O\+R\+I\+TY}
+    \subitem {main\+\_\+full.\+c}, \hyperpage{35}
+  \item {main\+D\+O\+N\+T\+\_\+\+B\+L\+O\+CK}
+    \subitem {main\+\_\+blinky.\+c}, \hyperpage{33}
+    \subitem {main\+\_\+full.\+c}, \hyperpage{36}
+  \item {main\+E\+R\+R\+O\+R\+\_\+\+C\+H\+E\+C\+K\+\_\+\+T\+I\+M\+E\+R\+\_\+\+P\+E\+R\+I\+O\+D\+\_\+\+MS}
+    \subitem {main\+\_\+full.\+c}, \hyperpage{36}
+  \item {main\+F\+L\+O\+P\+\_\+\+T\+A\+S\+K\+\_\+\+P\+R\+I\+O\+R\+I\+TY}
+    \subitem {main\+\_\+full.\+c}, \hyperpage{36}
+  \item {main\+G\+E\+N\+\_\+\+Q\+U\+E\+U\+E\+\_\+\+T\+A\+S\+K\+\_\+\+P\+R\+I\+O\+R\+I\+TY}
+    \subitem {main\+\_\+full.\+c}, \hyperpage{36}
+  \item {main\+I\+N\+T\+E\+G\+E\+R\+\_\+\+T\+A\+S\+K\+\_\+\+P\+R\+I\+O\+R\+I\+TY}
+    \subitem {main\+\_\+full.\+c}, \hyperpage{36}
+  \item {main\+I\+S\+R\+\_\+\+T\+R\+I\+G\+G\+E\+R\+E\+D\+\_\+\+L\+ED}
+    \subitem {I\+S\+R\+Triggered\+Task.\+c}, \hyperpage{30}
+  \item {main\+N\+U\+M\+\_\+\+F\+L\+A\+S\+H\+\_\+\+T\+I\+M\+E\+R\+\_\+\+L\+E\+DS}
+    \subitem {main\+\_\+full.\+c}, \hyperpage{36}
+  \item {main\+Q\+U\+E\+U\+E\+\_\+\+L\+E\+N\+G\+TH}
+    \subitem {main\+\_\+blinky.\+c}, \hyperpage{33}
+  \item {main\+Q\+U\+E\+U\+E\+\_\+\+O\+V\+E\+R\+W\+R\+I\+T\+E\+\_\+\+T\+A\+S\+K\+\_\+\+P\+R\+I\+O\+R\+I\+TY}
+    \subitem {main\+\_\+full.\+c}, \hyperpage{36}
+  \item {main\+Q\+U\+E\+U\+E\+\_\+\+R\+E\+C\+E\+I\+V\+E\+\_\+\+P\+A\+R\+A\+M\+E\+T\+ER}
+    \subitem {main\+\_\+blinky.\+c}, \hyperpage{33}
+  \item {main\+Q\+U\+E\+U\+E\+\_\+\+R\+E\+C\+E\+I\+V\+E\+\_\+\+T\+A\+S\+K\+\_\+\+P\+R\+I\+O\+R\+I\+TY}
+    \subitem {main\+\_\+blinky.\+c}, \hyperpage{33}
+  \item {main\+Q\+U\+E\+U\+E\+\_\+\+S\+E\+N\+D\+\_\+\+F\+R\+E\+Q\+U\+E\+N\+C\+Y\+\_\+\+MS}
+    \subitem {main\+\_\+blinky.\+c}, \hyperpage{33}
+  \item {main\+Q\+U\+E\+U\+E\+\_\+\+S\+E\+N\+D\+\_\+\+P\+A\+R\+A\+M\+E\+T\+ER}
+    \subitem {main\+\_\+blinky.\+c}, \hyperpage{33}
+  \item {main\+Q\+U\+E\+U\+E\+\_\+\+S\+E\+N\+D\+\_\+\+T\+A\+S\+K\+\_\+\+P\+R\+I\+O\+R\+I\+TY}
+    \subitem {main\+\_\+blinky.\+c}, \hyperpage{34}
+  \item {main\+S\+E\+M\+\_\+\+T\+E\+S\+T\+\_\+\+P\+R\+I\+O\+R\+I\+TY}
+    \subitem {main\+\_\+full.\+c}, \hyperpage{36}
+  \item {main\+T5\+\_\+\+S\+E\+M\+A\+P\+H\+O\+R\+E\+\_\+\+R\+A\+TE}
+    \subitem {I\+S\+R\+Triggered\+Task.\+c}, \hyperpage{30}
+  \item {main\+T5\+P\+R\+E\+S\+C\+A\+L\+AR}
+    \subitem {I\+S\+R\+Triggered\+Task.\+c}, \hyperpage{30}
+  \item {main\+T\+A\+S\+K\+S\+\_\+\+L\+ED}
+    \subitem {main\+\_\+blinky.\+c}, \hyperpage{34}
+  \item {main\+T\+E\+S\+T\+\_\+\+I\+N\+T\+E\+R\+R\+U\+P\+T\+\_\+\+F\+R\+E\+Q\+U\+E\+N\+CY}
+    \subitem {main\+\_\+full.\+c}, \hyperpage{37}
+  \item {main\+T\+I\+M\+E\+R\+\_\+\+L\+ED}
+    \subitem {main\+\_\+blinky.\+c}, \hyperpage{34}
+  \item {math\+N\+U\+M\+B\+E\+R\+\_\+\+O\+F\+\_\+\+T\+A\+S\+KS}
+    \subitem {flop\+\_\+mz.\+c}, \hyperpage{8}
+  \item {math\+S\+T\+A\+C\+K\+\_\+\+S\+I\+ZE}
+    \subitem {flop\+\_\+mz.\+c}, \hyperpage{8}
+  \item {mod\+Oled\+And}
+    \subitem {O\+L\+E\+D.\+h}, \hyperpage{45}
+  \item {mod\+Oled\+Cur}
+    \subitem {Oled\+Grph.\+c}, \hyperpage{60}
+  \item {mod\+Oled\+Or}
+    \subitem {O\+L\+E\+D.\+h}, \hyperpage{45}
+  \item {mod\+Oled\+Set}
+    \subitem {O\+L\+E\+D.\+h}, \hyperpage{45}
+  \item {mod\+Oled\+Xor}
+    \subitem {O\+L\+E\+D.\+h}, \hyperpage{45}
+  \item {msk\+Oled\+Cur}
+    \subitem {Oled\+Char.\+c}, \hyperpage{51}
+
+  \indexspace
+
+  \item {O\+L\+E\+D.\+c}
+    \subitem {bn\+Oled\+Cur}, \hyperpage{40}
+    \subitem {clr\+Oled\+Cur}, \hyperpage{40}
+    \subitem {cmd\+Oled\+Com\+Config}, \hyperpage{38}
+    \subitem {cmd\+Oled\+Com\+Dir}, \hyperpage{39}
+    \subitem {cmd\+Oled\+Display\+Off}, \hyperpage{39}
+    \subitem {cmd\+Oled\+Display\+On}, \hyperpage{39}
+    \subitem {cmd\+Oled\+Seg\+Remap}, \hyperpage{39}
+    \subitem {dxco\+Oled\+Font\+Cur}, \hyperpage{40}
+    \subitem {dyco\+Oled\+Font\+Cur}, \hyperpage{41}
+    \subitem {f\+Oled\+Char\+Update}, \hyperpage{41}
+    \subitem {Oled\+Dev\+Term}, \hyperpage{39}
+    \subitem {Oled\+Dsp\+Init}, \hyperpage{39}
+    \subitem {Oled\+Dvr\+Init}, \hyperpage{39}
+    \subitem {Oled\+Host\+Init}, \hyperpage{40}
+    \subitem {Oled\+Host\+Term}, \hyperpage{40}
+    \subitem {Oled\+Update}, \hyperpage{40}
+    \subitem {pb\+Oled\+Cur}, \hyperpage{41}
+    \subitem {pb\+Oled\+Font\+Cur}, \hyperpage{41}
+    \subitem {pb\+Oled\+Font\+User}, \hyperpage{41}
+    \subitem {pb\+Oled\+Pat\+Cur}, \hyperpage{41}
+    \subitem {rgb\+Fill\+Pat}, \hyperpage{41}
+    \subitem {rgb\+Oled\+Font0}, \hyperpage{41}
+    \subitem {rgb\+Oled\+Font\+User}, \hyperpage{42}
+    \subitem {x\+Mutex\+O\+L\+ED}, \hyperpage{42}
+    \subitem {xch\+Oled\+Max}, \hyperpage{42}
+    \subitem {xco\+Oled\+Cur}, \hyperpage{42}
+    \subitem {ych\+Oled\+Max}, \hyperpage{42}
+    \subitem {yco\+Oled\+Cur}, \hyperpage{42}
+  \item {O\+L\+E\+D.\+h}
+    \subitem {B\+Y\+TE}, \hyperpage{46}
+    \subitem {bit\+Data\+Cmd}, \hyperpage{43}
+    \subitem {bit\+Reset}, \hyperpage{44}
+    \subitem {bit\+Vbat\+Ctrl}, \hyperpage{44}
+    \subitem {bit\+Vdd\+Ctrl}, \hyperpage{44}
+    \subitem {cb\+Oled\+Char}, \hyperpage{44}
+    \subitem {cb\+Oled\+Disp\+Max}, \hyperpage{44}
+    \subitem {cb\+Oled\+Font\+User}, \hyperpage{44}
+    \subitem {ccol\+Oled\+Max}, \hyperpage{44}
+    \subitem {ch\+Oled\+User\+Max}, \hyperpage{44}
+    \subitem {cpag\+Oled\+Max}, \hyperpage{45}
+    \subitem {crow\+Oled\+Max}, \hyperpage{45}
+    \subitem {M\+A\+SK}, \hyperpage{45}
+    \subitem {mod\+Oled\+And}, \hyperpage{45}
+    \subitem {mod\+Oled\+Or}, \hyperpage{45}
+    \subitem {mod\+Oled\+Set}, \hyperpage{45}
+    \subitem {mod\+Oled\+Xor}, \hyperpage{45}
+    \subitem {Oled\+Clear}, \hyperpage{46}
+    \subitem {Oled\+Clear\+Buffer}, \hyperpage{46}
+    \subitem {Oled\+Display\+Off}, \hyperpage{47}
+    \subitem {Oled\+Display\+On}, \hyperpage{47}
+    \subitem {Oled\+Dsp\+Init}, \hyperpage{47}
+    \subitem {Oled\+Dvr\+Init}, \hyperpage{47}
+    \subitem {Oled\+Host\+Init}, \hyperpage{47}
+    \subitem {Oled\+Init}, \hyperpage{47}
+    \subitem {Oled\+Term}, \hyperpage{48}
+    \subitem {Oled\+Update}, \hyperpage{48}
+    \subitem {prt\+Data\+Cmd}, \hyperpage{46}
+    \subitem {prt\+Reset}, \hyperpage{46}
+    \subitem {prt\+Vbat\+Ctrl}, \hyperpage{46}
+    \subitem {prt\+Vdd\+Ctrl}, \hyperpage{46}
+    \subitem {rgb\+Oled\+Bmp}, \hyperpage{48}
+    \subitem {x\+Mutex\+O\+L\+ED}, \hyperpage{48}
+  \item {offset}
+    \subitem {I\+S\+R\+\_\+\+Support.\+h}, \hyperpage{21}, 
+		\hyperpage{24}
+  \item {Oled\+Advance\+Cursor}
+    \subitem {Oled\+Char.\+c}, \hyperpage{49}
+  \item {Oled\+Char.\+c}
+    \subitem {bn\+Oled\+Cur}, \hyperpage{51}
+    \subitem {dxco\+Oled\+Font\+Cur}, \hyperpage{51}
+    \subitem {dyco\+Oled\+Font\+Cur}, \hyperpage{51}
+    \subitem {f\+Oled\+Char\+Update}, \hyperpage{51}
+    \subitem {msk\+Oled\+Cur}, \hyperpage{51}
+    \subitem {Oled\+Advance\+Cursor}, \hyperpage{49}
+    \subitem {Oled\+Def\+User\+Char}, \hyperpage{49}
+    \subitem {Oled\+Draw\+Glyph}, \hyperpage{50}
+    \subitem {Oled\+Get\+Char\+Update}, \hyperpage{50}
+    \subitem {Oled\+Get\+Cursor}, \hyperpage{50}
+    \subitem {Oled\+Put\+Char}, \hyperpage{50}
+    \subitem {Oled\+Put\+String}, \hyperpage{50}
+    \subitem {Oled\+Set\+Char\+Update}, \hyperpage{50}
+    \subitem {Oled\+Set\+Cursor}, \hyperpage{50}
+    \subitem {pb\+Oled\+Cur}, \hyperpage{51}
+    \subitem {pb\+Oled\+Font\+Cur}, \hyperpage{51}
+    \subitem {pb\+Oled\+Font\+Ext}, \hyperpage{52}
+    \subitem {pb\+Oled\+Font\+User}, \hyperpage{52}
+    \subitem {rgb\+Oled\+Bmp}, \hyperpage{52}
+    \subitem {rgb\+Oled\+Font\+User}, \hyperpage{52}
+    \subitem {xch\+Oled\+Cur}, \hyperpage{52}
+    \subitem {xch\+Oled\+Max}, \hyperpage{52}
+    \subitem {xco\+Oled\+Cur}, \hyperpage{52}
+    \subitem {ych\+Oled\+Cur}, \hyperpage{52}
+    \subitem {ych\+Oled\+Max}, \hyperpage{53}
+    \subitem {yco\+Oled\+Cur}, \hyperpage{53}
+  \item {Oled\+Char.\+h}
+    \subitem {Oled\+Def\+User\+Char}, \hyperpage{53}
+    \subitem {Oled\+Get\+Char\+Update}, \hyperpage{53}
+    \subitem {Oled\+Get\+Cursor}, \hyperpage{53}
+    \subitem {Oled\+Put\+Char}, \hyperpage{54}
+    \subitem {Oled\+Put\+String}, \hyperpage{54}
+    \subitem {Oled\+Set\+Char\+Update}, \hyperpage{54}
+    \subitem {Oled\+Set\+Cursor}, \hyperpage{54}
+  \item {Oled\+Clamp\+Xco}
+    \subitem {Oled\+Grph.\+c}, \hyperpage{55}
+  \item {Oled\+Clamp\+Yco}
+    \subitem {Oled\+Grph.\+c}, \hyperpage{56}
+  \item {Oled\+Clear}
+    \subitem {O\+L\+E\+D.\+h}, \hyperpage{46}
+  \item {Oled\+Clear\+Buffer}
+    \subitem {O\+L\+E\+D.\+h}, \hyperpage{46}
+  \item {Oled\+Def\+User\+Char}
+    \subitem {Oled\+Char.\+c}, \hyperpage{49}
+    \subitem {Oled\+Char.\+h}, \hyperpage{53}
+  \item {Oled\+Dev\+Term}
+    \subitem {O\+L\+E\+D.\+c}, \hyperpage{39}
+  \item {Oled\+Display\+Off}
+    \subitem {O\+L\+E\+D.\+h}, \hyperpage{47}
+  \item {Oled\+Display\+On}
+    \subitem {O\+L\+E\+D.\+h}, \hyperpage{47}
+  \item {Oled\+Draw\+Char}
+    \subitem {Oled\+Grph.\+c}, \hyperpage{56}
+    \subitem {Oled\+Grph.\+h}, \hyperpage{62}
+  \item {Oled\+Draw\+Glyph}
+    \subitem {Oled\+Char.\+c}, \hyperpage{50}
+  \item {Oled\+Draw\+Pixel}
+    \subitem {Oled\+Grph.\+c}, \hyperpage{56}
+    \subitem {Oled\+Grph.\+h}, \hyperpage{62}
+  \item {Oled\+Draw\+Rect}
+    \subitem {Oled\+Grph.\+c}, \hyperpage{56}
+    \subitem {Oled\+Grph.\+h}, \hyperpage{62}
+  \item {Oled\+Draw\+String}
+    \subitem {Oled\+Grph.\+c}, \hyperpage{56}
+    \subitem {Oled\+Grph.\+h}, \hyperpage{62}
+  \item {Oled\+Dsp\+Init}
+    \subitem {O\+L\+E\+D.\+c}, \hyperpage{39}
+    \subitem {O\+L\+E\+D.\+h}, \hyperpage{47}
+  \item {Oled\+Dvr\+Init}
+    \subitem {O\+L\+E\+D.\+c}, \hyperpage{39}
+    \subitem {O\+L\+E\+D.\+h}, \hyperpage{47}
+  \item {Oled\+Fill\+Rect}
+    \subitem {Oled\+Grph.\+c}, \hyperpage{56}
+    \subitem {Oled\+Grph.\+h}, \hyperpage{63}
+  \item {Oled\+Get\+Bmp}
+    \subitem {Oled\+Grph.\+c}, \hyperpage{56}
+    \subitem {Oled\+Grph.\+h}, \hyperpage{63}
+  \item {Oled\+Get\+Char\+Update}
+    \subitem {Oled\+Char.\+c}, \hyperpage{50}
+    \subitem {Oled\+Char.\+h}, \hyperpage{53}
+  \item {Oled\+Get\+Cursor}
+    \subitem {Oled\+Char.\+c}, \hyperpage{50}
+    \subitem {Oled\+Char.\+h}, \hyperpage{53}
+  \item {Oled\+Get\+Draw\+Mode}
+    \subitem {Oled\+Grph.\+c}, \hyperpage{57}
+    \subitem {Oled\+Grph.\+h}, \hyperpage{63}
+  \item {Oled\+Get\+Pixel}
+    \subitem {Oled\+Grph.\+c}, \hyperpage{57}
+    \subitem {Oled\+Grph.\+h}, \hyperpage{63}
+  \item {Oled\+Get\+Pos}
+    \subitem {Oled\+Grph.\+c}, \hyperpage{57}
+    \subitem {Oled\+Grph.\+h}, \hyperpage{63}
+  \item {Oled\+Get\+Std\+Pattern}
+    \subitem {Oled\+Grph.\+c}, \hyperpage{57}
+    \subitem {Oled\+Grph.\+h}, \hyperpage{63}
+  \item {Oled\+Grph.\+c}
+    \subitem {bn\+Oled\+Cur}, \hyperpage{60}
+    \subitem {clr\+Oled\+Cur}, \hyperpage{60}
+    \subitem {dxco\+Oled\+Font\+Cur}, \hyperpage{60}
+    \subitem {dyco\+Oled\+Font\+Cur}, \hyperpage{60}
+    \subitem {mod\+Oled\+Cur}, \hyperpage{60}
+    \subitem {Oled\+Clamp\+Xco}, \hyperpage{55}
+    \subitem {Oled\+Clamp\+Yco}, \hyperpage{56}
+    \subitem {Oled\+Draw\+Char}, \hyperpage{56}
+    \subitem {Oled\+Draw\+Pixel}, \hyperpage{56}
+    \subitem {Oled\+Draw\+Rect}, \hyperpage{56}
+    \subitem {Oled\+Draw\+String}, \hyperpage{56}
+    \subitem {Oled\+Fill\+Rect}, \hyperpage{56}
+    \subitem {Oled\+Get\+Bmp}, \hyperpage{56}
+    \subitem {Oled\+Get\+Draw\+Mode}, \hyperpage{57}
+    \subitem {Oled\+Get\+Pixel}, \hyperpage{57}
+    \subitem {Oled\+Get\+Pos}, \hyperpage{57}
+    \subitem {Oled\+Get\+Std\+Pattern}, \hyperpage{57}
+    \subitem {Oled\+Line\+To}, \hyperpage{57}
+    \subitem {Oled\+Move\+Down}, \hyperpage{57}
+    \subitem {Oled\+Move\+Left}, \hyperpage{57}
+    \subitem {Oled\+Move\+Right}, \hyperpage{58}
+    \subitem {Oled\+Move\+To}, \hyperpage{58}
+    \subitem {Oled\+Move\+Up}, \hyperpage{58}
+    \subitem {Oled\+Put\+Bmp}, \hyperpage{58}
+    \subitem {Oled\+Rop\+And}, \hyperpage{58}
+    \subitem {Oled\+Rop\+Or}, \hyperpage{58}
+    \subitem {Oled\+Rop\+Set}, \hyperpage{59}
+    \subitem {Oled\+Rop\+Xor}, \hyperpage{59}
+    \subitem {Oled\+Set\+Draw\+Color}, \hyperpage{59}
+    \subitem {Oled\+Set\+Draw\+Mode}, \hyperpage{59}
+    \subitem {Oled\+Set\+Fill\+Pattern}, \hyperpage{59}
+    \subitem {pb\+Oled\+Cur}, \hyperpage{60}
+    \subitem {pb\+Oled\+Font\+Cur}, \hyperpage{60}
+    \subitem {pb\+Oled\+Font\+User}, \hyperpage{60}
+    \subitem {pb\+Oled\+Pat\+Cur}, \hyperpage{61}
+    \subitem {pfn\+Do\+Rop}, \hyperpage{61}
+    \subitem {rgb\+Fill\+Pat}, \hyperpage{61}
+    \subitem {rgb\+Oled\+Bmp}, \hyperpage{61}
+    \subitem {xco\+Oled\+Cur}, \hyperpage{61}
+    \subitem {yco\+Oled\+Cur}, \hyperpage{61}
+  \item {Oled\+Grph.\+h}
+    \subitem {Oled\+Draw\+Char}, \hyperpage{62}
+    \subitem {Oled\+Draw\+Pixel}, \hyperpage{62}
+    \subitem {Oled\+Draw\+Rect}, \hyperpage{62}
+    \subitem {Oled\+Draw\+String}, \hyperpage{62}
+    \subitem {Oled\+Fill\+Rect}, \hyperpage{63}
+    \subitem {Oled\+Get\+Bmp}, \hyperpage{63}
+    \subitem {Oled\+Get\+Draw\+Mode}, \hyperpage{63}
+    \subitem {Oled\+Get\+Pixel}, \hyperpage{63}
+    \subitem {Oled\+Get\+Pos}, \hyperpage{63}
+    \subitem {Oled\+Get\+Std\+Pattern}, \hyperpage{63}
+    \subitem {Oled\+Line\+To}, \hyperpage{63}
+    \subitem {Oled\+Move\+To}, \hyperpage{64}
+    \subitem {Oled\+Put\+Bmp}, \hyperpage{64}
+    \subitem {Oled\+Set\+Draw\+Color}, \hyperpage{64}
+    \subitem {Oled\+Set\+Draw\+Mode}, \hyperpage{64}
+    \subitem {Oled\+Set\+Fill\+Pattern}, \hyperpage{64}
+  \item {Oled\+Host\+Init}
+    \subitem {O\+L\+E\+D.\+c}, \hyperpage{40}
+    \subitem {O\+L\+E\+D.\+h}, \hyperpage{47}
+  \item {Oled\+Host\+Term}
+    \subitem {O\+L\+E\+D.\+c}, \hyperpage{40}
+  \item {Oled\+Init}
+    \subitem {O\+L\+E\+D.\+h}, \hyperpage{47}
+  \item {Oled\+Line\+To}
+    \subitem {Oled\+Grph.\+c}, \hyperpage{57}
+    \subitem {Oled\+Grph.\+h}, \hyperpage{63}
+  \item {Oled\+Move\+Down}
+    \subitem {Oled\+Grph.\+c}, \hyperpage{57}
+  \item {Oled\+Move\+Left}
+    \subitem {Oled\+Grph.\+c}, \hyperpage{57}
+  \item {Oled\+Move\+Right}
+    \subitem {Oled\+Grph.\+c}, \hyperpage{58}
+  \item {Oled\+Move\+To}
+    \subitem {Oled\+Grph.\+c}, \hyperpage{58}
+    \subitem {Oled\+Grph.\+h}, \hyperpage{64}
+  \item {Oled\+Move\+Up}
+    \subitem {Oled\+Grph.\+c}, \hyperpage{58}
+  \item {Oled\+Put\+Bmp}
+    \subitem {Oled\+Grph.\+c}, \hyperpage{58}
+    \subitem {Oled\+Grph.\+h}, \hyperpage{64}
+  \item {Oled\+Put\+Buffer}
+    \subitem {S\+P\+I.\+c}, \hyperpage{79}
+  \item {Oled\+Put\+Char}
+    \subitem {Oled\+Char.\+c}, \hyperpage{50}
+    \subitem {Oled\+Char.\+h}, \hyperpage{54}
+  \item {Oled\+Put\+String}
+    \subitem {Oled\+Char.\+c}, \hyperpage{50}
+    \subitem {Oled\+Char.\+h}, \hyperpage{54}
+  \item {Oled\+Rop\+And}
+    \subitem {Oled\+Grph.\+c}, \hyperpage{58}
+  \item {Oled\+Rop\+Or}
+    \subitem {Oled\+Grph.\+c}, \hyperpage{58}
+  \item {Oled\+Rop\+Set}
+    \subitem {Oled\+Grph.\+c}, \hyperpage{59}
+  \item {Oled\+Rop\+Xor}
+    \subitem {Oled\+Grph.\+c}, \hyperpage{59}
+  \item {Oled\+Set\+Char\+Update}
+    \subitem {Oled\+Char.\+c}, \hyperpage{50}
+    \subitem {Oled\+Char.\+h}, \hyperpage{54}
+  \item {Oled\+Set\+Cursor}
+    \subitem {Oled\+Char.\+c}, \hyperpage{50}
+    \subitem {Oled\+Char.\+h}, \hyperpage{54}
+  \item {Oled\+Set\+Draw\+Color}
+    \subitem {Oled\+Grph.\+c}, \hyperpage{59}
+    \subitem {Oled\+Grph.\+h}, \hyperpage{64}
+  \item {Oled\+Set\+Draw\+Mode}
+    \subitem {Oled\+Grph.\+c}, \hyperpage{59}
+    \subitem {Oled\+Grph.\+h}, \hyperpage{64}
+  \item {Oled\+Set\+Fill\+Pattern}
+    \subitem {Oled\+Grph.\+c}, \hyperpage{59}
+    \subitem {Oled\+Grph.\+h}, \hyperpage{64}
+  \item {Oled\+Term}
+    \subitem {O\+L\+E\+D.\+h}, \hyperpage{48}
+  \item {Oled\+Update}
+    \subitem {O\+L\+E\+D.\+c}, \hyperpage{40}
+    \subitem {O\+L\+E\+D.\+h}, \hyperpage{48}
+
+  \indexspace
+
+  \item {Par\+Test.\+c}
+    \subitem {pt\+A\+L\+L\+\_\+\+O\+FF}, \hyperpage{65}
+    \subitem {pt\+N\+U\+M\+\_\+\+L\+E\+DS}, \hyperpage{65}
+    \subitem {pt\+O\+U\+T\+P\+UT}, \hyperpage{65}
+    \subitem {v\+Par\+Test\+Initialise}, \hyperpage{65}
+    \subitem {v\+Par\+Test\+Set\+L\+ED}, \hyperpage{66}
+    \subitem {v\+Par\+Test\+Toggle\+L\+ED}, \hyperpage{66}
+  \item {pb\+Oled\+Cur}
+    \subitem {O\+L\+E\+D.\+c}, \hyperpage{41}
+    \subitem {Oled\+Char.\+c}, \hyperpage{51}
+    \subitem {Oled\+Grph.\+c}, \hyperpage{60}
+  \item {pb\+Oled\+Font\+Cur}
+    \subitem {O\+L\+E\+D.\+c}, \hyperpage{41}
+    \subitem {Oled\+Char.\+c}, \hyperpage{51}
+    \subitem {Oled\+Grph.\+c}, \hyperpage{60}
+  \item {pb\+Oled\+Font\+Ext}
+    \subitem {Oled\+Char.\+c}, \hyperpage{52}
+  \item {pb\+Oled\+Font\+User}
+    \subitem {O\+L\+E\+D.\+c}, \hyperpage{41}
+    \subitem {Oled\+Char.\+c}, \hyperpage{52}
+    \subitem {Oled\+Grph.\+c}, \hyperpage{60}
+  \item {pb\+Oled\+Pat\+Cur}
+    \subitem {O\+L\+E\+D.\+c}, \hyperpage{41}
+    \subitem {Oled\+Grph.\+c}, \hyperpage{61}
+  \item {pfn\+Do\+Rop}
+    \subitem {Oled\+Grph.\+c}, \hyperpage{61}
+  \item {port.\+c}
+    \subitem {\+\_\+\+\_\+attribute\+\_\+\+\_\+}, \hyperpage{69}
+    \subitem {config\+C\+L\+E\+A\+R\+\_\+\+T\+I\+C\+K\+\_\+\+T\+I\+M\+E\+R\+\_\+\+I\+N\+T\+E\+R\+R\+U\+PT}, 
+		\hyperpage{67}
+    \subitem {config\+T\+I\+C\+K\+\_\+\+I\+N\+T\+E\+R\+R\+U\+P\+T\+\_\+\+V\+E\+C\+T\+OR}, 
+		\hyperpage{67}
+    \subitem {port\+C\+H\+E\+C\+K\+\_\+\+I\+S\+R\+\_\+\+S\+T\+A\+CK}, 
+		\hyperpage{67}
+    \subitem {port\+C\+O\+R\+E\+\_\+\+S\+W\+\_\+0}, \hyperpage{67}
+    \subitem {port\+C\+O\+R\+E\+\_\+\+S\+W\+\_\+1}, \hyperpage{67}
+    \subitem {port\+C\+U1\+\_\+\+B\+IT}, \hyperpage{68}
+    \subitem {port\+E\+X\+L\+\_\+\+B\+IT}, \hyperpage{68}
+    \subitem {port\+F\+R\+\_\+\+B\+IT}, \hyperpage{68}
+    \subitem {port\+I\+E\+\_\+\+B\+IT}, \hyperpage{68}
+    \subitem {port\+I\+N\+I\+T\+I\+A\+L\+\_\+\+F\+P\+S\+CR}, 
+		\hyperpage{68}
+    \subitem {port\+I\+N\+I\+T\+I\+A\+L\+\_\+\+SR}, \hyperpage{68}
+    \subitem {port\+M\+X\+\_\+\+B\+IT}, \hyperpage{68}
+    \subitem {port\+P\+R\+E\+S\+C\+A\+L\+E\+\_\+\+B\+I\+TS}, 
+		\hyperpage{68}
+    \subitem {port\+T\+A\+S\+K\+\_\+\+R\+E\+T\+U\+R\+N\+\_\+\+A\+D\+D\+R\+E\+SS}, 
+		\hyperpage{69}
+    \subitem {port\+T\+I\+M\+E\+R\+\_\+\+P\+R\+E\+S\+C\+A\+LE}, 
+		\hyperpage{69}
+    \subitem {px\+Port\+Initialise\+Stack}, \hyperpage{69}
+    \subitem {ux\+Interrupt\+Nesting}, \hyperpage{70}
+    \subitem {ux\+Port\+Set\+Interrupt\+Mask\+From\+I\+SR}, 
+		\hyperpage{69}
+    \subitem {ux\+Saved\+Task\+Stack\+Pointer}, \hyperpage{70}
+    \subitem {v\+Port\+Clear\+Interrupt\+Mask\+From\+I\+SR}, 
+		\hyperpage{70}
+    \subitem {v\+Port\+End\+Scheduler}, \hyperpage{70}
+    \subitem {v\+Port\+Increment\+Tick}, \hyperpage{70}
+    \subitem {x\+I\+S\+R\+Stack\+Top}, \hyperpage{71}
+    \subitem {x\+Port\+Start\+Scheduler}, \hyperpage{70}
+  \item {port\+A\+L\+L\+\_\+\+I\+P\+L\+\_\+\+B\+I\+TS}
+    \subitem {portmacro.\+h}, \hyperpage{72}
+  \item {port\+A\+S\+S\+E\+R\+T\+\_\+\+I\+F\+\_\+\+I\+N\+\_\+\+I\+SR}
+    \subitem {portmacro.\+h}, \hyperpage{72}
+  \item {port\+B\+A\+S\+E\+\_\+\+T\+Y\+PE}
+    \subitem {portmacro.\+h}, \hyperpage{72}
+  \item {port\+B\+Y\+T\+E\+\_\+\+A\+L\+I\+G\+N\+M\+E\+NT}
+    \subitem {portmacro.\+h}, \hyperpage{72}
+  \item {port\+C\+H\+AR}
+    \subitem {portmacro.\+h}, \hyperpage{73}
+  \item {port\+C\+H\+E\+C\+K\+\_\+\+I\+S\+R\+\_\+\+S\+T\+A\+CK}
+    \subitem {port.\+c}, \hyperpage{67}
+  \item {port\+C\+L\+E\+A\+R\+\_\+\+I\+N\+T\+E\+R\+R\+U\+P\+T\+\_\+\+M\+A\+S\+K\+\_\+\+F\+R\+O\+M\+\_\+\+I\+SR}
+    \subitem {portmacro.\+h}, \hyperpage{73}
+  \item {port\+C\+O\+N\+T\+E\+X\+T\+\_\+\+S\+I\+ZE}
+    \subitem {I\+S\+R\+\_\+\+Support.\+h}, \hyperpage{20}
+  \item {port\+C\+O\+R\+E\+\_\+\+S\+W\+\_\+0}
+    \subitem {port.\+c}, \hyperpage{67}
+  \item {port\+C\+O\+R\+E\+\_\+\+S\+W\+\_\+1}
+    \subitem {port.\+c}, \hyperpage{67}
+  \item {port\+C\+R\+I\+T\+I\+C\+A\+L\+\_\+\+N\+E\+S\+T\+I\+N\+G\+\_\+\+I\+N\+\_\+\+T\+CB}
+    \subitem {portmacro.\+h}, \hyperpage{73}
+  \item {port\+C\+U1\+\_\+\+B\+IT}
+    \subitem {port.\+c}, \hyperpage{68}
+  \item {port\+D\+I\+S\+A\+B\+L\+E\+\_\+\+I\+N\+T\+E\+R\+R\+U\+P\+TS}
+    \subitem {portmacro.\+h}, \hyperpage{73}
+  \item {port\+D\+O\+U\+B\+LE}
+    \subitem {portmacro.\+h}, \hyperpage{73}
+  \item {port\+E\+N\+A\+B\+L\+E\+\_\+\+I\+N\+T\+E\+R\+R\+U\+P\+TS}
+    \subitem {portmacro.\+h}, \hyperpage{73}
+  \item {port\+E\+N\+D\+\_\+\+S\+W\+I\+T\+C\+H\+I\+N\+G\+\_\+\+I\+SR}
+    \subitem {portmacro.\+h}, \hyperpage{74}
+  \item {port\+E\+N\+T\+E\+R\+\_\+\+C\+R\+I\+T\+I\+C\+AL}
+    \subitem {portmacro.\+h}, \hyperpage{74}
+  \item {port\+E\+P\+C\+\_\+\+S\+T\+A\+C\+K\+\_\+\+L\+O\+C\+A\+T\+I\+ON}
+    \subitem {I\+S\+R\+\_\+\+Support.\+h}, \hyperpage{21}
+  \item {port\+E\+X\+I\+T\+\_\+\+C\+R\+I\+T\+I\+C\+AL}
+    \subitem {portmacro.\+h}, \hyperpage{74}
+  \item {port\+E\+X\+L\+\_\+\+B\+IT}
+    \subitem {port.\+c}, \hyperpage{68}
+  \item {port\+F\+L\+O\+AT}
+    \subitem {portmacro.\+h}, \hyperpage{74}
+  \item {port\+F\+P\+C\+S\+R\+\_\+\+S\+T\+A\+C\+K\+\_\+\+L\+O\+C\+A\+T\+I\+ON}
+    \subitem {I\+S\+R\+\_\+\+Support.\+h}, \hyperpage{21}
+  \item {port\+F\+P\+U\+\_\+\+C\+O\+N\+T\+E\+X\+T\+\_\+\+S\+I\+ZE}
+    \subitem {I\+S\+R\+\_\+\+Support.\+h}, \hyperpage{21}
+  \item {port\+F\+R\+\_\+\+B\+IT}
+    \subitem {port.\+c}, \hyperpage{68}
+  \item {port\+G\+E\+T\+\_\+\+H\+I\+G\+H\+E\+S\+T\+\_\+\+P\+R\+I\+O\+R\+I\+TY}
+    \subitem {portmacro.\+h}, \hyperpage{74}
+  \item {port\+I\+E\+\_\+\+B\+IT}
+    \subitem {port.\+c}, \hyperpage{68}
+  \item {port\+I\+N\+I\+T\+I\+A\+L\+\_\+\+F\+P\+S\+CR}
+    \subitem {port.\+c}, \hyperpage{68}
+  \item {port\+I\+N\+I\+T\+I\+A\+L\+\_\+\+SR}
+    \subitem {port.\+c}, \hyperpage{68}
+  \item {port\+I\+P\+L\+\_\+\+S\+H\+I\+FT}
+    \subitem {portmacro.\+h}, \hyperpage{75}
+  \item {port\+L\+O\+NG}
+    \subitem {portmacro.\+h}, \hyperpage{75}
+  \item {port\+M\+A\+X\+\_\+\+D\+E\+L\+AY}
+    \subitem {portmacro.\+h}, \hyperpage{75}
+  \item {port\+M\+X\+\_\+\+B\+IT}
+    \subitem {port.\+c}, \hyperpage{68}
+  \item {port\+N\+OP}
+    \subitem {portmacro.\+h}, \hyperpage{75}
+  \item {port\+P\+R\+E\+S\+C\+A\+L\+E\+\_\+\+B\+I\+TS}
+    \subitem {port.\+c}, \hyperpage{68}
+  \item {port\+R\+E\+C\+O\+R\+D\+\_\+\+R\+E\+A\+D\+Y\+\_\+\+P\+R\+I\+O\+R\+I\+TY}
+    \subitem {portmacro.\+h}, \hyperpage{75}
+  \item {port\+R\+E\+S\+E\+T\+\_\+\+R\+E\+A\+D\+Y\+\_\+\+P\+R\+I\+O\+R\+I\+TY}
+    \subitem {portmacro.\+h}, \hyperpage{75}
+  \item {port\+S\+E\+T\+\_\+\+I\+N\+T\+E\+R\+R\+U\+P\+T\+\_\+\+M\+A\+S\+K\+\_\+\+F\+R\+O\+M\+\_\+\+I\+SR}
+    \subitem {portmacro.\+h}, \hyperpage{75}
+  \item {port\+S\+H\+O\+RT}
+    \subitem {portmacro.\+h}, \hyperpage{76}
+  \item {port\+S\+T\+A\+C\+K\+\_\+\+G\+R\+O\+W\+TH}
+    \subitem {portmacro.\+h}, \hyperpage{76}
+  \item {port\+S\+T\+A\+C\+K\+\_\+\+T\+Y\+PE}
+    \subitem {portmacro.\+h}, \hyperpage{76}
+  \item {port\+S\+T\+A\+T\+U\+S\+\_\+\+S\+T\+A\+C\+K\+\_\+\+L\+O\+C\+A\+T\+I\+ON}
+    \subitem {I\+S\+R\+\_\+\+Support.\+h}, \hyperpage{21, 22}
+  \item {port\+S\+W0\+\_\+\+B\+IT}
+    \subitem {portmacro.\+h}, \hyperpage{76}
+  \item {port\+T\+A\+S\+K\+\_\+\+F\+U\+N\+C\+T\+I\+O\+N\+\_\+\+P\+R\+O\+TO}
+    \subitem {portmacro.\+h}, \hyperpage{76}
+  \item {port\+T\+A\+S\+K\+\_\+\+F\+U\+N\+C\+T\+I\+ON}
+    \subitem {portmacro.\+h}, \hyperpage{76}
+  \item {port\+T\+A\+S\+K\+\_\+\+H\+A\+S\+\_\+\+F\+P\+U\+\_\+\+S\+T\+A\+C\+K\+\_\+\+L\+O\+C\+A\+T\+I\+ON}
+    \subitem {I\+S\+R\+\_\+\+Support.\+h}, \hyperpage{21}
+  \item {port\+T\+A\+S\+K\+\_\+\+R\+E\+T\+U\+R\+N\+\_\+\+A\+D\+D\+R\+E\+SS}
+    \subitem {port.\+c}, \hyperpage{69}
+  \item {port\+T\+I\+C\+K\+\_\+\+P\+E\+R\+I\+O\+D\+\_\+\+MS}
+    \subitem {portmacro.\+h}, \hyperpage{76}
+  \item {port\+T\+I\+C\+K\+\_\+\+T\+Y\+P\+E\+\_\+\+I\+S\+\_\+\+A\+T\+O\+M\+IC}
+    \subitem {portmacro.\+h}, \hyperpage{77}
+  \item {port\+T\+I\+M\+E\+R\+\_\+\+P\+R\+E\+S\+C\+A\+LE}
+    \subitem {port.\+c}, \hyperpage{69}
+  \item {port\+Y\+I\+E\+LD}
+    \subitem {portmacro.\+h}, \hyperpage{77}
+  \item {portmacro.\+h}
+    \subitem {Base\+Type\+\_\+t}, \hyperpage{77}
+    \subitem {config\+U\+S\+E\+\_\+\+P\+O\+R\+T\+\_\+\+O\+P\+T\+I\+M\+I\+S\+E\+D\+\_\+\+T\+A\+S\+K\+\_\+\+S\+E\+L\+E\+C\+T\+I\+ON}, 
+		\hyperpage{72}
+    \subitem {port\+A\+L\+L\+\_\+\+I\+P\+L\+\_\+\+B\+I\+TS}, 
+		\hyperpage{72}
+    \subitem {port\+A\+S\+S\+E\+R\+T\+\_\+\+I\+F\+\_\+\+I\+N\+\_\+\+I\+SR}, 
+		\hyperpage{72}
+    \subitem {port\+B\+A\+S\+E\+\_\+\+T\+Y\+PE}, \hyperpage{72}
+    \subitem {port\+B\+Y\+T\+E\+\_\+\+A\+L\+I\+G\+N\+M\+E\+NT}, 
+		\hyperpage{72}
+    \subitem {port\+C\+H\+AR}, \hyperpage{73}
+    \subitem {port\+C\+L\+E\+A\+R\+\_\+\+I\+N\+T\+E\+R\+R\+U\+P\+T\+\_\+\+M\+A\+S\+K\+\_\+\+F\+R\+O\+M\+\_\+\+I\+SR}, 
+		\hyperpage{73}
+    \subitem {port\+C\+R\+I\+T\+I\+C\+A\+L\+\_\+\+N\+E\+S\+T\+I\+N\+G\+\_\+\+I\+N\+\_\+\+T\+CB}, 
+		\hyperpage{73}
+    \subitem {port\+D\+I\+S\+A\+B\+L\+E\+\_\+\+I\+N\+T\+E\+R\+R\+U\+P\+TS}, 
+		\hyperpage{73}
+    \subitem {port\+D\+O\+U\+B\+LE}, \hyperpage{73}
+    \subitem {port\+E\+N\+A\+B\+L\+E\+\_\+\+I\+N\+T\+E\+R\+R\+U\+P\+TS}, 
+		\hyperpage{73}
+    \subitem {port\+E\+N\+D\+\_\+\+S\+W\+I\+T\+C\+H\+I\+N\+G\+\_\+\+I\+SR}, 
+		\hyperpage{74}
+    \subitem {port\+E\+N\+T\+E\+R\+\_\+\+C\+R\+I\+T\+I\+C\+AL}, 
+		\hyperpage{74}
+    \subitem {port\+E\+X\+I\+T\+\_\+\+C\+R\+I\+T\+I\+C\+AL}, 
+		\hyperpage{74}
+    \subitem {port\+F\+L\+O\+AT}, \hyperpage{74}
+    \subitem {port\+G\+E\+T\+\_\+\+H\+I\+G\+H\+E\+S\+T\+\_\+\+P\+R\+I\+O\+R\+I\+TY}, 
+		\hyperpage{74}
+    \subitem {port\+I\+P\+L\+\_\+\+S\+H\+I\+FT}, \hyperpage{75}
+    \subitem {port\+L\+O\+NG}, \hyperpage{75}
+    \subitem {port\+M\+A\+X\+\_\+\+D\+E\+L\+AY}, \hyperpage{75}
+    \subitem {port\+N\+OP}, \hyperpage{75}
+    \subitem {port\+R\+E\+C\+O\+R\+D\+\_\+\+R\+E\+A\+D\+Y\+\_\+\+P\+R\+I\+O\+R\+I\+TY}, 
+		\hyperpage{75}
+    \subitem {port\+R\+E\+S\+E\+T\+\_\+\+R\+E\+A\+D\+Y\+\_\+\+P\+R\+I\+O\+R\+I\+TY}, 
+		\hyperpage{75}
+    \subitem {port\+S\+E\+T\+\_\+\+I\+N\+T\+E\+R\+R\+U\+P\+T\+\_\+\+M\+A\+S\+K\+\_\+\+F\+R\+O\+M\+\_\+\+I\+SR}, 
+		\hyperpage{75}
+    \subitem {port\+S\+H\+O\+RT}, \hyperpage{76}
+    \subitem {port\+S\+T\+A\+C\+K\+\_\+\+G\+R\+O\+W\+TH}, 
+		\hyperpage{76}
+    \subitem {port\+S\+T\+A\+C\+K\+\_\+\+T\+Y\+PE}, \hyperpage{76}
+    \subitem {port\+S\+W0\+\_\+\+B\+IT}, \hyperpage{76}
+    \subitem {port\+T\+A\+S\+K\+\_\+\+F\+U\+N\+C\+T\+I\+O\+N\+\_\+\+P\+R\+O\+TO}, 
+		\hyperpage{76}
+    \subitem {port\+T\+A\+S\+K\+\_\+\+F\+U\+N\+C\+T\+I\+ON}, 
+		\hyperpage{76}
+    \subitem {port\+T\+I\+C\+K\+\_\+\+P\+E\+R\+I\+O\+D\+\_\+\+MS}, 
+		\hyperpage{76}
+    \subitem {port\+T\+I\+C\+K\+\_\+\+T\+Y\+P\+E\+\_\+\+I\+S\+\_\+\+A\+T\+O\+M\+IC}, 
+		\hyperpage{77}
+    \subitem {port\+Y\+I\+E\+LD}, \hyperpage{77}
+    \subitem {Stack\+Type\+\_\+t}, \hyperpage{77}
+    \subitem {Tick\+Type\+\_\+t}, \hyperpage{77}
+    \subitem {U\+Base\+Type\+\_\+t}, \hyperpage{77}
+    \subitem {ux\+Interrupt\+Nesting}, \hyperpage{78}
+    \subitem {ux\+Port\+Set\+Interrupt\+Mask\+From\+I\+SR}, 
+		\hyperpage{78}
+    \subitem {v\+Port\+Clear\+Interrupt\+Mask\+From\+I\+SR}, 
+		\hyperpage{78}
+    \subitem {v\+Task\+Enter\+Critical}, \hyperpage{78}
+    \subitem {v\+Task\+Exit\+Critical}, \hyperpage{78}
+  \item {prt\+Data\+Cmd}
+    \subitem {O\+L\+E\+D.\+h}, \hyperpage{46}
+  \item {prt\+Reset}
+    \subitem {O\+L\+E\+D.\+h}, \hyperpage{46}
+  \item {prt\+Vbat\+Ctrl}
+    \subitem {O\+L\+E\+D.\+h}, \hyperpage{46}
+  \item {prt\+Vdd\+Ctrl}
+    \subitem {O\+L\+E\+D.\+h}, \hyperpage{46}
+  \item {pt\+A\+L\+L\+\_\+\+O\+FF}
+    \subitem {Par\+Test.\+c}, \hyperpage{65}
+  \item {pt\+N\+U\+M\+\_\+\+L\+E\+DS}
+    \subitem {Par\+Test.\+c}, \hyperpage{65}
+  \item {pt\+O\+U\+T\+P\+UT}
+    \subitem {Par\+Test.\+c}, \hyperpage{65}
+  \item {px\+Port\+Initialise\+Stack}
+    \subitem {port.\+c}, \hyperpage{69}
+
+  \indexspace
+
+  \item {ra}
+    \subitem {I\+S\+R\+\_\+\+Support.\+h}, \hyperpage{25}
+  \item {rgb\+Fill\+Pat}
+    \subitem {Fill\+Pat.\+c}, \hyperpage{7}
+    \subitem {O\+L\+E\+D.\+c}, \hyperpage{41}
+    \subitem {Oled\+Grph.\+c}, \hyperpage{61}
+  \item {rgb\+Oled\+Bmp}
+    \subitem {O\+L\+E\+D.\+h}, \hyperpage{48}
+    \subitem {Oled\+Char.\+c}, \hyperpage{52}
+    \subitem {Oled\+Grph.\+c}, \hyperpage{61}
+  \item {rgb\+Oled\+Font0}
+    \subitem {Chr\+Font0.\+c}, \hyperpage{5}
+    \subitem {O\+L\+E\+D.\+c}, \hyperpage{41}
+  \item {rgb\+Oled\+Font\+User}
+    \subitem {O\+L\+E\+D.\+c}, \hyperpage{42}
+    \subitem {Oled\+Char.\+c}, \hyperpage{52}
+
+  \indexspace
+
+  \item {s5}
+    \subitem {I\+S\+R\+\_\+\+Support.\+h}, \hyperpage{25}
+  \item {s6}
+    \subitem {I\+S\+R\+\_\+\+Support.\+h}, \hyperpage{25}
+  \item {s7}
+    \subitem {I\+S\+R\+\_\+\+Support.\+h}, \hyperpage{25}
+  \item {s8}
+    \subitem {I\+S\+R\+\_\+\+Support.\+h}, \hyperpage{26}
+  \item {S\+P\+I.\+c}
+    \subitem {Oled\+Put\+Buffer}, \hyperpage{79}
+    \subitem {Spi2\+Put\+Byte}, \hyperpage{79}
+  \item {S\+W1}
+    \subitem {user.\+h}, \hyperpage{87}
+  \item {S\+W2}
+    \subitem {user.\+h}, \hyperpage{87}
+  \item {sp}
+    \subitem {I\+S\+R\+\_\+\+Support.\+h}, \hyperpage{26}
+  \item {Spi2\+Put\+Byte}
+    \subitem {S\+P\+I.\+c}, \hyperpage{79}
+  \item {Stack\+Type\+\_\+t}
+    \subitem {portmacro.\+h}, \hyperpage{77}
+
+  \indexspace
+
+  \item {t0}
+    \subitem {I\+S\+R\+\_\+\+Support.\+h}, \hyperpage{26}
+  \item {t1}
+    \subitem {I\+S\+R\+\_\+\+Support.\+h}, \hyperpage{26}
+  \item {t2}
+    \subitem {I\+S\+R\+\_\+\+Support.\+h}, \hyperpage{27}
+  \item {t3}
+    \subitem {I\+S\+R\+\_\+\+Support.\+h}, \hyperpage{27}
+  \item {t4}
+    \subitem {I\+S\+R\+\_\+\+Support.\+h}, \hyperpage{27}
+  \item {t5}
+    \subitem {I\+S\+R\+\_\+\+Support.\+h}, \hyperpage{27}
+  \item {t6}
+    \subitem {I\+S\+R\+\_\+\+Support.\+h}, \hyperpage{28}
+  \item {t7}
+    \subitem {I\+S\+R\+\_\+\+Support.\+h}, \hyperpage{28}
+  \item {t8}
+    \subitem {I\+S\+R\+\_\+\+Support.\+h}, \hyperpage{28}
+  \item {t9}
+    \subitem {I\+S\+R\+\_\+\+Support.\+h}, \hyperpage{28}
+  \item {Task1}
+    \subitem {user.\+c}, \hyperpage{84}
+    \subitem {user.\+h}, \hyperpage{88}
+  \item {Task2}
+    \subitem {user.\+c}, \hyperpage{84}
+    \subitem {user.\+h}, \hyperpage{88}
+  \item {Tick\+Type\+\_\+t}
+    \subitem {portmacro.\+h}, \hyperpage{77}
+  \item {timer\+I\+N\+T\+E\+R\+R\+U\+P\+T3\+\_\+\+F\+R\+E\+Q\+U\+E\+N\+CY}
+    \subitem {Int\+Queue\+Timer.\+c}, \hyperpage{17}
+  \item {timer\+I\+N\+T\+E\+R\+R\+U\+P\+T4\+\_\+\+F\+R\+E\+Q\+U\+E\+N\+CY}
+    \subitem {Int\+Queue\+Timer.\+c}, \hyperpage{17}
+  \item {timer\+M\+A\+X\+\_\+\+C\+O\+U\+NT}
+    \subitem {timertest.\+c}, \hyperpage{80}
+  \item {timertest.\+c}
+    \subitem {\+\_\+\+\_\+attribute\+\_\+\+\_\+}, \hyperpage{80}
+    \subitem {timer\+M\+A\+X\+\_\+\+C\+O\+U\+NT}, \hyperpage{80}
+    \subitem {v\+T2\+Interrupt\+Handler}, \hyperpage{80}
+  \item {timertest.\+h}
+    \subitem {v\+Setup\+Timer\+Test}, \hyperpage{80}
+
+  \indexspace
+
+  \item {U\+A\+R\+T.\+c}
+    \subitem {U\+A\+R\+T4\+\_\+init}, \hyperpage{81}
+    \subitem {U\+A\+R\+T4\+\_\+putc}, \hyperpage{81}
+    \subitem {U\+A\+R\+T4\+\_\+puts}, \hyperpage{82}
+  \item {U\+A\+R\+T.\+h}
+    \subitem {U\+A\+R\+T4\+\_\+init}, \hyperpage{82}
+    \subitem {U\+A\+R\+T4\+\_\+putc}, \hyperpage{82}
+    \subitem {U\+A\+R\+T4\+\_\+puts}, \hyperpage{83}
+  \item {U\+A\+R\+T4\+\_\+init}
+    \subitem {U\+A\+R\+T.\+c}, \hyperpage{81}
+    \subitem {U\+A\+R\+T.\+h}, \hyperpage{82}
+  \item {U\+A\+R\+T4\+\_\+putc}
+    \subitem {U\+A\+R\+T.\+c}, \hyperpage{81}
+    \subitem {U\+A\+R\+T.\+h}, \hyperpage{82}
+  \item {U\+A\+R\+T4\+\_\+puts}
+    \subitem {U\+A\+R\+T.\+c}, \hyperpage{82}
+    \subitem {U\+A\+R\+T.\+h}, \hyperpage{83}
+  \item {U\+Base\+Type\+\_\+t}
+    \subitem {portmacro.\+h}, \hyperpage{77}
+  \item {ul\+Reg\+Test1\+Cycles}
+    \subitem {main\+\_\+full.\+c}, \hyperpage{37}
+  \item {ul\+Reg\+Test2\+Cycles}
+    \subitem {main\+\_\+full.\+c}, \hyperpage{37}
+  \item {user.\+c}
+    \subitem {Delay\+Ms}, \hyperpage{83}
+    \subitem {Init\+App}, \hyperpage{83}
+    \subitem {Init\+B\+I\+O\+S\+G\+P\+IO}, \hyperpage{84}
+    \subitem {Init\+G\+P\+IO}, \hyperpage{84}
+    \subitem {Task1}, \hyperpage{84}
+    \subitem {Task2}, \hyperpage{84}
+  \item {user.\+h}
+    \subitem {B\+I\+O\+S\+\_\+\+L\+D1\+\_\+\+P\+O\+R\+T\+\_\+\+B\+IT}, 
+		\hyperpage{85}
+    \subitem {B\+I\+O\+S\+\_\+\+L\+D2\+\_\+\+P\+O\+R\+T\+\_\+\+B\+IT}, 
+		\hyperpage{85}
+    \subitem {B\+I\+O\+S\+\_\+\+L\+D3\+\_\+\+P\+O\+R\+T\+\_\+\+B\+IT}, 
+		\hyperpage{85}
+    \subitem {B\+I\+O\+S\+\_\+\+L\+D4\+\_\+\+P\+O\+R\+T\+\_\+\+B\+IT}, 
+		\hyperpage{86}
+    \subitem {B\+I\+O\+S\+\_\+\+L\+D5\+\_\+\+P\+O\+R\+T\+\_\+\+B\+IT}, 
+		\hyperpage{86}
+    \subitem {B\+I\+O\+S\+\_\+\+L\+D6\+\_\+\+P\+O\+R\+T\+\_\+\+B\+IT}, 
+		\hyperpage{86}
+    \subitem {B\+I\+O\+S\+\_\+\+L\+D7\+\_\+\+P\+O\+R\+T\+\_\+\+B\+IT}, 
+		\hyperpage{86}
+    \subitem {B\+I\+O\+S\+\_\+\+L\+D8\+\_\+\+P\+O\+R\+T\+\_\+\+B\+IT}, 
+		\hyperpage{86}
+    \subitem {B\+T\+N1}, \hyperpage{86}
+    \subitem {B\+T\+N2}, \hyperpage{86}
+    \subitem {B\+T\+N3}, \hyperpage{86}
+    \subitem {B\+T\+N4}, \hyperpage{87}
+    \subitem {Clock\+Task}, \hyperpage{88}
+    \subitem {Delay\+Ms}, \hyperpage{88}
+    \subitem {Init\+App}, \hyperpage{88}
+    \subitem {L\+D1\+\_\+\+P\+O\+R\+T\+\_\+\+B\+IT}, \hyperpage{87}
+    \subitem {L\+D2\+\_\+\+P\+O\+R\+T\+\_\+\+B\+IT}, \hyperpage{87}
+    \subitem {L\+D3\+\_\+\+P\+O\+R\+T\+\_\+\+B\+IT}, \hyperpage{87}
+    \subitem {L\+D4\+\_\+\+P\+O\+R\+T\+\_\+\+B\+IT}, \hyperpage{87}
+    \subitem {S\+W1}, \hyperpage{87}
+    \subitem {S\+W2}, \hyperpage{87}
+    \subitem {Task1}, \hyperpage{88}
+    \subitem {Task2}, \hyperpage{88}
+    \subitem {x\+Sem\+Trigger}, \hyperpage{88}
+  \item {ux\+Interrupt\+Nesting}
+    \subitem {port.\+c}, \hyperpage{70}
+    \subitem {portmacro.\+h}, \hyperpage{78}
+  \item {ux\+Port\+Set\+Interrupt\+Mask\+From\+I\+SR}
+    \subitem {port.\+c}, \hyperpage{69}
+    \subitem {portmacro.\+h}, \hyperpage{78}
+  \item {ux\+Saved\+Task\+Stack\+Pointer}
+    \subitem {port.\+c}, \hyperpage{70}
+
+  \indexspace
+
+  \item {v0}
+    \subitem {I\+S\+R\+\_\+\+Support.\+h}, \hyperpage{29}
+  \item {v1}
+    \subitem {I\+S\+R\+\_\+\+Support.\+h}, \hyperpage{29}
+  \item {v\+Application\+Stack\+Overflow\+Hook}
+    \subitem {main.\+c}, \hyperpage{32}
+  \item {v\+Application\+Tick\+Hook}
+    \subitem {main.\+c}, \hyperpage{32}
+  \item {v\+Assert\+Called}
+    \subitem {Free\+R\+T\+O\+S\+Config.\+h}, \hyperpage{16}
+    \subitem {main.\+c}, \hyperpage{32}
+  \item {v\+Hardware\+Configure\+Performance}
+    \subitem {Config\+Performance.\+c}, \hyperpage{6}
+    \subitem {Config\+Performance.\+h}, \hyperpage{7}
+  \item {v\+Hardware\+Use\+Multi\+Vectored\+Interrupts}
+    \subitem {Config\+Performance.\+c}, \hyperpage{6}
+    \subitem {Config\+Performance.\+h}, \hyperpage{7}
+  \item {v\+Initialise\+Timer\+For\+Int\+Queue\+Test}
+    \subitem {Int\+Queue\+Timer.\+h}, \hyperpage{18}
+  \item {v\+Par\+Test\+Initialise}
+    \subitem {Par\+Test.\+c}, \hyperpage{65}
+  \item {v\+Par\+Test\+Set\+L\+ED}
+    \subitem {Par\+Test.\+c}, \hyperpage{66}
+  \item {v\+Par\+Test\+Toggle\+L\+ED}
+    \subitem {Par\+Test.\+c}, \hyperpage{66}
+  \item {v\+Port\+Clear\+Interrupt\+Mask\+From\+I\+SR}
+    \subitem {port.\+c}, \hyperpage{70}
+    \subitem {portmacro.\+h}, \hyperpage{78}
+  \item {v\+Port\+End\+Scheduler}
+    \subitem {port.\+c}, \hyperpage{70}
+  \item {v\+Port\+Increment\+Tick}
+    \subitem {port.\+c}, \hyperpage{70}
+  \item {v\+Setup\+Timer\+Test}
+    \subitem {timertest.\+h}, \hyperpage{80}
+  \item {v\+Start\+I\+S\+R\+Triggered\+Task}
+    \subitem {main\+\_\+full.\+c}, \hyperpage{37}
+  \item {v\+Start\+Math\+Tasks}
+    \subitem {flop\+\_\+mz.\+c}, \hyperpage{8}
+    \subitem {flop\+\_\+mz.\+h}, \hyperpage{9}
+  \item {v\+T2\+Interrupt\+Handler}
+    \subitem {timertest.\+c}, \hyperpage{80}
+  \item {v\+T3\+Interrupt\+Handler}
+    \subitem {Int\+Queue\+Timer.\+c}, \hyperpage{17}
+  \item {v\+T4\+Interrupt\+Handler}
+    \subitem {Int\+Queue\+Timer.\+c}, \hyperpage{17}
+  \item {v\+T5\+Interrupt\+Handler}
+    \subitem {I\+S\+R\+Triggered\+Task.\+c}, \hyperpage{31}
+  \item {v\+Task\+Enter\+Critical}
+    \subitem {portmacro.\+h}, \hyperpage{78}
+  \item {v\+Task\+Exit\+Critical}
+    \subitem {portmacro.\+h}, \hyperpage{78}
+
+  \indexspace
+
+  \item {x\+Are\+Maths\+Task\+Still\+Running}
+    \subitem {flop\+\_\+mz.\+c}, \hyperpage{8}
+    \subitem {flop\+\_\+mz.\+h}, \hyperpage{9}
+  \item {x\+I\+S\+R\+Stack\+Top}
+    \subitem {port.\+c}, \hyperpage{71}
+  \item {x\+Mutex\+O\+L\+ED}
+    \subitem {O\+L\+E\+D.\+c}, \hyperpage{42}
+    \subitem {O\+L\+E\+D.\+h}, \hyperpage{48}
+  \item {x\+Port\+Start\+Scheduler}
+    \subitem {port.\+c}, \hyperpage{70}
+  \item {x\+Sem\+Trigger}
+    \subitem {user.\+h}, \hyperpage{88}
+  \item {x\+Timer0\+Handler}
+    \subitem {Int\+Queue\+Timer.\+h}, \hyperpage{18}
+  \item {x\+Timer1\+Handler}
+    \subitem {Int\+Queue\+Timer.\+h}, \hyperpage{18}
+  \item {xch\+Oled\+Cur}
+    \subitem {Oled\+Char.\+c}, \hyperpage{52}
+  \item {xch\+Oled\+Max}
+    \subitem {O\+L\+E\+D.\+c}, \hyperpage{42}
+    \subitem {Oled\+Char.\+c}, \hyperpage{52}
+  \item {xco\+Oled\+Cur}
+    \subitem {O\+L\+E\+D.\+c}, \hyperpage{42}
+    \subitem {Oled\+Char.\+c}, \hyperpage{52}
+    \subitem {Oled\+Grph.\+c}, \hyperpage{61}
+
+  \indexspace
+
+  \item {ych\+Oled\+Cur}
+    \subitem {Oled\+Char.\+c}, \hyperpage{52}
+  \item {ych\+Oled\+Max}
+    \subitem {O\+L\+E\+D.\+c}, \hyperpage{42}
+    \subitem {Oled\+Char.\+c}, \hyperpage{53}
+  \item {yco\+Oled\+Cur}
+    \subitem {O\+L\+E\+D.\+c}, \hyperpage{42}
+    \subitem {Oled\+Char.\+c}, \hyperpage{53}
+    \subitem {Oled\+Grph.\+c}, \hyperpage{61}
+
+  \indexspace
+
+  \item {zero}
+    \subitem {I\+S\+R\+\_\+\+Support.\+h}, \hyperpage{29}
+
+\end{theindex}
