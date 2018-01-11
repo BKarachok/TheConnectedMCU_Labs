@@ -1,0 +1,422 @@
+\begin{theindex}
+
+  \item {$<$math.\+h$>$\+: Mathematics}, \hyperpage{11}
+    \subitem {\+\_\+\+\_\+\+A\+T\+T\+R\+\_\+\+C\+O\+N\+S\+T\+\_\+\+\_\+}, 
+		\hyperpage{13}
+    \subitem {acos}, \hyperpage{20}
+    \subitem {acosf}, \hyperpage{13}
+    \subitem {asin}, \hyperpage{20}
+    \subitem {asinf}, \hyperpage{13}
+    \subitem {atan}, \hyperpage{20}
+    \subitem {atan2}, \hyperpage{20}
+    \subitem {atan2f}, \hyperpage{13}
+    \subitem {atanf}, \hyperpage{13}
+    \subitem {cbrt}, \hyperpage{20}
+    \subitem {cbrtf}, \hyperpage{14}
+    \subitem {ceil}, \hyperpage{20}
+    \subitem {ceilf}, \hyperpage{14}
+    \subitem {copysignf}, \hyperpage{14}
+    \subitem {cos}, \hyperpage{21}
+    \subitem {cosf}, \hyperpage{14}
+    \subitem {cosh}, \hyperpage{21}
+    \subitem {coshf}, \hyperpage{14}
+    \subitem {exp}, \hyperpage{21}
+    \subitem {expf}, \hyperpage{14}
+    \subitem {fabs}, \hyperpage{21}
+    \subitem {fabsf}, \hyperpage{14}
+    \subitem {fdim}, \hyperpage{21}
+    \subitem {fdimf}, \hyperpage{14}
+    \subitem {floor}, \hyperpage{21}
+    \subitem {floorf}, \hyperpage{15}
+    \subitem {fma}, \hyperpage{22}
+    \subitem {fmaf}, \hyperpage{15}
+    \subitem {fmax}, \hyperpage{22}
+    \subitem {fmaxf}, \hyperpage{15}
+    \subitem {fmin}, \hyperpage{22}
+    \subitem {fminf}, \hyperpage{15}
+    \subitem {fmod}, \hyperpage{22}
+    \subitem {fmodf}, \hyperpage{15}
+    \subitem {frexp}, \hyperpage{22}
+    \subitem {frexpf}, \hyperpage{15}
+    \subitem {hypot}, \hyperpage{23}
+    \subitem {hypotf}, \hyperpage{15}
+    \subitem {I\+N\+F\+I\+N\+I\+TY}, \hyperpage{15}
+    \subitem {isfinitef}, \hyperpage{16}
+    \subitem {isinf}, \hyperpage{23}
+    \subitem {isinff}, \hyperpage{16}
+    \subitem {isnan}, \hyperpage{23}
+    \subitem {isnanf}, \hyperpage{16}
+    \subitem {ldexp}, \hyperpage{23}
+    \subitem {ldexpf}, \hyperpage{16}
+    \subitem {log}, \hyperpage{24}
+    \subitem {log10}, \hyperpage{24}
+    \subitem {log10f}, \hyperpage{16}
+    \subitem {logf}, \hyperpage{16}
+    \subitem {lrint}, \hyperpage{24}
+    \subitem {lrintf}, \hyperpage{16}
+    \subitem {lround}, \hyperpage{24}
+    \subitem {lroundf}, \hyperpage{16}
+    \subitem {M\+\_\+1\+\_\+\+PI}, \hyperpage{17}
+    \subitem {M\+\_\+2\+\_\+\+PI}, \hyperpage{17}
+    \subitem {M\+\_\+2\+\_\+\+S\+Q\+R\+T\+PI}, \hyperpage{17}
+    \subitem {M\+\_\+\+L\+N10}, \hyperpage{17}
+    \subitem {M\+\_\+\+L\+N2}, \hyperpage{17}
+    \subitem {M\+\_\+\+L\+O\+G10E}, \hyperpage{17}
+    \subitem {M\+\_\+\+L\+O\+G2E}, \hyperpage{17}
+    \subitem {M\+\_\+\+P\+I\+\_\+2}, \hyperpage{18}
+    \subitem {M\+\_\+\+P\+I\+\_\+4}, \hyperpage{18}
+    \subitem {M\+\_\+\+PI}, \hyperpage{18}
+    \subitem {M\+\_\+\+S\+Q\+R\+T1\+\_\+2}, \hyperpage{18}
+    \subitem {M\+\_\+\+S\+Q\+R\+T2}, \hyperpage{18}
+    \subitem {M\+\_\+E}, \hyperpage{17}
+    \subitem {modf}, \hyperpage{24}
+    \subitem {modff}, \hyperpage{25}
+    \subitem {N\+AN}, \hyperpage{18}
+    \subitem {pow}, \hyperpage{25}
+    \subitem {powf}, \hyperpage{18}
+    \subitem {round}, \hyperpage{25}
+    \subitem {roundf}, \hyperpage{18}
+    \subitem {signbit}, \hyperpage{25}
+    \subitem {signbitf}, \hyperpage{19}
+    \subitem {sin}, \hyperpage{26}
+    \subitem {sinf}, \hyperpage{19}
+    \subitem {sinh}, \hyperpage{26}
+    \subitem {sinhf}, \hyperpage{19}
+    \subitem {sqrt}, \hyperpage{26}
+    \subitem {sqrtf}, \hyperpage{26}
+    \subitem {square}, \hyperpage{26}
+    \subitem {squaref}, \hyperpage{19}
+    \subitem {tan}, \hyperpage{26}
+    \subitem {tanf}, \hyperpage{19}
+    \subitem {tanh}, \hyperpage{27}
+    \subitem {tanhf}, \hyperpage{19}
+    \subitem {trunc}, \hyperpage{27}
+    \subitem {truncf}, \hyperpage{19}
+  \item {\+\_\+\+\_\+\+A\+T\+T\+R\+\_\+\+C\+O\+N\+S\+T\+\_\+\+\_\+}
+    \subitem {$<$math.\+h$>$\+: Mathematics}, \hyperpage{13}
+
+  \indexspace
+
+  \item {acos}
+    \subitem {$<$math.\+h$>$\+: Mathematics}, \hyperpage{20}
+  \item {acosf}
+    \subitem {$<$math.\+h$>$\+: Mathematics}, \hyperpage{13}
+  \item {allpinslow}
+    \subitem {light\+\_\+control\+\_\+system.\+c}, \hyperpage{35}
+  \item {asin}
+    \subitem {$<$math.\+h$>$\+: Mathematics}, \hyperpage{20}
+  \item {asinf}
+    \subitem {$<$math.\+h$>$\+: Mathematics}, \hyperpage{13}
+  \item {atan}
+    \subitem {$<$math.\+h$>$\+: Mathematics}, \hyperpage{20}
+  \item {atan2}
+    \subitem {$<$math.\+h$>$\+: Mathematics}, \hyperpage{20}
+  \item {atan2f}
+    \subitem {$<$math.\+h$>$\+: Mathematics}, \hyperpage{13}
+  \item {atanf}
+    \subitem {$<$math.\+h$>$\+: Mathematics}, \hyperpage{13}
+  \item {available}
+    \subitem {Two\+Wire}, \hyperpage{30}
+
+  \indexspace
+
+  \item {B\+H1750\+\_\+\+Device}
+    \subitem {light\+\_\+control\+\_\+system.\+c}, \hyperpage{36}
+  \item {B\+H1750\+\_\+\+Read}
+    \subitem {light\+\_\+control\+\_\+system.\+c}, \hyperpage{35}
+  \item {B\+U\+F\+F\+E\+R\+\_\+\+L\+E\+N\+G\+TH}
+    \subitem {Wire.\+h}, \hyperpage{39}
+  \item {begin}
+    \subitem {Two\+Wire}, \hyperpage{30}
+  \item {begin\+Transmission}
+    \subitem {Two\+Wire}, \hyperpage{30}
+
+  \indexspace
+
+  \item {cbrt}
+    \subitem {$<$math.\+h$>$\+: Mathematics}, \hyperpage{20}
+  \item {cbrtf}
+    \subitem {$<$math.\+h$>$\+: Mathematics}, \hyperpage{14}
+  \item {ceil}
+    \subitem {$<$math.\+h$>$\+: Mathematics}, \hyperpage{20}
+  \item {ceilf}
+    \subitem {$<$math.\+h$>$\+: Mathematics}, \hyperpage{14}
+  \item {Check\+\_\+\+Protocol}
+    \subitem {light\+\_\+control\+\_\+system.\+c}, \hyperpage{36}
+  \item {Configure\+\_\+\+B\+H1750}
+    \subitem {light\+\_\+control\+\_\+system.\+c}, \hyperpage{36}
+  \item {copysignf}
+    \subitem {$<$math.\+h$>$\+: Mathematics}, \hyperpage{14}
+  \item {cos}
+    \subitem {$<$math.\+h$>$\+: Mathematics}, \hyperpage{21}
+  \item {cosf}
+    \subitem {$<$math.\+h$>$\+: Mathematics}, \hyperpage{14}
+  \item {cosh}
+    \subitem {$<$math.\+h$>$\+: Mathematics}, \hyperpage{21}
+  \item {coshf}
+    \subitem {$<$math.\+h$>$\+: Mathematics}, \hyperpage{14}
+
+  \indexspace
+
+  \item {D\+:/\+G\+I\+T/\+The\+Connected\+M\+C\+U\+\_\+\+Labs/bkarachok/\+Final\+\_\+work\+\_\+\+Io\+T/\+R\+E\+A\+D\+M\+E.\+md}, 
+		\hyperpage{39}
+  \item {D\+:/\+G\+I\+T/\+The\+Connected\+M\+C\+U\+\_\+\+Labs/bkarachok/\+Final\+\_\+work\+\_\+\+Io\+T/\+W\+String.\+h}, 
+		\hyperpage{40}
+  \item {D\+:/\+G\+I\+T/\+The\+Connected\+M\+C\+U\+\_\+\+Labs/bkarachok/\+Final\+\_\+work\+\_\+\+Io\+T/\+Wire.\+h}, 
+		\hyperpage{39}
+  \item {D\+:/\+G\+I\+T/\+The\+Connected\+M\+C\+U\+\_\+\+Labs/bkarachok/\+Final\+\_\+work\+\_\+\+Io\+T/light\+\_\+control\+\_\+system.\+c}, 
+		\hyperpage{35}
+  \item {D\+:/\+G\+I\+T/\+The\+Connected\+M\+C\+U\+\_\+\+Labs/bkarachok/\+Final\+\_\+work\+\_\+\+Io\+T/math.\+h}, 
+		\hyperpage{37}
+
+  \indexspace
+
+  \item {end}
+    \subitem {Two\+Wire}, \hyperpage{31}
+  \item {end\+Transmission}
+    \subitem {Two\+Wire}, \hyperpage{31}
+  \item {exp}
+    \subitem {$<$math.\+h$>$\+: Mathematics}, \hyperpage{21}
+  \item {expf}
+    \subitem {$<$math.\+h$>$\+: Mathematics}, \hyperpage{14}
+
+  \indexspace
+
+  \item {fabs}
+    \subitem {$<$math.\+h$>$\+: Mathematics}, \hyperpage{21}
+  \item {fabsf}
+    \subitem {$<$math.\+h$>$\+: Mathematics}, \hyperpage{14}
+  \item {fdim}
+    \subitem {$<$math.\+h$>$\+: Mathematics}, \hyperpage{21}
+  \item {fdimf}
+    \subitem {$<$math.\+h$>$\+: Mathematics}, \hyperpage{14}
+  \item {floor}
+    \subitem {$<$math.\+h$>$\+: Mathematics}, \hyperpage{21}
+  \item {floorf}
+    \subitem {$<$math.\+h$>$\+: Mathematics}, \hyperpage{15}
+  \item {flush}
+    \subitem {Two\+Wire}, \hyperpage{31}
+  \item {fma}
+    \subitem {$<$math.\+h$>$\+: Mathematics}, \hyperpage{22}
+  \item {fmaf}
+    \subitem {$<$math.\+h$>$\+: Mathematics}, \hyperpage{15}
+  \item {fmax}
+    \subitem {$<$math.\+h$>$\+: Mathematics}, \hyperpage{22}
+  \item {fmaxf}
+    \subitem {$<$math.\+h$>$\+: Mathematics}, \hyperpage{15}
+  \item {fmin}
+    \subitem {$<$math.\+h$>$\+: Mathematics}, \hyperpage{22}
+  \item {fminf}
+    \subitem {$<$math.\+h$>$\+: Mathematics}, \hyperpage{15}
+  \item {fmod}
+    \subitem {$<$math.\+h$>$\+: Mathematics}, \hyperpage{22}
+  \item {fmodf}
+    \subitem {$<$math.\+h$>$\+: Mathematics}, \hyperpage{15}
+  \item {frexp}
+    \subitem {$<$math.\+h$>$\+: Mathematics}, \hyperpage{22}
+  \item {frexpf}
+    \subitem {$<$math.\+h$>$\+: Mathematics}, \hyperpage{15}
+
+  \indexspace
+
+  \item {hypot}
+    \subitem {$<$math.\+h$>$\+: Mathematics}, \hyperpage{23}
+  \item {hypotf}
+    \subitem {$<$math.\+h$>$\+: Mathematics}, \hyperpage{15}
+
+  \indexspace
+
+  \item {I\+N\+F\+I\+N\+I\+TY}
+    \subitem {$<$math.\+h$>$\+: Mathematics}, \hyperpage{15}
+  \item {in\+Serial}
+    \subitem {light\+\_\+control\+\_\+system.\+c}, \hyperpage{36}
+  \item {isfinitef}
+    \subitem {$<$math.\+h$>$\+: Mathematics}, \hyperpage{16}
+  \item {isinf}
+    \subitem {$<$math.\+h$>$\+: Mathematics}, \hyperpage{23}
+  \item {isinff}
+    \subitem {$<$math.\+h$>$\+: Mathematics}, \hyperpage{16}
+  \item {isnan}
+    \subitem {$<$math.\+h$>$\+: Mathematics}, \hyperpage{23}
+  \item {isnanf}
+    \subitem {$<$math.\+h$>$\+: Mathematics}, \hyperpage{16}
+
+  \indexspace
+
+  \item {lamp}
+    \subitem {light\+\_\+control\+\_\+system.\+c}, \hyperpage{36}
+  \item {ldexp}
+    \subitem {$<$math.\+h$>$\+: Mathematics}, \hyperpage{23}
+  \item {ldexpf}
+    \subitem {$<$math.\+h$>$\+: Mathematics}, \hyperpage{16}
+  \item {light\+\_\+control\+\_\+system.\+c}
+    \subitem {allpinslow}, \hyperpage{35}
+    \subitem {B\+H1750\+\_\+\+Device}, \hyperpage{36}
+    \subitem {B\+H1750\+\_\+\+Read}, \hyperpage{35}
+    \subitem {Check\+\_\+\+Protocol}, \hyperpage{36}
+    \subitem {Configure\+\_\+\+B\+H1750}, \hyperpage{36}
+    \subitem {in\+Serial}, \hyperpage{36}
+    \subitem {lamp}, \hyperpage{36}
+    \subitem {loop}, \hyperpage{36}
+    \subitem {Lux}, \hyperpage{37}
+    \subitem {setup}, \hyperpage{36}
+    \subitem {sm\+\_\+mode}, \hyperpage{37}
+  \item {log}
+    \subitem {$<$math.\+h$>$\+: Mathematics}, \hyperpage{24}
+  \item {log10}
+    \subitem {$<$math.\+h$>$\+: Mathematics}, \hyperpage{24}
+  \item {log10f}
+    \subitem {$<$math.\+h$>$\+: Mathematics}, \hyperpage{16}
+  \item {logf}
+    \subitem {$<$math.\+h$>$\+: Mathematics}, \hyperpage{16}
+  \item {loop}
+    \subitem {light\+\_\+control\+\_\+system.\+c}, \hyperpage{36}
+  \item {lrint}
+    \subitem {$<$math.\+h$>$\+: Mathematics}, \hyperpage{24}
+  \item {lrintf}
+    \subitem {$<$math.\+h$>$\+: Mathematics}, \hyperpage{16}
+  \item {lround}
+    \subitem {$<$math.\+h$>$\+: Mathematics}, \hyperpage{24}
+  \item {lroundf}
+    \subitem {$<$math.\+h$>$\+: Mathematics}, \hyperpage{16}
+  \item {Lux}
+    \subitem {light\+\_\+control\+\_\+system.\+c}, \hyperpage{37}
+
+  \indexspace
+
+  \item {M\+\_\+1\+\_\+\+PI}
+    \subitem {$<$math.\+h$>$\+: Mathematics}, \hyperpage{17}
+  \item {M\+\_\+2\+\_\+\+PI}
+    \subitem {$<$math.\+h$>$\+: Mathematics}, \hyperpage{17}
+  \item {M\+\_\+2\+\_\+\+S\+Q\+R\+T\+PI}
+    \subitem {$<$math.\+h$>$\+: Mathematics}, \hyperpage{17}
+  \item {M\+\_\+\+L\+N10}
+    \subitem {$<$math.\+h$>$\+: Mathematics}, \hyperpage{17}
+  \item {M\+\_\+\+L\+N2}
+    \subitem {$<$math.\+h$>$\+: Mathematics}, \hyperpage{17}
+  \item {M\+\_\+\+L\+O\+G10E}
+    \subitem {$<$math.\+h$>$\+: Mathematics}, \hyperpage{17}
+  \item {M\+\_\+\+L\+O\+G2E}
+    \subitem {$<$math.\+h$>$\+: Mathematics}, \hyperpage{17}
+  \item {M\+\_\+\+P\+I\+\_\+2}
+    \subitem {$<$math.\+h$>$\+: Mathematics}, \hyperpage{18}
+  \item {M\+\_\+\+P\+I\+\_\+4}
+    \subitem {$<$math.\+h$>$\+: Mathematics}, \hyperpage{18}
+  \item {M\+\_\+\+PI}
+    \subitem {$<$math.\+h$>$\+: Mathematics}, \hyperpage{18}
+  \item {M\+\_\+\+S\+Q\+R\+T1\+\_\+2}
+    \subitem {$<$math.\+h$>$\+: Mathematics}, \hyperpage{18}
+  \item {M\+\_\+\+S\+Q\+R\+T2}
+    \subitem {$<$math.\+h$>$\+: Mathematics}, \hyperpage{18}
+  \item {M\+\_\+E}
+    \subitem {$<$math.\+h$>$\+: Mathematics}, \hyperpage{17}
+  \item {modf}
+    \subitem {$<$math.\+h$>$\+: Mathematics}, \hyperpage{24}
+  \item {modff}
+    \subitem {$<$math.\+h$>$\+: Mathematics}, \hyperpage{25}
+
+  \indexspace
+
+  \item {N\+AN}
+    \subitem {$<$math.\+h$>$\+: Mathematics}, \hyperpage{18}
+
+  \indexspace
+
+  \item {on\+Receive}
+    \subitem {Two\+Wire}, \hyperpage{31}
+  \item {on\+Request}
+    \subitem {Two\+Wire}, \hyperpage{31}
+
+  \indexspace
+
+  \item {peek}
+    \subitem {Two\+Wire}, \hyperpage{31}
+  \item {pow}
+    \subitem {$<$math.\+h$>$\+: Mathematics}, \hyperpage{25}
+  \item {powf}
+    \subitem {$<$math.\+h$>$\+: Mathematics}, \hyperpage{18}
+
+  \indexspace
+
+  \item {read}
+    \subitem {Two\+Wire}, \hyperpage{32}
+  \item {request\+From}
+    \subitem {Two\+Wire}, \hyperpage{32}
+  \item {round}
+    \subitem {$<$math.\+h$>$\+: Mathematics}, \hyperpage{25}
+  \item {roundf}
+    \subitem {$<$math.\+h$>$\+: Mathematics}, \hyperpage{18}
+
+  \indexspace
+
+  \item {set\+Clock}
+    \subitem {Two\+Wire}, \hyperpage{33}
+  \item {setup}
+    \subitem {light\+\_\+control\+\_\+system.\+c}, \hyperpage{36}
+  \item {signbit}
+    \subitem {$<$math.\+h$>$\+: Mathematics}, \hyperpage{25}
+  \item {signbitf}
+    \subitem {$<$math.\+h$>$\+: Mathematics}, \hyperpage{19}
+  \item {sin}
+    \subitem {$<$math.\+h$>$\+: Mathematics}, \hyperpage{26}
+  \item {sinf}
+    \subitem {$<$math.\+h$>$\+: Mathematics}, \hyperpage{19}
+  \item {sinh}
+    \subitem {$<$math.\+h$>$\+: Mathematics}, \hyperpage{26}
+  \item {sinhf}
+    \subitem {$<$math.\+h$>$\+: Mathematics}, \hyperpage{19}
+  \item {sm\+\_\+mode}
+    \subitem {light\+\_\+control\+\_\+system.\+c}, \hyperpage{37}
+  \item {sqrt}
+    \subitem {$<$math.\+h$>$\+: Mathematics}, \hyperpage{26}
+  \item {sqrtf}
+    \subitem {$<$math.\+h$>$\+: Mathematics}, \hyperpage{26}
+  \item {square}
+    \subitem {$<$math.\+h$>$\+: Mathematics}, \hyperpage{26}
+  \item {squaref}
+    \subitem {$<$math.\+h$>$\+: Mathematics}, \hyperpage{19}
+
+  \indexspace
+
+  \item {tan}
+    \subitem {$<$math.\+h$>$\+: Mathematics}, \hyperpage{26}
+  \item {tanf}
+    \subitem {$<$math.\+h$>$\+: Mathematics}, \hyperpage{19}
+  \item {tanh}
+    \subitem {$<$math.\+h$>$\+: Mathematics}, \hyperpage{27}
+  \item {tanhf}
+    \subitem {$<$math.\+h$>$\+: Mathematics}, \hyperpage{19}
+  \item {trunc}
+    \subitem {$<$math.\+h$>$\+: Mathematics}, \hyperpage{27}
+  \item {truncf}
+    \subitem {$<$math.\+h$>$\+: Mathematics}, \hyperpage{19}
+  \item {Two\+Wire}, \hyperpage{29}
+    \subitem {available}, \hyperpage{30}
+    \subitem {begin}, \hyperpage{30}
+    \subitem {begin\+Transmission}, \hyperpage{30}
+    \subitem {end}, \hyperpage{31}
+    \subitem {end\+Transmission}, \hyperpage{31}
+    \subitem {flush}, \hyperpage{31}
+    \subitem {on\+Receive}, \hyperpage{31}
+    \subitem {on\+Request}, \hyperpage{31}
+    \subitem {peek}, \hyperpage{31}
+    \subitem {read}, \hyperpage{32}
+    \subitem {request\+From}, \hyperpage{32}
+    \subitem {set\+Clock}, \hyperpage{33}
+    \subitem {Two\+Wire}, \hyperpage{30}
+    \subitem {write}, \hyperpage{33}
+
+  \indexspace
+
+  \item {W\+I\+R\+E\+\_\+\+H\+A\+S\+\_\+\+E\+ND}
+    \subitem {Wire.\+h}, \hyperpage{39}
+  \item {Wire}
+    \subitem {Wire.\+h}, \hyperpage{40}
+  \item {Wire.\+h}
+    \subitem {B\+U\+F\+F\+E\+R\+\_\+\+L\+E\+N\+G\+TH}, \hyperpage{39}
+    \subitem {W\+I\+R\+E\+\_\+\+H\+A\+S\+\_\+\+E\+ND}, \hyperpage{39}
+    \subitem {Wire}, \hyperpage{40}
+  \item {write}
+    \subitem {Two\+Wire}, \hyperpage{33}
+
+\end{theindex}

@@ -1,0 +1,105 @@
+\hypertarget{light__control__system_8c}{}\section{D\+:/\+G\+I\+T/\+The\+Connected\+M\+C\+U\+\_\+\+Labs/bkarachok/\+Final\+\_\+work\+\_\+\+Io\+T/light\+\_\+control\+\_\+system.c File Reference}
+\label{light__control__system_8c}\index{D\+:/\+G\+I\+T/\+The\+Connected\+M\+C\+U\+\_\+\+Labs/bkarachok/\+Final\+\_\+work\+\_\+\+Io\+T/light\+\_\+control\+\_\+system.\+c@{D\+:/\+G\+I\+T/\+The\+Connected\+M\+C\+U\+\_\+\+Labs/bkarachok/\+Final\+\_\+work\+\_\+\+Io\+T/light\+\_\+control\+\_\+system.\+c}}
+{\ttfamily \#include $<$Wire.\+h$>$}\newline
+{\ttfamily \#include $<$math.\+h$>$}\newline
+{\ttfamily \#include $<$W\+String.\+h$>$}\newline
+\subsection*{Functions}
+\begin{DoxyCompactItemize}
+\item 
+void \hyperlink{light__control__system_8c_a4fc01d736fe50cf5b977f755b675f11d}{setup} ()
+\item 
+void \hyperlink{light__control__system_8c_afe461d27b9c48d5921c00d521181f12f}{loop} ()
+\item 
+void \hyperlink{light__control__system_8c_a67f7a976d72ee11cfc909b11fa50e9e1}{allpinslow} ()
+\item 
+void \hyperlink{light__control__system_8c_acdfc4f715d4bd69cf7861626eafeff6b}{Check\+\_\+\+Protocol} (char in\+Str\mbox{[}$\,$\mbox{]})
+\item 
+unsigned int \hyperlink{light__control__system_8c_aa185bdbdbba8e59b2c5b7492360b6704}{B\+H1750\+\_\+\+Read} ()
+\item 
+void \hyperlink{light__control__system_8c_ab6200b4f9fee2fb11899b072ae482b73}{Configure\+\_\+\+B\+H1750} ()
+\end{DoxyCompactItemize}
+\subsection*{Variables}
+\begin{DoxyCompactItemize}
+\item 
+int \hyperlink{light__control__system_8c_a6d490f1537c9f456aea637cce9954046}{B\+H1750\+\_\+\+Device} = 0x23
+\item 
+unsigned int \hyperlink{light__control__system_8c_a1fbc462e581bd3b7fc8ee55f52c82564}{Lux}
+\item 
+int \hyperlink{light__control__system_8c_a6c443981ec51188cf74ec1efeab4a381}{lamp} = 13
+\item 
+int \hyperlink{light__control__system_8c_ad70434610521165e614a30d4ca473ab5}{sm\+\_\+mode} = 0
+\item 
+char \hyperlink{light__control__system_8c_a983f8c20943b37976c97d5688abfe5cf}{in\+Serial} \mbox{[}15\mbox{]}
+\end{DoxyCompactItemize}
+
+
+\subsection{Function Documentation}
+\mbox{\Hypertarget{light__control__system_8c_a67f7a976d72ee11cfc909b11fa50e9e1}\label{light__control__system_8c_a67f7a976d72ee11cfc909b11fa50e9e1}} 
+\index{light\+\_\+control\+\_\+system.\+c@{light\+\_\+control\+\_\+system.\+c}!allpinslow@{allpinslow}}
+\index{allpinslow@{allpinslow}!light\+\_\+control\+\_\+system.\+c@{light\+\_\+control\+\_\+system.\+c}}
+\subsubsection{\texorpdfstring{allpinslow()}{allpinslow()}}
+{\footnotesize\ttfamily void allpinslow (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+\mbox{\Hypertarget{light__control__system_8c_aa185bdbdbba8e59b2c5b7492360b6704}\label{light__control__system_8c_aa185bdbdbba8e59b2c5b7492360b6704}} 
+\index{light\+\_\+control\+\_\+system.\+c@{light\+\_\+control\+\_\+system.\+c}!B\+H1750\+\_\+\+Read@{B\+H1750\+\_\+\+Read}}
+\index{B\+H1750\+\_\+\+Read@{B\+H1750\+\_\+\+Read}!light\+\_\+control\+\_\+system.\+c@{light\+\_\+control\+\_\+system.\+c}}
+\subsubsection{\texorpdfstring{B\+H1750\+\_\+\+Read()}{BH1750\_Read()}}
+{\footnotesize\ttfamily unsigned int B\+H1750\+\_\+\+Read (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+\mbox{\Hypertarget{light__control__system_8c_acdfc4f715d4bd69cf7861626eafeff6b}\label{light__control__system_8c_acdfc4f715d4bd69cf7861626eafeff6b}} 
+\index{light\+\_\+control\+\_\+system.\+c@{light\+\_\+control\+\_\+system.\+c}!Check\+\_\+\+Protocol@{Check\+\_\+\+Protocol}}
+\index{Check\+\_\+\+Protocol@{Check\+\_\+\+Protocol}!light\+\_\+control\+\_\+system.\+c@{light\+\_\+control\+\_\+system.\+c}}
+\subsubsection{\texorpdfstring{Check\+\_\+\+Protocol()}{Check\_Protocol()}}
+{\footnotesize\ttfamily void Check\+\_\+\+Protocol (\begin{DoxyParamCaption}\item[{char}]{in\+Str\mbox{[}$\,$\mbox{]} }\end{DoxyParamCaption})}
+
+\mbox{\Hypertarget{light__control__system_8c_ab6200b4f9fee2fb11899b072ae482b73}\label{light__control__system_8c_ab6200b4f9fee2fb11899b072ae482b73}} 
+\index{light\+\_\+control\+\_\+system.\+c@{light\+\_\+control\+\_\+system.\+c}!Configure\+\_\+\+B\+H1750@{Configure\+\_\+\+B\+H1750}}
+\index{Configure\+\_\+\+B\+H1750@{Configure\+\_\+\+B\+H1750}!light\+\_\+control\+\_\+system.\+c@{light\+\_\+control\+\_\+system.\+c}}
+\subsubsection{\texorpdfstring{Configure\+\_\+\+B\+H1750()}{Configure\_BH1750()}}
+{\footnotesize\ttfamily void Configure\+\_\+\+B\+H1750 (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+\mbox{\Hypertarget{light__control__system_8c_afe461d27b9c48d5921c00d521181f12f}\label{light__control__system_8c_afe461d27b9c48d5921c00d521181f12f}} 
+\index{light\+\_\+control\+\_\+system.\+c@{light\+\_\+control\+\_\+system.\+c}!loop@{loop}}
+\index{loop@{loop}!light\+\_\+control\+\_\+system.\+c@{light\+\_\+control\+\_\+system.\+c}}
+\subsubsection{\texorpdfstring{loop()}{loop()}}
+{\footnotesize\ttfamily void loop (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+\mbox{\Hypertarget{light__control__system_8c_a4fc01d736fe50cf5b977f755b675f11d}\label{light__control__system_8c_a4fc01d736fe50cf5b977f755b675f11d}} 
+\index{light\+\_\+control\+\_\+system.\+c@{light\+\_\+control\+\_\+system.\+c}!setup@{setup}}
+\index{setup@{setup}!light\+\_\+control\+\_\+system.\+c@{light\+\_\+control\+\_\+system.\+c}}
+\subsubsection{\texorpdfstring{setup()}{setup()}}
+{\footnotesize\ttfamily void setup (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+
+
+\subsection{Variable Documentation}
+\mbox{\Hypertarget{light__control__system_8c_a6d490f1537c9f456aea637cce9954046}\label{light__control__system_8c_a6d490f1537c9f456aea637cce9954046}} 
+\index{light\+\_\+control\+\_\+system.\+c@{light\+\_\+control\+\_\+system.\+c}!B\+H1750\+\_\+\+Device@{B\+H1750\+\_\+\+Device}}
+\index{B\+H1750\+\_\+\+Device@{B\+H1750\+\_\+\+Device}!light\+\_\+control\+\_\+system.\+c@{light\+\_\+control\+\_\+system.\+c}}
+\subsubsection{\texorpdfstring{B\+H1750\+\_\+\+Device}{BH1750\_Device}}
+{\footnotesize\ttfamily int B\+H1750\+\_\+\+Device = 0x23}
+
+\mbox{\Hypertarget{light__control__system_8c_a983f8c20943b37976c97d5688abfe5cf}\label{light__control__system_8c_a983f8c20943b37976c97d5688abfe5cf}} 
+\index{light\+\_\+control\+\_\+system.\+c@{light\+\_\+control\+\_\+system.\+c}!in\+Serial@{in\+Serial}}
+\index{in\+Serial@{in\+Serial}!light\+\_\+control\+\_\+system.\+c@{light\+\_\+control\+\_\+system.\+c}}
+\subsubsection{\texorpdfstring{in\+Serial}{inSerial}}
+{\footnotesize\ttfamily char in\+Serial\mbox{[}15\mbox{]}}
+
+\mbox{\Hypertarget{light__control__system_8c_a6c443981ec51188cf74ec1efeab4a381}\label{light__control__system_8c_a6c443981ec51188cf74ec1efeab4a381}} 
+\index{light\+\_\+control\+\_\+system.\+c@{light\+\_\+control\+\_\+system.\+c}!lamp@{lamp}}
+\index{lamp@{lamp}!light\+\_\+control\+\_\+system.\+c@{light\+\_\+control\+\_\+system.\+c}}
+\subsubsection{\texorpdfstring{lamp}{lamp}}
+{\footnotesize\ttfamily int lamp = 13}
+
+\mbox{\Hypertarget{light__control__system_8c_a1fbc462e581bd3b7fc8ee55f52c82564}\label{light__control__system_8c_a1fbc462e581bd3b7fc8ee55f52c82564}} 
+\index{light\+\_\+control\+\_\+system.\+c@{light\+\_\+control\+\_\+system.\+c}!Lux@{Lux}}
+\index{Lux@{Lux}!light\+\_\+control\+\_\+system.\+c@{light\+\_\+control\+\_\+system.\+c}}
+\subsubsection{\texorpdfstring{Lux}{Lux}}
+{\footnotesize\ttfamily unsigned int Lux}
+
+\mbox{\Hypertarget{light__control__system_8c_ad70434610521165e614a30d4ca473ab5}\label{light__control__system_8c_ad70434610521165e614a30d4ca473ab5}} 
+\index{light\+\_\+control\+\_\+system.\+c@{light\+\_\+control\+\_\+system.\+c}!sm\+\_\+mode@{sm\+\_\+mode}}
+\index{sm\+\_\+mode@{sm\+\_\+mode}!light\+\_\+control\+\_\+system.\+c@{light\+\_\+control\+\_\+system.\+c}}
+\subsubsection{\texorpdfstring{sm\+\_\+mode}{sm\_mode}}
+{\footnotesize\ttfamily int sm\+\_\+mode = 0}
+

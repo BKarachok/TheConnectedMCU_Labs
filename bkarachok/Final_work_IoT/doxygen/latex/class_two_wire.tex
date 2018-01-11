@@ -1,0 +1,240 @@
+\hypertarget{class_two_wire}{}\section{Two\+Wire Class Reference}
+\label{class_two_wire}\index{Two\+Wire@{Two\+Wire}}
+
+
+{\ttfamily \#include $<$Wire.\+h$>$}
+
+
+
+Inherits Stream.
+
+\subsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+\hyperlink{class_two_wire_a4c7daf378c06e5e72762e1bd3d5937b6}{Two\+Wire} ()
+\item 
+void \hyperlink{class_two_wire_ada85a7a8663ec8af0a1248b659be2f18}{begin} ()
+\item 
+void \hyperlink{class_two_wire_a28bca087ed188781ef15e72622d3b1fb}{begin} (uint8\+\_\+t)
+\item 
+void \hyperlink{class_two_wire_a2806aa5684d36d7d20bf7c51cab3e602}{begin} (int)
+\item 
+void \hyperlink{class_two_wire_a13cca813f6dd0201ac70178b18ba0946}{end} ()
+\item 
+void \hyperlink{class_two_wire_a3c4aaae8779a8c34d8a1a90ff317d982}{set\+Clock} (uint32\+\_\+t)
+\item 
+void \hyperlink{class_two_wire_a8d55f00ea8ac3d7427d62e0c71e95ec2}{begin\+Transmission} (uint8\+\_\+t)
+\item 
+void \hyperlink{class_two_wire_a4da95eb4adced5dad152344243e57aad}{begin\+Transmission} (int)
+\item 
+uint8\+\_\+t \hyperlink{class_two_wire_af80f9a7b85a3a81a035ca94c95bcdc1d}{end\+Transmission} (void)
+\item 
+uint8\+\_\+t \hyperlink{class_two_wire_a289f5ef9bb0f79b31095fd72402ed54a}{end\+Transmission} (uint8\+\_\+t)
+\item 
+uint8\+\_\+t \hyperlink{class_two_wire_ae27d0936487551a05a1e9901bc456599}{request\+From} (uint8\+\_\+t, uint8\+\_\+t)
+\item 
+uint8\+\_\+t \hyperlink{class_two_wire_a4b4b618531a04d5488a52583a3dfb173}{request\+From} (uint8\+\_\+t, uint8\+\_\+t, uint8\+\_\+t)
+\item 
+uint8\+\_\+t \hyperlink{class_two_wire_acd59cc9570fd49b1cf9044cbefef85ac}{request\+From} (uint8\+\_\+t, uint8\+\_\+t, uint32\+\_\+t, uint8\+\_\+t, uint8\+\_\+t)
+\item 
+uint8\+\_\+t \hyperlink{class_two_wire_ad40a27213d0bb32f7b819aa8962fccd3}{request\+From} (int, int)
+\item 
+uint8\+\_\+t \hyperlink{class_two_wire_a3d76da36fb8571e0b5e8310e9f86f6fe}{request\+From} (int, int, int)
+\item 
+virtual size\+\_\+t \hyperlink{class_two_wire_a6850a6e981a687cc57791670121664cb}{write} (uint8\+\_\+t)
+\item 
+virtual size\+\_\+t \hyperlink{class_two_wire_aae4d6ff65d9d4953e40ebeeccd908615}{write} (const uint8\+\_\+t $\ast$, size\+\_\+t)
+\item 
+virtual int \hyperlink{class_two_wire_a2fa9c43179d08d953f199fe82d0536d9}{available} (void)
+\item 
+virtual int \hyperlink{class_two_wire_a7769632871ef9bbe8c0850a8ff8a0b5f}{read} (void)
+\item 
+virtual int \hyperlink{class_two_wire_ac347efa8f804b718763fdbaae53c406d}{peek} (void)
+\item 
+virtual void \hyperlink{class_two_wire_ae293e7890d18eb2d47e80482033d9e77}{flush} (void)
+\item 
+void \hyperlink{class_two_wire_a860d97eb825c6fdca388f2f0577cc34a}{on\+Receive} (void($\ast$)(int))
+\item 
+void \hyperlink{class_two_wire_a224bf8799dda398fc0db223801852ca5}{on\+Request} (void($\ast$)(void))
+\item 
+size\+\_\+t \hyperlink{class_two_wire_a0c9d09ead8fcddf2a84781fe77d3c975}{write} (unsigned long n)
+\item 
+size\+\_\+t \hyperlink{class_two_wire_a55a9894186458e43852f6fb7c59bb066}{write} (long n)
+\item 
+size\+\_\+t \hyperlink{class_two_wire_afdb917746ee37f72e7452b4782e9527b}{write} (unsigned int n)
+\item 
+size\+\_\+t \hyperlink{class_two_wire_a8ec34b0d2a75e8b2751eb9f4332bd7c3}{write} (int n)
+\end{DoxyCompactItemize}
+
+
+\subsection{Constructor \& Destructor Documentation}
+\mbox{\Hypertarget{class_two_wire_a4c7daf378c06e5e72762e1bd3d5937b6}\label{class_two_wire_a4c7daf378c06e5e72762e1bd3d5937b6}} 
+\index{Two\+Wire@{Two\+Wire}!Two\+Wire@{Two\+Wire}}
+\index{Two\+Wire@{Two\+Wire}!Two\+Wire@{Two\+Wire}}
+\subsubsection{\texorpdfstring{Two\+Wire()}{TwoWire()}}
+{\footnotesize\ttfamily Two\+Wire\+::\+Two\+Wire (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+
+
+\subsection{Member Function Documentation}
+\mbox{\Hypertarget{class_two_wire_a2fa9c43179d08d953f199fe82d0536d9}\label{class_two_wire_a2fa9c43179d08d953f199fe82d0536d9}} 
+\index{Two\+Wire@{Two\+Wire}!available@{available}}
+\index{available@{available}!Two\+Wire@{Two\+Wire}}
+\subsubsection{\texorpdfstring{available()}{available()}}
+{\footnotesize\ttfamily virtual int Two\+Wire\+::available (\begin{DoxyParamCaption}\item[{void}]{ }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [virtual]}}
+
+\mbox{\Hypertarget{class_two_wire_ada85a7a8663ec8af0a1248b659be2f18}\label{class_two_wire_ada85a7a8663ec8af0a1248b659be2f18}} 
+\index{Two\+Wire@{Two\+Wire}!begin@{begin}}
+\index{begin@{begin}!Two\+Wire@{Two\+Wire}}
+\subsubsection{\texorpdfstring{begin()}{begin()}\hspace{0.1cm}{\footnotesize\ttfamily [1/3]}}
+{\footnotesize\ttfamily void Two\+Wire\+::begin (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+\mbox{\Hypertarget{class_two_wire_a28bca087ed188781ef15e72622d3b1fb}\label{class_two_wire_a28bca087ed188781ef15e72622d3b1fb}} 
+\index{Two\+Wire@{Two\+Wire}!begin@{begin}}
+\index{begin@{begin}!Two\+Wire@{Two\+Wire}}
+\subsubsection{\texorpdfstring{begin()}{begin()}\hspace{0.1cm}{\footnotesize\ttfamily [2/3]}}
+{\footnotesize\ttfamily void Two\+Wire\+::begin (\begin{DoxyParamCaption}\item[{uint8\+\_\+t}]{ }\end{DoxyParamCaption})}
+
+\mbox{\Hypertarget{class_two_wire_a2806aa5684d36d7d20bf7c51cab3e602}\label{class_two_wire_a2806aa5684d36d7d20bf7c51cab3e602}} 
+\index{Two\+Wire@{Two\+Wire}!begin@{begin}}
+\index{begin@{begin}!Two\+Wire@{Two\+Wire}}
+\subsubsection{\texorpdfstring{begin()}{begin()}\hspace{0.1cm}{\footnotesize\ttfamily [3/3]}}
+{\footnotesize\ttfamily void Two\+Wire\+::begin (\begin{DoxyParamCaption}\item[{int}]{ }\end{DoxyParamCaption})}
+
+\mbox{\Hypertarget{class_two_wire_a8d55f00ea8ac3d7427d62e0c71e95ec2}\label{class_two_wire_a8d55f00ea8ac3d7427d62e0c71e95ec2}} 
+\index{Two\+Wire@{Two\+Wire}!begin\+Transmission@{begin\+Transmission}}
+\index{begin\+Transmission@{begin\+Transmission}!Two\+Wire@{Two\+Wire}}
+\subsubsection{\texorpdfstring{begin\+Transmission()}{beginTransmission()}\hspace{0.1cm}{\footnotesize\ttfamily [1/2]}}
+{\footnotesize\ttfamily void Two\+Wire\+::begin\+Transmission (\begin{DoxyParamCaption}\item[{uint8\+\_\+t}]{ }\end{DoxyParamCaption})}
+
+\mbox{\Hypertarget{class_two_wire_a4da95eb4adced5dad152344243e57aad}\label{class_two_wire_a4da95eb4adced5dad152344243e57aad}} 
+\index{Two\+Wire@{Two\+Wire}!begin\+Transmission@{begin\+Transmission}}
+\index{begin\+Transmission@{begin\+Transmission}!Two\+Wire@{Two\+Wire}}
+\subsubsection{\texorpdfstring{begin\+Transmission()}{beginTransmission()}\hspace{0.1cm}{\footnotesize\ttfamily [2/2]}}
+{\footnotesize\ttfamily void Two\+Wire\+::begin\+Transmission (\begin{DoxyParamCaption}\item[{int}]{ }\end{DoxyParamCaption})}
+
+\mbox{\Hypertarget{class_two_wire_a13cca813f6dd0201ac70178b18ba0946}\label{class_two_wire_a13cca813f6dd0201ac70178b18ba0946}} 
+\index{Two\+Wire@{Two\+Wire}!end@{end}}
+\index{end@{end}!Two\+Wire@{Two\+Wire}}
+\subsubsection{\texorpdfstring{end()}{end()}}
+{\footnotesize\ttfamily void Two\+Wire\+::end (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+\mbox{\Hypertarget{class_two_wire_af80f9a7b85a3a81a035ca94c95bcdc1d}\label{class_two_wire_af80f9a7b85a3a81a035ca94c95bcdc1d}} 
+\index{Two\+Wire@{Two\+Wire}!end\+Transmission@{end\+Transmission}}
+\index{end\+Transmission@{end\+Transmission}!Two\+Wire@{Two\+Wire}}
+\subsubsection{\texorpdfstring{end\+Transmission()}{endTransmission()}\hspace{0.1cm}{\footnotesize\ttfamily [1/2]}}
+{\footnotesize\ttfamily uint8\+\_\+t Two\+Wire\+::end\+Transmission (\begin{DoxyParamCaption}\item[{void}]{ }\end{DoxyParamCaption})}
+
+\mbox{\Hypertarget{class_two_wire_a289f5ef9bb0f79b31095fd72402ed54a}\label{class_two_wire_a289f5ef9bb0f79b31095fd72402ed54a}} 
+\index{Two\+Wire@{Two\+Wire}!end\+Transmission@{end\+Transmission}}
+\index{end\+Transmission@{end\+Transmission}!Two\+Wire@{Two\+Wire}}
+\subsubsection{\texorpdfstring{end\+Transmission()}{endTransmission()}\hspace{0.1cm}{\footnotesize\ttfamily [2/2]}}
+{\footnotesize\ttfamily uint8\+\_\+t Two\+Wire\+::end\+Transmission (\begin{DoxyParamCaption}\item[{uint8\+\_\+t}]{ }\end{DoxyParamCaption})}
+
+\mbox{\Hypertarget{class_two_wire_ae293e7890d18eb2d47e80482033d9e77}\label{class_two_wire_ae293e7890d18eb2d47e80482033d9e77}} 
+\index{Two\+Wire@{Two\+Wire}!flush@{flush}}
+\index{flush@{flush}!Two\+Wire@{Two\+Wire}}
+\subsubsection{\texorpdfstring{flush()}{flush()}}
+{\footnotesize\ttfamily virtual void Two\+Wire\+::flush (\begin{DoxyParamCaption}\item[{void}]{ }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [virtual]}}
+
+\mbox{\Hypertarget{class_two_wire_a860d97eb825c6fdca388f2f0577cc34a}\label{class_two_wire_a860d97eb825c6fdca388f2f0577cc34a}} 
+\index{Two\+Wire@{Two\+Wire}!on\+Receive@{on\+Receive}}
+\index{on\+Receive@{on\+Receive}!Two\+Wire@{Two\+Wire}}
+\subsubsection{\texorpdfstring{on\+Receive()}{onReceive()}}
+{\footnotesize\ttfamily void Two\+Wire\+::on\+Receive (\begin{DoxyParamCaption}\item[{void($\ast$)(int)}]{ }\end{DoxyParamCaption})}
+
+\mbox{\Hypertarget{class_two_wire_a224bf8799dda398fc0db223801852ca5}\label{class_two_wire_a224bf8799dda398fc0db223801852ca5}} 
+\index{Two\+Wire@{Two\+Wire}!on\+Request@{on\+Request}}
+\index{on\+Request@{on\+Request}!Two\+Wire@{Two\+Wire}}
+\subsubsection{\texorpdfstring{on\+Request()}{onRequest()}}
+{\footnotesize\ttfamily void Two\+Wire\+::on\+Request (\begin{DoxyParamCaption}\item[{void($\ast$)(void)}]{ }\end{DoxyParamCaption})}
+
+\mbox{\Hypertarget{class_two_wire_ac347efa8f804b718763fdbaae53c406d}\label{class_two_wire_ac347efa8f804b718763fdbaae53c406d}} 
+\index{Two\+Wire@{Two\+Wire}!peek@{peek}}
+\index{peek@{peek}!Two\+Wire@{Two\+Wire}}
+\subsubsection{\texorpdfstring{peek()}{peek()}}
+{\footnotesize\ttfamily virtual int Two\+Wire\+::peek (\begin{DoxyParamCaption}\item[{void}]{ }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [virtual]}}
+
+\mbox{\Hypertarget{class_two_wire_a7769632871ef9bbe8c0850a8ff8a0b5f}\label{class_two_wire_a7769632871ef9bbe8c0850a8ff8a0b5f}} 
+\index{Two\+Wire@{Two\+Wire}!read@{read}}
+\index{read@{read}!Two\+Wire@{Two\+Wire}}
+\subsubsection{\texorpdfstring{read()}{read()}}
+{\footnotesize\ttfamily virtual int Two\+Wire\+::read (\begin{DoxyParamCaption}\item[{void}]{ }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [virtual]}}
+
+\mbox{\Hypertarget{class_two_wire_ae27d0936487551a05a1e9901bc456599}\label{class_two_wire_ae27d0936487551a05a1e9901bc456599}} 
+\index{Two\+Wire@{Two\+Wire}!request\+From@{request\+From}}
+\index{request\+From@{request\+From}!Two\+Wire@{Two\+Wire}}
+\subsubsection{\texorpdfstring{request\+From()}{requestFrom()}\hspace{0.1cm}{\footnotesize\ttfamily [1/5]}}
+{\footnotesize\ttfamily uint8\+\_\+t Two\+Wire\+::request\+From (\begin{DoxyParamCaption}\item[{uint8\+\_\+t}]{,  }\item[{uint8\+\_\+t}]{ }\end{DoxyParamCaption})}
+
+\mbox{\Hypertarget{class_two_wire_a4b4b618531a04d5488a52583a3dfb173}\label{class_two_wire_a4b4b618531a04d5488a52583a3dfb173}} 
+\index{Two\+Wire@{Two\+Wire}!request\+From@{request\+From}}
+\index{request\+From@{request\+From}!Two\+Wire@{Two\+Wire}}
+\subsubsection{\texorpdfstring{request\+From()}{requestFrom()}\hspace{0.1cm}{\footnotesize\ttfamily [2/5]}}
+{\footnotesize\ttfamily uint8\+\_\+t Two\+Wire\+::request\+From (\begin{DoxyParamCaption}\item[{uint8\+\_\+t}]{,  }\item[{uint8\+\_\+t}]{,  }\item[{uint8\+\_\+t}]{ }\end{DoxyParamCaption})}
+
+\mbox{\Hypertarget{class_two_wire_acd59cc9570fd49b1cf9044cbefef85ac}\label{class_two_wire_acd59cc9570fd49b1cf9044cbefef85ac}} 
+\index{Two\+Wire@{Two\+Wire}!request\+From@{request\+From}}
+\index{request\+From@{request\+From}!Two\+Wire@{Two\+Wire}}
+\subsubsection{\texorpdfstring{request\+From()}{requestFrom()}\hspace{0.1cm}{\footnotesize\ttfamily [3/5]}}
+{\footnotesize\ttfamily uint8\+\_\+t Two\+Wire\+::request\+From (\begin{DoxyParamCaption}\item[{uint8\+\_\+t}]{,  }\item[{uint8\+\_\+t}]{,  }\item[{uint32\+\_\+t}]{,  }\item[{uint8\+\_\+t}]{,  }\item[{uint8\+\_\+t}]{ }\end{DoxyParamCaption})}
+
+\mbox{\Hypertarget{class_two_wire_ad40a27213d0bb32f7b819aa8962fccd3}\label{class_two_wire_ad40a27213d0bb32f7b819aa8962fccd3}} 
+\index{Two\+Wire@{Two\+Wire}!request\+From@{request\+From}}
+\index{request\+From@{request\+From}!Two\+Wire@{Two\+Wire}}
+\subsubsection{\texorpdfstring{request\+From()}{requestFrom()}\hspace{0.1cm}{\footnotesize\ttfamily [4/5]}}
+{\footnotesize\ttfamily uint8\+\_\+t Two\+Wire\+::request\+From (\begin{DoxyParamCaption}\item[{int}]{,  }\item[{int}]{ }\end{DoxyParamCaption})}
+
+\mbox{\Hypertarget{class_two_wire_a3d76da36fb8571e0b5e8310e9f86f6fe}\label{class_two_wire_a3d76da36fb8571e0b5e8310e9f86f6fe}} 
+\index{Two\+Wire@{Two\+Wire}!request\+From@{request\+From}}
+\index{request\+From@{request\+From}!Two\+Wire@{Two\+Wire}}
+\subsubsection{\texorpdfstring{request\+From()}{requestFrom()}\hspace{0.1cm}{\footnotesize\ttfamily [5/5]}}
+{\footnotesize\ttfamily uint8\+\_\+t Two\+Wire\+::request\+From (\begin{DoxyParamCaption}\item[{int}]{,  }\item[{int}]{,  }\item[{int}]{ }\end{DoxyParamCaption})}
+
+\mbox{\Hypertarget{class_two_wire_a3c4aaae8779a8c34d8a1a90ff317d982}\label{class_two_wire_a3c4aaae8779a8c34d8a1a90ff317d982}} 
+\index{Two\+Wire@{Two\+Wire}!set\+Clock@{set\+Clock}}
+\index{set\+Clock@{set\+Clock}!Two\+Wire@{Two\+Wire}}
+\subsubsection{\texorpdfstring{set\+Clock()}{setClock()}}
+{\footnotesize\ttfamily void Two\+Wire\+::set\+Clock (\begin{DoxyParamCaption}\item[{uint32\+\_\+t}]{ }\end{DoxyParamCaption})}
+
+\mbox{\Hypertarget{class_two_wire_a6850a6e981a687cc57791670121664cb}\label{class_two_wire_a6850a6e981a687cc57791670121664cb}} 
+\index{Two\+Wire@{Two\+Wire}!write@{write}}
+\index{write@{write}!Two\+Wire@{Two\+Wire}}
+\subsubsection{\texorpdfstring{write()}{write()}\hspace{0.1cm}{\footnotesize\ttfamily [1/6]}}
+{\footnotesize\ttfamily virtual size\+\_\+t Two\+Wire\+::write (\begin{DoxyParamCaption}\item[{uint8\+\_\+t}]{ }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [virtual]}}
+
+\mbox{\Hypertarget{class_two_wire_aae4d6ff65d9d4953e40ebeeccd908615}\label{class_two_wire_aae4d6ff65d9d4953e40ebeeccd908615}} 
+\index{Two\+Wire@{Two\+Wire}!write@{write}}
+\index{write@{write}!Two\+Wire@{Two\+Wire}}
+\subsubsection{\texorpdfstring{write()}{write()}\hspace{0.1cm}{\footnotesize\ttfamily [2/6]}}
+{\footnotesize\ttfamily virtual size\+\_\+t Two\+Wire\+::write (\begin{DoxyParamCaption}\item[{const uint8\+\_\+t $\ast$}]{,  }\item[{size\+\_\+t}]{ }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [virtual]}}
+
+\mbox{\Hypertarget{class_two_wire_a0c9d09ead8fcddf2a84781fe77d3c975}\label{class_two_wire_a0c9d09ead8fcddf2a84781fe77d3c975}} 
+\index{Two\+Wire@{Two\+Wire}!write@{write}}
+\index{write@{write}!Two\+Wire@{Two\+Wire}}
+\subsubsection{\texorpdfstring{write()}{write()}\hspace{0.1cm}{\footnotesize\ttfamily [3/6]}}
+{\footnotesize\ttfamily size\+\_\+t Two\+Wire\+::write (\begin{DoxyParamCaption}\item[{unsigned long}]{n }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [inline]}}
+
+\mbox{\Hypertarget{class_two_wire_a55a9894186458e43852f6fb7c59bb066}\label{class_two_wire_a55a9894186458e43852f6fb7c59bb066}} 
+\index{Two\+Wire@{Two\+Wire}!write@{write}}
+\index{write@{write}!Two\+Wire@{Two\+Wire}}
+\subsubsection{\texorpdfstring{write()}{write()}\hspace{0.1cm}{\footnotesize\ttfamily [4/6]}}
+{\footnotesize\ttfamily size\+\_\+t Two\+Wire\+::write (\begin{DoxyParamCaption}\item[{long}]{n }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [inline]}}
+
+\mbox{\Hypertarget{class_two_wire_afdb917746ee37f72e7452b4782e9527b}\label{class_two_wire_afdb917746ee37f72e7452b4782e9527b}} 
+\index{Two\+Wire@{Two\+Wire}!write@{write}}
+\index{write@{write}!Two\+Wire@{Two\+Wire}}
+\subsubsection{\texorpdfstring{write()}{write()}\hspace{0.1cm}{\footnotesize\ttfamily [5/6]}}
+{\footnotesize\ttfamily size\+\_\+t Two\+Wire\+::write (\begin{DoxyParamCaption}\item[{unsigned int}]{n }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [inline]}}
+
+\mbox{\Hypertarget{class_two_wire_a8ec34b0d2a75e8b2751eb9f4332bd7c3}\label{class_two_wire_a8ec34b0d2a75e8b2751eb9f4332bd7c3}} 
+\index{Two\+Wire@{Two\+Wire}!write@{write}}
+\index{write@{write}!Two\+Wire@{Two\+Wire}}
+\subsubsection{\texorpdfstring{write()}{write()}\hspace{0.1cm}{\footnotesize\ttfamily [6/6]}}
+{\footnotesize\ttfamily size\+\_\+t Two\+Wire\+::write (\begin{DoxyParamCaption}\item[{int}]{n }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [inline]}}
+
+
+
+The documentation for this class was generated from the following file\+:\begin{DoxyCompactItemize}
+\item 
+D\+:/\+G\+I\+T/\+The\+Connected\+M\+C\+U\+\_\+\+Labs/bkarachok/\+Final\+\_\+work\+\_\+\+Io\+T/\hyperlink{_wire_8h}{Wire.\+h}\end{DoxyCompactItemize}
